@@ -1,0 +1,42 @@
+# Branch Versioning Pipeline — GitHub Actions
+# Creates version tags on push to development
+
+name: Development - Create Version Tag
+
+on:
+  push:
+    branches:
+      - development
+
+permissions:
+  contents: write
+
+jobs:
+  versioning:
+    name: Development - Create Tag
+    runs-on: ubuntu-latest
+    container:
+      image: alpine:3.19
+
+    steps:
+      - name: Install dependencies
+        run: |
+          apk add --no-cache bash git curl jq coreutils tzdata gettext
+          curl -sSL https://github.com/mikefarah/yq/releases/download/v4.35.1/yq_linux_amd64 -o /usr/local/bin/yq && chmod +x /usr/local/bin/yq
+
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Run versioning pipe
+        env:
+          VERSIONING_BRANCH: ${{ github.ref_name }}
+          VERSIONING_COMMIT: ${{ github.sha }}
+        run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          bash versioning/pipe.sh
