@@ -1,7 +1,6 @@
-# PR Versioning Pipeline — GitHub Actions
-# Maps GitHub env vars to VERSIONING_* generic interface
+# PR Versioning — validate commits and generate CHANGELOG
 
-name: PR - Versioning Pipeline
+name: PR - Versioning
 
 on:
   pull_request:
@@ -14,40 +13,9 @@ permissions:
 
 jobs:
   versioning:
-    name: PR - Generate CHANGELOG
-    runs-on: ubuntu-latest
-    container:
-      image: alpine:3.19
-
-    steps:
-      - name: Install dependencies
-        run: |
-          apk add --no-cache bash git curl jq coreutils tzdata gettext
-          curl -sSL https://github.com/mikefarah/yq/releases/download/v4.35.1/yq_linux_amd64 -o /usr/local/bin/yq && chmod +x /usr/local/bin/yq
-
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Run versioning pipe
-        env:
-          VERSIONING_PR_ID: ${{ github.event.pull_request.number }}
-          VERSIONING_BRANCH: ${{ github.head_ref }}
-          VERSIONING_TARGET_BRANCH: ${{ github.base_ref }}
-          VERSIONING_COMMIT: ${{ github.event.pull_request.head.sha }}
-        run: |
-          # Configure git for pushing
-          git config --global --add safe.directory "$GITHUB_WORKSPACE"
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Fetch the target branch
-          git fetch origin "$VERSIONING_TARGET_BRANCH:$VERSIONING_TARGET_BRANCH" || true
-
-          # Checkout the PR branch (not detached HEAD)
-          git checkout "$VERSIONING_BRANCH"
-
-          # Run the pipe
-          bash versioning/pipe.sh
+    uses: ./.github/workflows/run-versioning.yml
+    with:
+      pr_id: ${{ github.event.pull_request.number }}
+      branch: ${{ github.head_ref }}
+      target_branch: ${{ github.base_ref }}
+      commit: ${{ github.event.pull_request.head.sha }}
