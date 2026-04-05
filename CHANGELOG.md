@@ -26,3 +26,11 @@
   - [Commit: 7ce8a65](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7ce8a65fc6f42039a424e4b55535cc8a645cd13d)
 
 
+## 0.2.0.20260405010426 - 2026-04-05
+
+- **KAN-1** - feat: test v1.0.3 with configure-git fix
+  - _agustin.manessi_
+  - [View in Jira](https://panoragrowth.atlassian.net/browse/KAN-1)
+  - [Commit: 52f6cad](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/52f6cad5746aaee63749597b01b49b914d40d1b9)
+
+
