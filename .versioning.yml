@@ -11,7 +11,7 @@ tickets:
   url: "https://panoragrowth.atlassian.net/browse"
 
 version:
-  tag_prefix_v: false
+  tag_prefix_v: true
   components:
     period:
       enabled: true
