@@ -26,3 +26,11 @@
   - [Commit: 5f2f4ef](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5f2f4ef859f5585ee52359ec3354969324ff2266)
 
 
+## v0.1.0-2 - 2026-04-06
+
+- **KAN-4** - feat: test changelog generation in branch pipeline
+  - _agustin.manessi_
+  - [View in Jira](https://panoragrowth.atlassian.net/browse/KAN-4)
+  - [Commit: d9ecd0b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d9ecd0ba86861ba43e929bb1edc2e235274f7593)
+
+
