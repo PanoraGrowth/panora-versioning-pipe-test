@@ -22,8 +22,7 @@ version:
       enabled: true
       initial: 0
     timestamp:
-      enabled: true
-      timezone: "UTC"
+      enabled: false
 
 changelog:
   title: "Changelog"
