@@ -10,3 +10,11 @@
   - [Commit: 724446d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/724446ddaf1e9468c58f3a9c5c814fb43030427f)
 
 
+## 0.1.0 - 2026-04-06
+
+- **KAN-2** - feat: test timestamp disabled mode
+  - _agustin.manessi_
+  - [View in Jira](https://panoragrowth.atlassian.net/browse/KAN-2)
+  - [Commit: 07b20a9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/07b20a95ebdec5f4239f549e00f509e2ff541f59)
+
+
