@@ -82,3 +82,11 @@
   - [Commit: 4229e6a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4229e6a5363ee28f07cbddf7352aa4c9a9d36385)
 
 
+## v0.2.3 - 2026-04-06
+
+- **KAN-205** - chore: restore v-prefix config
+  - _agustin.manessi_
+  - [View in Jira](https://panoragrowth.atlassian.net/browse/KAN-205)
+  - [Commit: 0d496c0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0d496c08688af17a9aded832a934533111817c8f)
+
+
