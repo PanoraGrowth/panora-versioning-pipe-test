@@ -23,7 +23,7 @@ version:
       enabled: true
       initial: 0
     timestamp:
-      enabled: false
+      enabled: true
 
 changelog:
   title: "Changelog"
