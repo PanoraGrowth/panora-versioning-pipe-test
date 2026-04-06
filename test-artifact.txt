@@ -1,3 +1,4 @@
 test timestamp enabled
 test timestamp disabled
 test v prefix
+test changelog in branch pipeline
