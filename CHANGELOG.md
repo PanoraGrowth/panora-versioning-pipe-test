@@ -58,3 +58,11 @@
   - [Commit: 978f674](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/978f67483e8b79135f3e9bbef60f390b7c1ec7d7)
 
 
+## v0.2.2 - 2026-04-06
+
+- **KAN-202** - chore: cleanup dependencies
+  - _agustin.manessi_
+  - [View in Jira](https://panoragrowth.atlassian.net/browse/KAN-202)
+  - [Commit: 1fc4858](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1fc4858f6b0a4025c37b6946caa197f0a7f2b07b)
+
+
