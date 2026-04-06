@@ -42,3 +42,11 @@
   - [Commit: 2cf387c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2cf387c0b08be4416fb80d4b5ea453f39b65570d)
 
 
+## v0.2.0 - 2026-04-06
+
+- **KAN-200** - feat: add feature with ticket
+  - _agustin.manessi_
+  - [View in Jira](https://panoragrowth.atlassian.net/browse/KAN-200)
+  - [Commit: 359d76a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/359d76ad9fcab0b032d9038e64e41ea65d2d3127)
+
+
