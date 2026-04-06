@@ -90,3 +90,11 @@
   - [Commit: 0d496c0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0d496c08688af17a9aded832a934533111817c8f)
 
 
+## v0.2.4 - 2026-04-06
+
+- **KAN-206** - refactor: improve code structure
+  - _agustin.manessi_
+  - [View in Jira](https://panoragrowth.atlassian.net/browse/KAN-206)
+  - [Commit: 087a2d3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/087a2d381dcbcd8ab225b53b19c3810e0889836c)
+
+
