@@ -34,3 +34,11 @@
   - [Commit: d9ecd0b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d9ecd0ba86861ba43e929bb1edc2e235274f7593)
 
 
+## v0.1.1 - 2026-04-06
+
+- **KAN-5** - chore: remove local versioning scripts, pipe runs from Docker image
+  - _agustin.manessi_
+  - [View in Jira](https://panoragrowth.atlassian.net/browse/KAN-5)
+  - [Commit: 2cf387c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2cf387c0b08be4416fb80d4b5ea453f39b65570d)
+
+
