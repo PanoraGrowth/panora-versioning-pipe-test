@@ -50,3 +50,11 @@
   - [Commit: 359d76a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/359d76ad9fcab0b032d9038e64e41ea65d2d3127)
 
 
+## v0.2.1 - 2026-04-06
+
+- **KAN-201** - fix: resolve minor bug
+  - _agustin.manessi_
+  - [View in Jira](https://panoragrowth.atlassian.net/browse/KAN-201)
+  - [Commit: 978f674](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/978f67483e8b79135f3e9bbef60f390b7c1ec7d7)
+
+
