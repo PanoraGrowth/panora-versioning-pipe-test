@@ -66,3 +66,11 @@
   - [Commit: 1fc4858](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1fc4858f6b0a4025c37b6946caa197f0a7f2b07b)
 
 
+## v0.2.0.20260406224948 - 2026-04-06
+
+- **KAN-203** - feat: enable timestamp in version
+  - _agustin.manessi_
+  - [View in Jira](https://panoragrowth.atlassian.net/browse/KAN-203)
+  - [Commit: 3afa7f1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3afa7f1b0b6158cdd25f6f8586f9148dc2fc44de)
+
+
