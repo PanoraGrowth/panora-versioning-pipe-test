@@ -13,7 +13,8 @@ tickets:
 version:
   components:
     period:
-      enabled: false
+      enabled: true
+      initial: 0
     major:
       enabled: true
       initial: 1
