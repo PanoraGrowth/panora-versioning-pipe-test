@@ -4,3 +4,4 @@ test v prefix
 test changelog in branch pipeline
 test
 fix test
+chore test
