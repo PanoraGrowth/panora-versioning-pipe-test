@@ -5,3 +5,4 @@ test changelog in branch pipeline
 test
 fix test
 chore test
+refactor
