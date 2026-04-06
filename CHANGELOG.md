@@ -74,3 +74,11 @@
   - [Commit: 3afa7f1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3afa7f1b0b6158cdd25f6f8586f9148dc2fc44de)
 
 
+## 0.2.0 - 2026-04-06
+
+- **KAN-204** - feat: test v-prefix off and timestamp off
+  - _agustin.manessi_
+  - [View in Jira](https://panoragrowth.atlassian.net/browse/KAN-204)
+  - [Commit: 4229e6a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4229e6a5363ee28f07cbddf7352aa4c9a9d36385)
+
+
