@@ -114,3 +114,10 @@
   - [Commit: fb4a990](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/fb4a990978a1de1b27950bf757dae5a42f355aab)
 
 
+## v0.16.1 - 2026-04-07
+
+- chore: restore folders config to backend+frontend after test 4.2.22
+  - _agustin.manessi_
+  - [Commit: e5cb690](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e5cb6901543b921f319f60074303a9468dad412c)
+
+
