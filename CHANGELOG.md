@@ -98,3 +98,10 @@
   - [Commit: 087a2d3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/087a2d381dcbcd8ab225b53b19c3810e0889836c)
 
 
+## v0.3.0 - 2026-04-07
+
+- feat(cluster-ecs): add ECS cluster configuration
+  - _agustin.manessi_
+  - [Commit: 184bbdc](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/184bbdcb26c96e1c781642298e3e304255424cb2)
+
+
