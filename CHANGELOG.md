@@ -147,3 +147,10 @@
   - [Commit: acd9986](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/acd99866e8d9bf4cbb74cab13b038895b8f6b179)
 
 
+## v0.7.0 - 2026-04-07
+
+- breaking: remove deprecated API
+  - _agustin.manessi_
+  - [Commit: 3721f9e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3721f9e9ab8ecb8fec5f6927e44581fea4865c59)
+
+
