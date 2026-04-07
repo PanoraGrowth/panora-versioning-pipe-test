@@ -158,3 +158,10 @@
   - [Commit: cec1e1b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cec1e1b650b7838e91802a3519f53c245ed9d1a4)
 
 
+## v0.18.4 - 2026-04-07
+
+- chore: restore config to full mode + per_folder enabled after test 4.2.34
+  - _agustin.manessi_
+  - [Commit: ef24c1c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ef24c1cc8afc8f8832d6ec95afa01203b6f96910)
+
+
