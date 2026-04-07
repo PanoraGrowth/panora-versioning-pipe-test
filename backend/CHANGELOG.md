@@ -9,3 +9,11 @@
   [Commit: 2efaf12](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2efaf1247be688eef5df4ce12721873f4d69c22b)
 
 
+
+## v0.3.0 - 2026-04-07
+
+- **feat**: add CDN configuration
+  _agustin.manessi_
+  [Commit: 577495e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/577495e1302a38143b945cf0e7d294472463b529)
+
+
