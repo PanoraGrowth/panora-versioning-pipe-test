@@ -2,10 +2,11 @@ commits:
   format: "conventional"
 
 version:
-  tag_prefix_v: false
+  tag_prefix_v: true
   components:
     period:
-      enabled: false
+      enabled: true
+      initial: 0
     major:
       enabled: true
       initial: 1
