@@ -144,3 +144,10 @@
   - [Commit: 9772d39](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9772d399948c30f2e69fd67c84fc75f90dae1207)
 
 
+## v0.18.2 - 2026-04-07
+
+- docs: update API reference
+  - _agustin.manessi_
+  - [Commit: 7af8fb0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7af8fb03e8db28ae3197f2903e7308a6af94bbc1)
+
+
