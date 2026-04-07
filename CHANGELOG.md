@@ -65,3 +65,10 @@
   - [Commit: 76ad3d1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/76ad3d1914dacd34aad7e522f48079ff8734f779)
 
 
+## v0.11.1 - 2026-04-07
+
+- chore: restore per_folder config after batch 3 tests
+  - _agustin.manessi_
+  - [Commit: 588c04b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/588c04b2eacd37ed5e8a7558f490f99bc4020e28)
+
+
