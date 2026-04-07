@@ -49,3 +49,11 @@
   [Commit: f62a243](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f62a24358e032f00423023d8904f40a2894255b1)
 
 
+
+## v0.14.0 - 2026-04-07
+
+- **feat**: add crypto helpers
+  _agustin.manessi_
+  [Commit: 8e4416d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8e4416dc5feac675404857ca1cad1eeb48b0469b)
+
+

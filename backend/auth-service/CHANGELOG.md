@@ -17,3 +17,11 @@
   [Commit: cfc567e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cfc567e9730386e30a50a54c5ad865d44e0715e5)
 
 
+
+## v0.14.0 - 2026-04-07
+
+- **feat**: add token rotation
+  _agustin.manessi_
+  [Commit: 7ffad05](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7ffad05cf612f78e721ce1fdc279fb40f3f9906a)
+
+
