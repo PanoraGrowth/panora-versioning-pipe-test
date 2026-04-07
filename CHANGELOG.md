@@ -119,3 +119,10 @@
   - [Commit: 6e83e39](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6e83e395db483ae5c0e6ca1fbdaf5bbecd75f12a)
 
 
+## v0.5.1 - 2026-04-07
+
+- fix(networking): fix route tables
+  - _agustin.manessi_
+  - [Commit: dc98106](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/dc98106222f213ec2c544f49f6c3ce24eeb24532)
+
+
