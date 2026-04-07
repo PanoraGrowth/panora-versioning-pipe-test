@@ -30,3 +30,10 @@
   - [Commit: 01e2953](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/01e29538118cc82c742099f8987c2830f74a1a53)
 
 
+## v0.5.2 - 2026-04-07
+
+- fix(scripts): improve deploy error handling
+  - _agustin.manessi_
+  - [Commit: 5715c95](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5715c951da43511bbeda72126faf46b1eb283424)
+
+
