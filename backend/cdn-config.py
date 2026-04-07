@@ -1,1 +1,1 @@
-# CDN
+# edge caching
