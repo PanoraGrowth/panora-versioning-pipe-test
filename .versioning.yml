@@ -1,6 +1,3 @@
-# .versioning.yml - Test configuration for per-folder CHANGELOG
-# Switched to conventional format (required for per-folder)
-
 commits:
   format: "conventional"
 
@@ -8,8 +5,7 @@ version:
   tag_prefix_v: true
   components:
     period:
-      enabled: true
-      initial: 0
+      enabled: false
     major:
       enabled: true
       initial: 1
@@ -22,18 +18,8 @@ version:
 changelog:
   title: "Changelog"
   commit_url: "https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit"
-  per_folder:
-    enabled: true
-    root_folders:
-      - "infrastructure"
-    folder_pattern: "^[0-9]{3}-"
-    scope_matching: "suffix"
 
 branches:
   development: "development"
   production: "main"
   tag_on: "development"
-
-notifications:
-  teams:
-    enabled: false
