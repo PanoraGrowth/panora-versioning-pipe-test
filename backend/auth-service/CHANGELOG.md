@@ -45,3 +45,11 @@
   [Commit: d1a68fa](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d1a68fa7e84d98b8f808aad1309b9aa9296c18a7)
 
 
+
+## v0.18.1 - 2026-04-07
+
+- **fix**: fix session expiry
+  _agustin.manessi_
+  [Commit: f0759b5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f0759b526378b83dc0415ca12163519d63c3c6cd)
+
+
