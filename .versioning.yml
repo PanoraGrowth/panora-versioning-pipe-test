@@ -30,4 +30,4 @@ changelog:
       - "backend"
       - "frontend"
     scope_matching: "exact"
-    fallback: "file_path"
+    fallback: "root"
