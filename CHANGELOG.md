@@ -107,3 +107,10 @@
   - [Commit: dbe4365](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/dbe4365e846a257553eec2e3e840c63fa0042dca)
 
 
+## v0.16.0 - 2026-04-07
+
+- feat(infra): add autoscaling policy
+  - _agustin.manessi_
+  - [Commit: fb4a990](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/fb4a990978a1de1b27950bf757dae5a42f355aab)
+
+

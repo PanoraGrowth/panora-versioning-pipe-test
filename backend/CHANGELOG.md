@@ -69,3 +69,11 @@
   [Commit: 9d34c5c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9d34c5c662b11baa14e25e600dca1d26c9f42141)
 
 
+
+## v0.16.0 - 2026-04-07
+
+- **feat**: add logging utility
+  _agustin.manessi_
+  [Commit: f55d99c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f55d99c1d2c5f34d1498819e39012f420d3ba873)
+
+

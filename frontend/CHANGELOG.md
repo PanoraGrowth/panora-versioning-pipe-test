@@ -57,3 +57,11 @@
   [Commit: bb79823](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bb7982327dcb11c4b198b53f95ffa5d71502beb5)
 
 
+
+## v0.16.0 - 2026-04-07
+
+- **fix**: fix dark mode toggle
+  _agustin.manessi_
+  [Commit: 4409481](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4409481c19973b8d1b246a5060959a001f261b71)
+
+
