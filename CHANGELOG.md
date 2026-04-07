@@ -93,3 +93,10 @@
   - [Commit: 8848a50](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8848a50680ef1a363991f8953837e06900b5cb09)
 
 
+## v0.14.2 - 2026-04-07
+
+- chore: restore config to mode full after batch 4 tests
+  - _agustin.manessi_
+  - [Commit: d58f906](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d58f9061d3a9b5b9781158bc89fce0a1f81b24cd)
+
+
