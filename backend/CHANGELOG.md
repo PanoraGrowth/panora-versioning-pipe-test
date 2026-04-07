@@ -41,3 +41,11 @@
   [Commit: 8b021e6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8b021e6768f87e5fd16642d9138f33b880a9ad40)
 
 
+
+## v0.13.0 - 2026-04-07
+
+- **feat**: add API rate limiting
+  _agustin.manessi_
+  [Commit: f62a243](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f62a24358e032f00423023d8904f40a2894255b1)
+
+

@@ -79,3 +79,10 @@
   - [Commit: 597c785](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/597c78539c84bcb733827303c24279645d4e969e)
 
 
+## v0.13.0 - 2026-04-07
+
+- feat: add general utility
+  - _agustin.manessi_
+  - [Commit: 25f4cf3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/25f4cf37d4280851005812ea861cf26633871bc4)
+
+
