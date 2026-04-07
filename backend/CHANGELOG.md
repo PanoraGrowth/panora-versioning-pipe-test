@@ -17,3 +17,11 @@
   [Commit: 577495e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/577495e1302a38143b945cf0e7d294472463b529)
 
 
+
+## v0.11.2 - 2026-04-07
+
+- **feat**: add new shared utility
+  _agustin.manessi_
+  [Commit: 67f0bb6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/67f0bb6bdd260f95b451ebf043ddb809ce43453c)
+
+
