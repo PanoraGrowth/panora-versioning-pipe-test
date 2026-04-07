@@ -27,7 +27,6 @@ changelog:
   per_folder:
     enabled: true
     folders:
-      - "backend"
-      - "frontend"
+      - "noexiste"
     scope_matching: "exact"
     fallback: "root"
