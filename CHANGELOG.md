@@ -126,3 +126,10 @@
   - [Commit: dc98106](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/dc98106222f213ec2c544f49f6c3ce24eeb24532)
 
 
+## 2.0 - 2026-04-07
+
+- feat: test period OFF timestamp OFF no v-prefix
+  - _agustin.manessi_
+  - [Commit: d5374d2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d5374d28b740a96b768e61d2e4f7e63ae348ab47)
+
+
