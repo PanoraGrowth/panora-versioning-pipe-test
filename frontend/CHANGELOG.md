@@ -33,3 +33,11 @@
   [Commit: c781ecd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c781ecdc42a2dc88ca8cd3ee14bf9a2095dea9ac)
 
 
+
+## v0.14.1 - 2026-04-07
+
+- **fix**: second commit is last
+  _agustin.manessi_
+  [Commit: 6b83cc4](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6b83cc4cda30c69b8dbea4733913f7b32869e2a8)
+
+

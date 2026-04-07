@@ -86,3 +86,10 @@
   - [Commit: 25f4cf3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/25f4cf37d4280851005812ea861cf26633871bc4)
 
 
+## v0.14.1 - 2026-04-07
+
+- feat(backend): first commit ignored
+  - _agustin.manessi_
+  - [Commit: 8848a50](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8848a50680ef1a363991f8953837e06900b5cb09)
+
+
