@@ -85,3 +85,11 @@
   [Commit: 7ee2076](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7ee2076067e444896dcf8284abab2cac610305a1)
 
 
+
+## v0.19.0 - 2026-04-07
+
+- **feat**: add serialization helpers
+  _agustin.manessi_
+  [Commit: b94afda](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b94afdadb6d7b565b29622c14a5a0d77a8d6db62)
+
+

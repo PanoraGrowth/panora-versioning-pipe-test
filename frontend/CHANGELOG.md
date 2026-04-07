@@ -65,3 +65,11 @@
   [Commit: 4409481](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4409481c19973b8d1b246a5060959a001f261b71)
 
 
+
+## v0.19.0 - 2026-04-07
+
+- **fix**: fix tooltip positioning
+  _agustin.manessi_
+  [Commit: d5edbd7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d5edbd7320e6c812e38a97691d4a8d8e8b7889b1)
+
+
