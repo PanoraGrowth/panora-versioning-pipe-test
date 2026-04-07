@@ -151,3 +151,10 @@
   - [Commit: 7af8fb0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7af8fb03e8db28ae3197f2903e7308a6af94bbc1)
 
 
+## v0.18.3 - 2026-04-07
+
+- fix(frontend): fix image loading
+  - _agustin.manessi_
+  - [Commit: cec1e1b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cec1e1b650b7838e91802a3519f53c245ed9d1a4)
+
+
