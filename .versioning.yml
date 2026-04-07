@@ -25,7 +25,7 @@ changelog:
   include_commit_link: true
   include_ticket_link: false
   per_folder:
-    enabled: true
+    enabled: false
     folders:
       - "backend"
       - "frontend"
