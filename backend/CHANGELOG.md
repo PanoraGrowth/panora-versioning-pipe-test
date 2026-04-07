@@ -25,3 +25,11 @@
   [Commit: 67f0bb6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/67f0bb6bdd260f95b451ebf043ddb809ce43453c)
 
 
+
+## v0.12.0 - 2026-04-07
+
+- **fix**: fix helper B
+  _agustin.manessi_
+  [Commit: 7291440](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7291440dd9a4493e28075b2bf352192544d7b621)
+
+
