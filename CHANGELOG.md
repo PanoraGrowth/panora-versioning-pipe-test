@@ -51,3 +51,10 @@
   - [Commit: 9b4e266](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9b4e2666c3451f5eb332db46c52452e617418210)
 
 
+## v0.10.0 - 2026-04-07
+
+- feat(cloudfront): configure CDN distribution
+  - _agustin.manessi_
+  - [Commit: 3b5bae5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3b5bae5d6cea14a28414dd2de8fb2b2b7c3b27bb)
+
+
