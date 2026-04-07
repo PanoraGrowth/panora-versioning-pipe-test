@@ -58,3 +58,10 @@
   - [Commit: 3b5bae5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3b5bae5d6cea14a28414dd2de8fb2b2b7c3b27bb)
 
 
+## v0.11.0 - 2026-04-07
+
+- feat(noexiste): test nonexistent folder
+  - _agustin.manessi_
+  - [Commit: 76ad3d1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/76ad3d1914dacd34aad7e522f48079ff8734f779)
+
+
