@@ -121,3 +121,16 @@
   - [Commit: e5cb690](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e5cb6901543b921f319f60074303a9468dad412c)
 
 
+## v0.16.3 - 2026-04-07
+
+- docs: update getting started guide
+  - _agustin.manessi_
+  - [Commit: 3115207](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/311520765600aed68eb8f08533124e9d11f6b49e)
+- fix(scripts): fix deploy timeout
+  - _agustin.manessi_
+  - [Commit: b4d5c23](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b4d5c230a479ea211a579ce2e1332f3620b7afd4)
+- docs: update system diagram
+  - _agustin.manessi_
+  - [Commit: 98f1b20](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/98f1b2070f9fd48dc3d87fb11cee2b695b4484cb)
+
+
