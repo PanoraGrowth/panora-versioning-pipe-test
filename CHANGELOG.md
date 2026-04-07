@@ -37,3 +37,10 @@
   - [Commit: 5715c95](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5715c951da43511bbeda72126faf46b1eb283424)
 
 
+## v0.6.0 - 2026-04-07
+
+- feat(api): full stack API integration
+  - _agustin.manessi_
+  - [Commit: b124955](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b124955d5bdcddfea0bcd7aa126369db0aef8f28)
+
+
