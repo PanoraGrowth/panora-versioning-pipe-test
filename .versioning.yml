@@ -19,7 +19,7 @@ branches:
   tag_on: "main"
 
 changelog:
-  mode: "last_commit"
+  mode: "full"
   commit_url: "https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit"
   include_author: true
   include_commit_link: true
