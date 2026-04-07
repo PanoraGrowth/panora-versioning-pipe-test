@@ -57,3 +57,15 @@
   [Commit: 8e4416d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8e4416dc5feac675404857ca1cad1eeb48b0469b)
 
 
+
+## v0.15.0 - 2026-04-07
+- **feat**: add helper function alpha
+  _agustin.manessi_
+  [Commit: a96dfb8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a96dfb8cbe01d0e9fcb1929dafb3023799e92c6f)
+
+
+- **fix**: fix gateway timeout handling
+  _agustin.manessi_
+  [Commit: 9d34c5c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9d34c5c662b11baa14e25e600dca1d26c9f42141)
+
+

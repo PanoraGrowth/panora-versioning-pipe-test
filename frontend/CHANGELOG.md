@@ -41,3 +41,11 @@
   [Commit: 6b83cc4](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6b83cc4cda30c69b8dbea4733913f7b32869e2a8)
 
 
+
+## v0.15.0 - 2026-04-07
+
+- **feat**: add swipe navigation
+  _agustin.manessi_
+  [Commit: 1546d46](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1546d46923a296bd388b0a8103a3db61023188a5)
+
+
