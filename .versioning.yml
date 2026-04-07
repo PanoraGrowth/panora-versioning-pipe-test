@@ -1,0 +1,33 @@
+commits:
+  format: "conventional"
+
+version:
+  tag_prefix_v: true
+  components:
+    period:
+      enabled: true
+    major:
+      enabled: true
+    minor:
+      enabled: true
+    timestamp:
+      enabled: false
+
+branches:
+  development: "main"
+  production: "main"
+  tag_on: "main"
+
+changelog:
+  mode: "last_commit"
+  commit_url: "https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit"
+  include_author: true
+  include_commit_link: true
+  include_ticket_link: false
+  per_folder:
+    enabled: true
+    folders:
+      - "backend"
+      - "frontend"
+    scope_matching: "exact"
+    fallback: "file_path"
