@@ -21,3 +21,4 @@ def helper(): pass
 # logging utility
 # utils ignored
 # encryption helpers
+# compression utils
