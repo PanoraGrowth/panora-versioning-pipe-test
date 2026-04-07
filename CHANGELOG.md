@@ -23,3 +23,10 @@
   - [Commit: 956adf5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/956adf568afe8de4218e877e77a420d15ca01418)
 
 
+## v0.5.1 - 2026-04-07
+
+- chore: restore per_folder.enabled to true for batch 2 tests
+  - _agustin.manessi_
+  - [Commit: 01e2953](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/01e29538118cc82c742099f8987c2830f74a1a53)
+
+
