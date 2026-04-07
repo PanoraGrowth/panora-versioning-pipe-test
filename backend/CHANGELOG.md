@@ -33,3 +33,11 @@
   [Commit: 7291440](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7291440dd9a4493e28075b2bf352192544d7b621)
 
 
+
+## v0.12.1 - 2026-04-07
+
+- **feat**: add caching layer
+  _agustin.manessi_
+  [Commit: 8b021e6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8b021e6768f87e5fd16642d9138f33b880a9ad40)
+
+

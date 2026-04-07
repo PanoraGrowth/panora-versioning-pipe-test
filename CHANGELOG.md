@@ -72,3 +72,10 @@
   - [Commit: 588c04b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/588c04b2eacd37ed5e8a7558f490f99bc4020e28)
 
 
+## v0.12.1 - 2026-04-07
+
+- docs: update project README
+  - _agustin.manessi_
+  - [Commit: 597c785](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/597c78539c84bcb733827303c24279645d4e969e)
+
+

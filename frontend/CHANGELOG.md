@@ -25,3 +25,11 @@
   [Commit: ff75eb8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ff75eb85effa846350860a4577fc1069216dbcfe)
 
 
+
+## v0.12.1 - 2026-04-07
+
+- **fix**: fix form validation
+  _agustin.manessi_
+  [Commit: c781ecd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c781ecdc42a2dc88ca8cd3ee14bf9a2095dea9ac)
+
+
