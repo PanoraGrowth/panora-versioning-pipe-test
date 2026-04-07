@@ -134,3 +134,13 @@
   - [Commit: 98f1b20](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/98f1b2070f9fd48dc3d87fb11cee2b695b4484cb)
 
 
+## v0.18.0 - 2026-04-07
+
+- feat(monitoring): add alerting rules
+  - _agustin.manessi_
+  - [Commit: 8271278](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8271278326a12d1a5cb381812ca3accc7cfb88c1)
+- docs: update changelog documentation
+  - _agustin.manessi_
+  - [Commit: 9772d39](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9772d399948c30f2e69fd67c84fc75f90dae1207)
+
+
