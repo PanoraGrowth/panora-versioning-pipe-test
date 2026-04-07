@@ -44,3 +44,10 @@
   - [Commit: b124955](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b124955d5bdcddfea0bcd7aa126369db0aef8f28)
 
 
+## v0.7.0 - 2026-04-07
+
+- docs: update architecture documentation
+  - _agustin.manessi_
+  - [Commit: 9b4e266](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9b4e2666c3451f5eb332db46c52452e617418210)
+
+
