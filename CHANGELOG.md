@@ -105,3 +105,10 @@
   - [Commit: 184bbdc](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/184bbdcb26c96e1c781642298e3e304255424cb2)
 
 
+## v0.4.0 - 2026-04-07
+
+- feat(unknown): test unknown scope
+  - _agustin.manessi_
+  - [Commit: d603d25](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d603d259651011541a05eee9ca0e546295b9422f)
+
+
