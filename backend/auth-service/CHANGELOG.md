@@ -37,3 +37,11 @@
   [Commit: 943c94e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/943c94eedfd2cbf9dea9b0e4fb04c36847ce2712)
 
 
+
+## v0.17.0 - 2026-04-07
+
+- **feat**: add PKCE support
+  _agustin.manessi_
+  [Commit: d1a68fa](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d1a68fa7e84d98b8f808aad1309b9aa9296c18a7)
+
+

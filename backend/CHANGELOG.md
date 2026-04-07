@@ -77,3 +77,11 @@
   [Commit: f55d99c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f55d99c1d2c5f34d1498819e39012f420d3ba873)
 
 
+
+## v0.17.0 - 2026-04-07
+
+- **feat**: add edge caching
+  _agustin.manessi_
+  [Commit: 7ee2076](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7ee2076067e444896dcf8284abab2cac610305a1)
+
+
