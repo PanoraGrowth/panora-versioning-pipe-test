@@ -29,5 +29,6 @@ changelog:
     folders:
       - "backend"
       - "frontend"
+      - "infra"
     scope_matching: "exact"
     fallback: "file_path"
