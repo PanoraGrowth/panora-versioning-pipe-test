@@ -112,3 +112,10 @@
   - [Commit: d603d25](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d603d259651011541a05eee9ca0e546295b9422f)
 
 
+## v0.5.0 - 2026-04-07
+
+- feat: add feature without scope
+  - _agustin.manessi_
+  - [Commit: 6e83e39](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6e83e395db483ae5c0e6ca1fbdaf5bbecd75f12a)
+
+
