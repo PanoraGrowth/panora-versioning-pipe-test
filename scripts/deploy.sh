@@ -1,3 +1,3 @@
 #!/bin/sh
 echo deploy
-echo "updated deploy"
+echo "updated deploy"# improved error handling
