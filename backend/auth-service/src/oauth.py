@@ -1,1 +1,1 @@
-# refresh token
+# PKCE support
