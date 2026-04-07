@@ -19,6 +19,12 @@ version:
 changelog:
   title: "Changelog"
   commit_url: "https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit"
+  per_folder:
+    enabled: true
+    root_folders:
+      - "backend"
+      - "frontend"
+    scope_matching: "exact"
 
 branches:
   development: "development"
