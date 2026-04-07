@@ -27,7 +27,7 @@ changelog:
   per_folder:
     enabled: true
     folders:
-      - "backend"
-      - "frontend"
-    scope_matching: "exact"
-    fallback: "file_path"
+      - "infrastructure"
+    folder_pattern: "^[0-9]{3}-"
+    scope_matching: "suffix"
+    fallback: "root"
