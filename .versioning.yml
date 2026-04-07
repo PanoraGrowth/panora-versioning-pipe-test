@@ -1,14 +1,8 @@
-# .versioning.yml - Test configuration for GitHub Actions
-# Using ticket format with Jira integration
+# .versioning.yml - Test configuration for per-folder CHANGELOG
+# Switched to conventional format (required for per-folder)
 
 commits:
-  format: "ticket"
-
-tickets:
-  prefixes:
-    - "KAN"
-  required: true
-  url: "https://panoragrowth.atlassian.net/browse"
+  format: "conventional"
 
 version:
   tag_prefix_v: true
@@ -28,7 +22,12 @@ version:
 changelog:
   title: "Changelog"
   commit_url: "https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit"
-  ticket_link_label: "View in Jira"
+  per_folder:
+    enabled: true
+    root_folders:
+      - "infrastructure"
+    folder_pattern: "^[0-9]{3}-"
+    scope_matching: "suffix"
 
 branches:
   development: "development"
