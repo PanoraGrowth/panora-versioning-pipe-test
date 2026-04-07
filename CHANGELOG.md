@@ -165,3 +165,10 @@
   - [Commit: ef24c1c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ef24c1cc8afc8f8832d6ec95afa01203b6f96910)
 
 
+## v0.19.1 - 2026-04-07
+
+- chore: restore config after test 4.2.22-retry
+  - _agustin.manessi_
+  - [Commit: 0af5e14](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0af5e14d931aa83e970629d41837f365713419ae)
+
+
