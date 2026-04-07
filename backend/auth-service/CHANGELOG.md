@@ -25,3 +25,15 @@
   [Commit: 7ffad05](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7ffad05cf612f78e721ce1fdc279fb40f3f9906a)
 
 
+
+## v0.16.2 - 2026-04-07
+- **feat**: add refresh token endpoint
+  _agustin.manessi_
+  [Commit: 774e1ed](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/774e1ed4bd06c4c2faa804be3c301ea55a820253)
+
+
+- **fix**: fix token validation
+  _agustin.manessi_
+  [Commit: 943c94e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/943c94eedfd2cbf9dea9b0e4fb04c36847ce2712)
+
+
