@@ -1,0 +1,1 @@
+# ECS Capacity Provider config
