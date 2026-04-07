@@ -140,3 +140,10 @@
   - [Commit: 9cd6c4a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9cd6c4a85b61ba97265c47c1c2b0370bc87194e8)
 
 
+## v0.6.0 - 2026-04-07
+
+- major: breaking API change
+  - _agustin.manessi_
+  - [Commit: acd9986](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/acd99866e8d9bf4cbb74cab13b038895b8f6b179)
+
+
