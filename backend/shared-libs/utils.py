@@ -16,3 +16,5 @@ def helper(): pass
 # first commit ignored 1775575702
 
 # helper function alpha
+
+# this should be fully ignored
