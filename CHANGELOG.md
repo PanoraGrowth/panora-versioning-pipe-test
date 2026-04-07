@@ -100,3 +100,10 @@
   - [Commit: d58f906](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d58f9061d3a9b5b9781158bc89fce0a1f81b24cd)
 
 
+## v0.15.2 - 2026-04-07
+
+- chore: restore config to mode full after 4231 retry test
+  - _agustin.manessi_
+  - [Commit: dbe4365](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/dbe4365e846a257553eec2e3e840c63fa0042dca)
+
+
