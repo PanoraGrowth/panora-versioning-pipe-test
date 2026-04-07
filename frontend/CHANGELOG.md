@@ -49,3 +49,11 @@
   [Commit: 1546d46](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1546d46923a296bd388b0a8103a3db61023188a5)
 
 
+
+## v0.15.1 - 2026-04-07
+
+- **fix**: this is the only one that counts
+  _agustin.manessi_
+  [Commit: bb79823](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bb7982327dcb11c4b198b53f95ffa5d71502beb5)
+
+
