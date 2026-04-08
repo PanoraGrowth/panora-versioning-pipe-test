@@ -192,3 +192,31 @@
   - [Commit: ea69c55](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ea69c55377ab96dcf40aa35be8da3a2c458b04aa)
 
 
+## v0.20.1 - 2026-04-08
+
+- ci: add workflow_dispatch to tag-on-merge for test automation
+  - _agustin.manessi_
+  - [Commit: a86e026](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a86e0269f8467ddcf521d5b440b70d7c8d6bb054)
+- feat: add automated test feature (#93)
+  - _Agustín Manessi_
+  - [Commit: 6f8e3c9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6f8e3c93171de6b345c35257a5d64f9d71475da4)
+- feat: add automated test feature (#92)
+  - _Agustín Manessi_
+  - [Commit: 3a07d02](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3a07d0293c9548e119b4364c678d699f6f0e24b0)
+- feat: add automated test feature (#91)
+  - _Agustín Manessi_
+  - [Commit: 01c6cad](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/01c6cadd16dcf7b3cdb612cb4b5fc5b000abc0a2)
+- chore(release): update CHANGELOG for version v0.21.0 (major bump)
+  - _CI Pipeline_
+  - [Commit: d6bf5db](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d6bf5db7e29773f0b17d2c1e84a1835e3d821a3d)
+- feat: workflow trigger test (#89)
+  - _Agustín Manessi_
+  - [Commit: a78a39d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a78a39d7fc63f6f8cc7d7ef97fcf4e693eb69ff7)
+- feat: add automated test feature (#88)
+  - _Agustín Manessi_
+  - [Commit: 28717ed](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/28717ed83f8ef42e4c0b71d17ccba14267ea038d)
+- feat: add automated test feature (#86)
+  - _Agustín Manessi_
+  - [Commit: ea69c55](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ea69c55377ab96dcf40aa35be8da3a2c458b04aa)
+
+
