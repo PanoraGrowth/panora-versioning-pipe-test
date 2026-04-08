@@ -4,6 +4,7 @@
 name: Main - Create Version Tag
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
