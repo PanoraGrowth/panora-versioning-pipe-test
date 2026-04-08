@@ -95,6 +95,14 @@
 
 
 ## v0.21.0 - 2026-04-08
+- **chore**: update CHANGELOG for version v0.21.0 (major bump)
+  _CI Pipeline_
+  [Commit: 5a4523c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5a4523cf380045e10771d124919052671b368ff7)
+- **feat**: add automated backend feature (#100)
+  _Agustín Manessi_
+  [Commit: 9022234](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/90222343890bf2a3d999ca4b10631d964e838651)
+
+
 
 - **feat**: add automated backend feature (#100)
   _Agustín Manessi_
