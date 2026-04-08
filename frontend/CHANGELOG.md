@@ -91,6 +91,10 @@
 
 
 ## v0.21.0 - 2026-04-08
+- **fix**: resolve automated frontend bug (#106)
+  _Agustín Manessi_
+  [Commit: 2d0ef69](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2d0ef6994127745851a195a6b04ff9d673ab4330)
+
 
 - **fix**: resolve automated frontend bug (#106)
   _Agustín Manessi_
