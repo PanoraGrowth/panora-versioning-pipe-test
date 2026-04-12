@@ -19,7 +19,10 @@ branches:
   production: main
   tag_on: main
 hotfix:
-  keyword: hotfix
+  keyword:
+  - hotfix:*
+  - hotfix(*
+  - '[Hh]otfix/*'
 changelog:
   mode: full
   commit_url: https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit
