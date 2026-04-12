@@ -695,6 +695,42 @@
 - **feat**: add automated backend feature (#100)
   _Agustín Manessi_
   [Commit: 9022234](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/90222343890bf2a3d999ca4b10631d964e838651)
+- **feat**: add automated backend feature (#122)
+  _Agustín Manessi_
+  [Commit: 3509214](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/35092147a514c4be03efa82b7a1c37ce75aa0e40)
+- **feat**: add automated backend feature (#114)
+  _Agustín Manessi_
+  [Commit: 1eff42d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1eff42d392f803ade8f98048b952679a893c6a0c)
+- **chore**: update CHANGELOG for version v0.21.0 (major bump)
+  _CI Pipeline_
+  [Commit: b9ac295](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b9ac2951b8c6773a80442a3f1be617d592df6286)
+- **feat**: add automated backend feature (#105)
+  _Agustín Manessi_
+  [Commit: 543a168](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/543a1686244c3871896b0a17e2145182f50b6e17)
+- **chore**: update CHANGELOG for version v0.20.2 (minor bump)
+  _CI Pipeline_
+  [Commit: 8dbdc67](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8dbdc673af033b93bceceb17357b906a419e0051)
+- **chore**: update CHANGELOG for version v0.20.2 (minor bump)
+  _CI Pipeline_
+  [Commit: 626281d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/626281d843dbd3a3672838caca6a590b7c4df267)
+- **chore**: update CHANGELOG for version v0.21.0 (major bump)
+  _CI Pipeline_
+  [Commit: 553c347](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/553c34720c1a7c3b8efd339dd942482b47793a47)
+- **chore**: update CHANGELOG for version v0.21.0 (major bump)
+  _CI Pipeline_
+  [Commit: 5a4523c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5a4523cf380045e10771d124919052671b368ff7)
+- **feat**: add automated backend feature (#100)
+  _Agustín Manessi_
+  [Commit: 9022234](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/90222343890bf2a3d999ca4b10631d964e838651)
+
+
+
+
+
+
+
+
+
 
 
 
