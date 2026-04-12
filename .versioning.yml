@@ -18,6 +18,8 @@ branches:
   development: main
   production: main
   tag_on: main
+hotfix:
+  keyword: hotfix
 changelog:
   mode: full
   commit_url: https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit
