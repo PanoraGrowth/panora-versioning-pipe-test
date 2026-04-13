@@ -39,6 +39,6 @@ jobs:
             -e GITHUB_SHA="${GITHUB_SHA}" \
             -e GITHUB_EVENT_PATH=/github_event.json \
             -v "${GITHUB_EVENT_PATH}":/github_event.json:ro \
-            "public.ecr.aws/k5n8p2t3/panora-versioning-pipe:${VERSIONING_PIPE_TAG}"
+            "ghcr.io/panoragrowth/panora-versioning-pipe:${VERSIONING_PIPE_TAG}"
         env:
           VERSIONING_PIPE_TAG: ${{ vars.VERSIONING_PIPE_TAG }}
