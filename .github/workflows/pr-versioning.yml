@@ -12,6 +12,9 @@ on:
 permissions:
   contents: write
 
+env:
+  PIPE_TAG: ${{ vars.VERSIONING_PIPE_TAG }}
+
 jobs:
   versioning:
     name: Versioning Pipe
@@ -24,4 +27,4 @@ jobs:
           ref: ${{ github.head_ref }}
 
       - name: Run versioning pipe
-        uses: docker://ghcr.io/panoragrowth/panora-versioning-pipe:${{ vars.VERSIONING_PIPE_TAG }}
+        uses: docker://ghcr.io/panoragrowth/panora-versioning-pipe:${{ env.PIPE_TAG }}
