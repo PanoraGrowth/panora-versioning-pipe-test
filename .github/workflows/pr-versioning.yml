@@ -24,5 +24,21 @@ jobs:
 
       # Image tag controlled by org-level variable VERSIONING_PIPE_TAG.
       # Override at repo level to pin a specific version.
+      # NOTE: uses: docker:// does not support ${{ vars.* }} expressions,
+      # so we use docker run instead.
       - name: Run versioning pipe
-        uses: docker://public.ecr.aws/k5n8p2t3/panora-versioning-pipe:${{ vars.VERSIONING_PIPE_TAG }}
+        run: |
+          docker run --rm \
+            -v "$GITHUB_WORKSPACE":/workspace \
+            -w /workspace \
+            -e GITHUB_ACTIONS=true \
+            -e GITHUB_EVENT_NAME="${GITHUB_EVENT_NAME}" \
+            -e GITHUB_HEAD_REF="${GITHUB_HEAD_REF}" \
+            -e GITHUB_BASE_REF="${GITHUB_BASE_REF}" \
+            -e GITHUB_REF_NAME="${GITHUB_REF_NAME}" \
+            -e GITHUB_SHA="${GITHUB_SHA}" \
+            -e GITHUB_EVENT_PATH=/github_event.json \
+            -v "${GITHUB_EVENT_PATH}":/github_event.json:ro \
+            "public.ecr.aws/k5n8p2t3/panora-versioning-pipe:${VERSIONING_PIPE_TAG}"
+        env:
+          VERSIONING_PIPE_TAG: ${{ vars.VERSIONING_PIPE_TAG }}
