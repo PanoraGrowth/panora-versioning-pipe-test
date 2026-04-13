@@ -1,6 +1,8 @@
 # Tag on merge — create version tag + CHANGELOG when PR merges to main
+#
 # Image tag controlled by org-level variable VERSIONING_PIPE_TAG.
 # Override at repo level to pin a specific version.
+# The public entrypoint /pipe/pipe.sh is a stable contract covered by semver.
 
 name: Main - Create Version Tag
 
@@ -16,6 +18,8 @@ permissions:
 jobs:
   versioning:
     runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/panoragrowth/panora-versioning-pipe:${{ vars.VERSIONING_PIPE_TAG }}
     steps:
       - name: Generate CI token
         id: ci-token
@@ -32,6 +36,6 @@ jobs:
           token: ${{ steps.ci-token.outputs.token }}
 
       - name: Run versioning pipe
-        uses: docker://ghcr.io/panoragrowth/panora-versioning-pipe:${{ vars.VERSIONING_PIPE_TAG }}
+        run: /pipe/pipe.sh
         env:
           CI_GITHUB_TOKEN: ${{ steps.ci-token.outputs.token }}

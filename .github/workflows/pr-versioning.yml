@@ -1,6 +1,8 @@
 # PR Versioning — validate commits and generate CHANGELOG
+#
 # Image tag controlled by org-level variable VERSIONING_PIPE_TAG.
 # Override at repo level to pin a specific version.
+# The public entrypoint /pipe/pipe.sh is a stable contract covered by semver.
 
 name: PR - Versioning
 
@@ -12,13 +14,12 @@ on:
 permissions:
   contents: write
 
-env:
-  PIPE_TAG: ${{ vars.VERSIONING_PIPE_TAG }}
-
 jobs:
   versioning:
     name: Versioning Pipe
     runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/panoragrowth/panora-versioning-pipe:${{ vars.VERSIONING_PIPE_TAG }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -27,4 +28,4 @@ jobs:
           ref: ${{ github.head_ref }}
 
       - name: Run versioning pipe
-        uses: docker://ghcr.io/panoragrowth/panora-versioning-pipe:${{ env.PIPE_TAG }}
+        run: /pipe/pipe.sh
