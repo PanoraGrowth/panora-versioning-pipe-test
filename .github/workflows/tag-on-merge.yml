@@ -16,8 +16,6 @@ permissions:
 jobs:
   versioning:
     runs-on: ubuntu-latest
-    container:
-      image: ghcr.io/panoragrowth/panora-versioning-pipe:${{ vars.VERSIONING_PIPE_TAG }}
     steps:
       - name: Generate CI token
         id: ci-token
@@ -34,6 +32,6 @@ jobs:
           token: ${{ steps.ci-token.outputs.token }}
 
       - name: Run versioning pipe
-        run: /pipe/pipe.sh
+        uses: docker://ghcr.io/panoragrowth/panora-versioning-pipe:${{ vars.VERSIONING_PIPE_TAG }}
         env:
           CI_GITHUB_TOKEN: ${{ steps.ci-token.outputs.token }}
