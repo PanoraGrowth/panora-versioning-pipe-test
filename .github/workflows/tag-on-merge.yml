@@ -1,5 +1,5 @@
 # Tag on merge — create version tag + CHANGELOG when PR merges to main
-# Uses GitHub App token for pushing commits to protected branches
+# Copy of panora-versioning-pipe/examples/github-actions/tag-on-merge.yml
 
 name: Main - Create Version Tag
 
@@ -8,11 +8,6 @@ on:
   push:
     branches:
       - main
-    paths-ignore:
-      - '*.md'
-      - 'docs/**'
-      - 'examples/**'
-      - 'LICENSE'
 
 permissions:
   contents: write
@@ -35,9 +30,9 @@ jobs:
           ref: main
           token: ${{ steps.ci-token.outputs.token }}
 
+      # Image tag controlled by org-level variable VERSIONING_PIPE_TAG.
+      # Override at repo level to pin a specific version.
       - name: Run versioning pipe
-        uses: docker://ghcr.io/panoragrowth/panora-versioning-pipe:latest
+        uses: docker://public.ecr.aws/k5n8p2t3/panora-versioning-pipe:${{ vars.VERSIONING_PIPE_TAG }}
         env:
-          VERSIONING_BRANCH: main
-          VERSIONING_COMMIT: ${{ github.sha }}
           CI_GITHUB_TOKEN: ${{ steps.ci-token.outputs.token }}
