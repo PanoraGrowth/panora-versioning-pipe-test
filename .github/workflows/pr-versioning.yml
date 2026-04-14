@@ -19,3 +19,4 @@ jobs:
       branch: ${{ github.head_ref }}
       target_branch: ${{ github.base_ref }}
       commit: ${{ github.event.pull_request.head.sha }}
+      image_tag: ""
