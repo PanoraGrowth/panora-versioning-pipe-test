@@ -25,13 +25,12 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
-  generate-token:
+  versioning:
     runs-on: ubuntu-latest
-    outputs:
-      token: ${{ steps.ci-token.outputs.token }}
+    container:
+      image: ghcr.io/panoragrowth/panora-versioning-pipe:${{ inputs.image_tag || vars.VERSIONING_PIPE_TAG }}
     steps:
       - name: Generate CI token
         id: ci-token
@@ -40,12 +39,14 @@ jobs:
           app-id: ${{ secrets.CI_APP_ID }}
           private-key: ${{ secrets.CI_APP_PRIVATE_KEY }}
 
-  versioning:
-    needs: generate-token
-    uses: ./.github/workflows/run-versioning.yml
-    with:
-      branch: main
-      commit: ${{ github.sha }}
-      image_tag: ${{ inputs.image_tag || '' }}
-    secrets:
-      GITHUB_TOKEN: ${{ needs.generate-token.outputs.token }}
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+          token: ${{ steps.ci-token.outputs.token }}
+
+      - name: Run versioning pipe
+        run: /pipe/pipe.sh
+        env:
+          CI_GITHUB_TOKEN: ${{ steps.ci-token.outputs.token }}
