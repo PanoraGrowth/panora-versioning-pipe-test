@@ -15989,3 +15989,16 @@
   - [Commit: 00ceaa9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/00ceaa95f2e4ef921b154bcdad11610fd1073048)
 
 
+## v0.20.5 - 2026-04-14
+
+- fix: resolve automated test bug (#201)
+  - _Agustín Manessi_
+  - [Commit: 371e288](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/371e2889ce4c5ef7cb3cba97f3e05f734fbbcf47)
+- chore(release): update CHANGELOG for version v0.21.0 (major bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: c068600](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c068600301afd5aba05ac2ef23f5faf5d6284e49)
+- feat: add automated test feature (#200)
+  - _Agustín Manessi_
+  - [Commit: 00ceaa9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/00ceaa95f2e4ef921b154bcdad11610fd1073048)
+
+
