@@ -16554,3 +16554,82 @@
   - [Commit: 00ceaa9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/00ceaa95f2e4ef921b154bcdad11610fd1073048)
 
 
+## v0.20.5 - 2026-04-14
+
+- chore(release): update CHANGELOG for version v0.21.0 (major bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: c318914](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c318914520a9e3336f460c8efb80cd2760f0fd9d)
+- chore(release): update CHANGELOG for version v0.20.5 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: ce001cc](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ce001ccf0e695d39b29da1763579618e2e5353c6)
+- chore: automated test maintenance (#215)
+  - _Agustín Manessi_
+  - [Commit: cbfeb4a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cbfeb4a7ed7707a11267bd83b82d45a85ab80046)
+- chore(release): update CHANGELOG for version v0.20.5 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: b552d81](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b552d81a62e3f02570a65fe6524cbf26b68e8428)
+- fix: resolve automated test bug (#214)
+  - _Agustín Manessi_
+  - [Commit: 6d433e3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6d433e3f83a8f7227888d80eb369da6fec48004c)
+- chore(release): update CHANGELOG for version v0.21.0 (major bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 9a7aab6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9a7aab693fb3b33cc6d7294cee5c9112191ec508)
+- feat: add automated test feature (#213)
+  - _Agustín Manessi_
+  - [Commit: 0631df2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0631df2f9a2729a1bbf95ded6ae17bd0ee01761e)
+- chore(release): update CHANGELOG for version v0.20.4.1 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: e2c77ac](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e2c77ac8bd135925355313ce4351a9f804809dfa)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: a3891a2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a3891a24bf8c1d2600bfd65ba25d446a9e6ba0e7)
+- chore(release): update CHANGELOG for version v0.20.4.1 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 5c4c766](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5c4c766998fcfc257bd3030e2efdedf2cab0d9a5)
+- hotfix(security): patch auth token validation (#208)
+  - _Agustín Manessi_
+  - [Commit: bb2efb7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bb2efb7da6369427661a79412951964d0f848dd7)
+- chore(release): update CHANGELOG for version v0.20.4.1 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 58d0943](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/58d0943465291df69ebdad1211ecc3bf0b877ec7)
+- hotfix: wire-up patch bump integration test (#207)
+  - _Agustín Manessi_
+  - [Commit: 51e7790](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/51e7790eff2f120c8d6b87a4565222c137635b1f)
+- chore(release): update CHANGELOG for version v0.21.0 (major bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: c9a5019](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c9a5019097a2acd4e59ea473b3ee1f0be9c8bb7e)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 270900d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/270900de1208464c8ee17cf181562d8b4a41d5b3)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 7f21819](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7f2181996c36c8935d4a30f36a0ab297fabb39d0)
+- chore(release): update CHANGELOG for version v0.20.5 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 20fd45c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/20fd45c1a0c115907a5ec27e9ad8db39b1c5b9c3)
+- fix: resolve general automated test issue (#205)
+  - _Agustín Manessi_
+  - [Commit: f10a999](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f10a999e1faf4198a04e75b51daa2d2f53daa91d)
+- chore(release): update CHANGELOG for version v0.20.5 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: cf9ccb2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cf9ccb2c6e9cd8128e79f0a766b16bce7fbf175b)
+- chore(release): update CHANGELOG for version v0.20.5 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 9b843be](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9b843bedb2a30dfe596560ba060f0df45a378f52)
+- chore: automated test maintenance (#202)
+  - _Agustín Manessi_
+  - [Commit: d664665](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d66466502c1cdcfbcb7a399bbac0b0bc6f1ece33)
+- chore(release): update CHANGELOG for version v0.20.5 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: aa16c2c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/aa16c2c071056509e17712c7e02d04aa35de2b43)
+- fix: resolve automated test bug (#201)
+  - _Agustín Manessi_
+  - [Commit: 371e288](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/371e2889ce4c5ef7cb3cba97f3e05f734fbbcf47)
+- chore(release): update CHANGELOG for version v0.21.0 (major bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: c068600](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c068600301afd5aba05ac2ef23f5faf5d6284e49)
+- feat: add automated test feature (#200)
+  - _Agustín Manessi_
+  - [Commit: 00ceaa9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/00ceaa95f2e4ef921b154bcdad11610fd1073048)
+
+
