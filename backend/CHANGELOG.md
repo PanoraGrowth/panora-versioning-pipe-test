@@ -815,6 +815,10 @@
 - **feat**: add automated backend feature (#100)
   _Agustín Manessi_
   [Commit: 9022234](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/90222343890bf2a3d999ca4b10631d964e838651)
+- **feat**: add automated backend feature (#203)
+  _Agustín Manessi_
+  [Commit: b918f5b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b918f5bf7f247b4fdf446087b3719cfb5a7e4016)
+
 
 
 
