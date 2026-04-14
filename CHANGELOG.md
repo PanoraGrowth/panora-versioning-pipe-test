@@ -15972,3 +15972,13 @@
   - [Commit: 12c80cd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/12c80cd744d118aff509ffd7bb32fc452dbf707e)
 
 
+## v0.20.4 - 2026-04-14
+
+- chore(ci): migrate to container.image pattern and add image_tag input
+  - _Agustín Manessi_
+  - [Commit: cfb5e02](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cfb5e02f165a9d97c634e2441251b658cfac395a)
+- chore(ci): pass image_tag input to run-versioning
+  - _Agustín Manessi_
+  - [Commit: e943f1f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e943f1f5a3b9f4d45e93a3eccb63d1e4f5d350a1)
+
+
