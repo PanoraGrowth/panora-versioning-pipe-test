@@ -1333,3 +1333,11 @@
   [Commit: 57c86ee](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/57c86ee0c656c3101b66fbc2dbd3b0105fd377ef)
 
 
+
+## v0.20.4.1 (Hotfix) - 2026-04-14
+
+- **fix**: resolve automated frontend bug (#204)
+  _Agustín Manessi_
+  [Commit: 57c86ee](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/57c86ee0c656c3101b66fbc2dbd3b0105fd377ef)
+
+

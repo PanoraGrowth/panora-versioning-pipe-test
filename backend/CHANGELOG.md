@@ -3069,3 +3069,15 @@
   [Commit: 964c63c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/964c63c752fba31f3a47294eab4303d04fec389d)
 
 
+
+## v0.20.4.1 (Hotfix) - 2026-04-14
+- **feat**: add automated backend feature (#203)
+  _Agustín Manessi_
+  [Commit: b918f5b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b918f5bf7f247b4fdf446087b3719cfb5a7e4016)
+
+
+- **chore**: update CHANGELOG for version v0.21.0 (major bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 964c63c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/964c63c752fba31f3a47294eab4303d04fec389d)
+
+
