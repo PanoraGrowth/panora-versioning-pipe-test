@@ -3577,6 +3577,14 @@
 - **feat**: add automated backend feature (#293)
   _Agustín Manessi_
   [Commit: e8750bd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e8750bd331c027530a42652c24c4d57ea32fcc79)
+- **chore**: update CHANGELOG for version v1.0 (major bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 8dbaf4c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8dbaf4ca5ae8c19accd8a6f088e95ddcc9559144)
+- **feat**: add automated backend feature (#293)
+  _Agustín Manessi_
+  [Commit: e8750bd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e8750bd331c027530a42652c24c4d57ea32fcc79)
+
+
 
 
 
