@@ -25875,3 +25875,25 @@
   - [Commit: eae2348](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/eae23488315160ae5d6c1e3245c06dcf4ce08716)
 
 
+## v0.20.5 (Hotfix) - 2026-04-15
+
+- hotfix: wire-up patch bump integration test (#299)
+  - _Agustín Manessi_
+  - [Commit: ed49956](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ed4995629fd6c7f89626f2b475b737939ad1a5cf)
+- chore(release): update CHANGELOG for version v0.21 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: a6dd5b8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a6dd5b8dcaffef9efdb3f7183e20f7e367326f1b)
+- fix: resolve general automated test issue (#297)
+  - _Agustín Manessi_
+  - [Commit: 587e3ad](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/587e3ad528ab20bee6eba721240b4352b7332ba9)
+- chore(release): update CHANGELOG for version v0.21 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: a55f6b5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a55f6b5206e37231a526122f65775b16f7e9ed29)
+- chore(release): update CHANGELOG for version v0.21 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 4542def](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4542def0fffe33975968f7f509c05aee3bdf1839)
+- chore: rename period → epoch in test repo config
+  - _Agustín Manessi_
+  - [Commit: eae2348](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/eae23488315160ae5d6c1e3245c06dcf4ce08716)
+
+
