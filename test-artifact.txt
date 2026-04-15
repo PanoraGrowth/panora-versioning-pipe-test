@@ -1,1 +1,1 @@
-unscoped test
+full mode test 1
