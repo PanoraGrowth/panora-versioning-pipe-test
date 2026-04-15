@@ -25832,3 +25832,10 @@
   - [Commit: e943f1f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e943f1f5a3b9f4d45e93a3eccb63d1e4f5d350a1)
 
 
+## v0.21 - 2026-04-15
+
+- chore: rename period → epoch in test repo config
+  - _Agustín Manessi_
+  - [Commit: eae2348](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/eae23488315160ae5d6c1e3245c06dcf4ce08716)
+
+
