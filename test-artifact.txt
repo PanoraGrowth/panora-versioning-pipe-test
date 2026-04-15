@@ -1,1 +1,1 @@
-fix patch semver test
+feat minor semver test
