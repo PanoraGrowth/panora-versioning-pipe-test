@@ -25959,3 +25959,43 @@
   - [Commit: eae2348](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/eae23488315160ae5d6c1e3245c06dcf4ce08716)
 
 
+## v0.21 - 2026-04-15
+
+- fix: resolve semver patch bump issue (#305)
+  - _Agustín Manessi_
+  - [Commit: 1ac909b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1ac909b735bc3088407d6584707073e99185fb30)
+- chore(release): update CHANGELOG for version v0.20.5 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 4574c0c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4574c0cc8928b6c017e2be1d80f4ddec32097f57)
+- hotfix: wire-up patch bump integration test (#303)
+  - _Agustín Manessi_
+  - [Commit: 73a69b2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/73a69b27d4b71cb452c59e2dcc252f13e1c94085)
+- chore(release): update CHANGELOG for version v0.20.5 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: d5269b6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d5269b6a84e717e31d82fccc5ca350454a964ff4)
+- hotfix(security): patch auth token validation (#301)
+  - _Agustín Manessi_
+  - [Commit: b14bf5d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b14bf5dfa84c7d4f4bd3bcf95fe23e22e8056f1c)
+- chore(release): update CHANGELOG for version v0.20.5 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: efccb5b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/efccb5b6b925d3581f85e6f1876488f377984091)
+- hotfix: wire-up patch bump integration test (#299)
+  - _Agustín Manessi_
+  - [Commit: ed49956](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ed4995629fd6c7f89626f2b475b737939ad1a5cf)
+- chore(release): update CHANGELOG for version v0.21 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: a6dd5b8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a6dd5b8dcaffef9efdb3f7183e20f7e367326f1b)
+- fix: resolve general automated test issue (#297)
+  - _Agustín Manessi_
+  - [Commit: 587e3ad](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/587e3ad528ab20bee6eba721240b4352b7332ba9)
+- chore(release): update CHANGELOG for version v0.21 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: a55f6b5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a55f6b5206e37231a526122f65775b16f7e9ed29)
+- chore(release): update CHANGELOG for version v0.21 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 4542def](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4542def0fffe33975968f7f509c05aee3bdf1839)
+- chore: rename period → epoch in test repo config
+  - _Agustín Manessi_
+  - [Commit: eae2348](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/eae23488315160ae5d6c1e3245c06dcf4ce08716)
+
+
