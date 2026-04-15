@@ -1,1 +1,1 @@
-hotfix regression guard test
+hotfix uppercase test
