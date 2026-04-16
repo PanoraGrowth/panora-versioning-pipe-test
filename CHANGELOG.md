@@ -35567,3 +35567,10 @@
   - [Commit: bebdb8d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bebdb8dcac3fb0bb985b48ac767255d680bc8cd6)
 
 
+## v0.20.30 - 2026-04-16
+
+- fix: resolve general automated test issue (#446)
+  - _Agustín Manessi_
+  - [Commit: 89d8c5c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/89d8c5c07c4a1b28faf51916bbc2e2c0a618bf2e)
+
+
