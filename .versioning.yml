@@ -20,6 +20,9 @@ branches:
   development: main
   production: main
   tag_on: main
+  hotfix_targets:
+  - main
+  - pre-production
 hotfix:
   keyword:
   - hotfix:*
