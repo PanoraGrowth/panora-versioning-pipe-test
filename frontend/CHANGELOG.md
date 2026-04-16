@@ -2609,3 +2609,11 @@
   [Commit: a3a0a08](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a3a0a081166febcd109a2440e3d0b9f9dded4ec0)
 
 
+
+## v0.20.29 - 2026-04-16
+
+- **fix**: resolve automated frontend bug (#445)
+  _Agustín Manessi_
+  [Commit: 2fcf546](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2fcf546626f369253268e3a4ebf21006edaefdd8)
+
+
