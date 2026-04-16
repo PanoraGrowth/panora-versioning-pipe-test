@@ -1,1 +1,1 @@
-fix test
+full mode pass test
