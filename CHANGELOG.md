@@ -35688,3 +35688,10 @@
   - [Commit: cfa8748](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cfa8748a94c14ff3c6e5b7c96feb9e784431d820)
 
 
+## v0.20.45.1 (Hotfix) - 2026-04-16
+
+- hotfix: wire-up patch bump integration test (#494)
+  - _Agustín Manessi_
+  - [Commit: 201cac6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/201cac69652c73e885eee034f37059cd9862d16e)
+
+
