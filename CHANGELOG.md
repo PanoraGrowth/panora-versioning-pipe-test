@@ -35424,3 +35424,10 @@
   - [Commit: 3620366](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/36203666bedcd8e68e88bf81493a38bba1c09cd0)
 
 
+## v0.20.12.2 (Hotfix) - 2026-04-16
+
+- hotfix(security): patch auth token validation (#412)
+  - _Agustín Manessi_
+  - [Commit: 4f7dce9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4f7dce93152bf387156c7e9bdb4b843f756c104d)
+
+
