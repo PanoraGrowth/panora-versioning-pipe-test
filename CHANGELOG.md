@@ -35839,3 +35839,10 @@
   - [Commit: 150d036](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/150d0362dcab552e46b429171a84d8689c8267a5)
 
 
+## v0.20.63.1 (Hotfix) - 2026-04-16
+
+- hotfix: regression guard for patch bump after remap (#550)
+  - _Agustín Manessi_
+  - [Commit: 92af5d9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/92af5d99a3a596d5be39fb526ab635bcc2111514)
+
+
