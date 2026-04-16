@@ -14,6 +14,8 @@ version:
       initial: 0
     timestamp:
       enabled: false
+    hotfix_counter:
+      enabled: true
 branches:
   development: main
   production: main
