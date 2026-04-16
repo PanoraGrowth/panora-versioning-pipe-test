@@ -35736,3 +35736,13 @@
   - [Commit: d29f20f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d29f20f9f8ec34bd63cfbc3e3fa8cd4890bad506)
 
 
+## v0.20.49.2 (Hotfix) - 2026-04-16
+
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: 108d3dd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/108d3ddc10e3be8e142bac4da4dce2407bef50fd)
+- hotfix: wire-up patch bump integration test (#512)
+  - _Agustín Manessi_
+  - [Commit: d1e0592](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d1e0592d55641951c7362d674c159ec7c422031e)
+
+
