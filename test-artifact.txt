@@ -1,1 +1,1 @@
-fix patch semver test
+full mode pass test
