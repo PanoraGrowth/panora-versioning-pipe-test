@@ -5001,3 +5001,11 @@
   [Commit: bd8b224](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bd8b22446754d8e34281a03ccd6b16240485ea5e)
 
 
+
+## v0.20.108 - 2026-04-17
+
+- **feat**: add automated backend feature (#679)
+  _Agustín Manessi_
+  [Commit: 1eb260d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1eb260db1eee3483d077932071a87facbb92600b)
+
+
