@@ -1,1 +1,1 @@
-hotfix extended targets test
+fix patch semver test
