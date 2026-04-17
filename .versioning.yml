@@ -8,7 +8,7 @@ version:
       initial: 0
     major:
       enabled: true
-      initial: 1
+      initial: 21
     patch:
       enabled: true
       initial: 0
@@ -16,11 +16,11 @@ version:
       enabled: true
       initial: 0
 branches:
-  development: sandbox-01
-  production: sandbox-01
-  tag_on: sandbox-01
+  development: sandbox-21
+  production: sandbox-21
+  tag_on: sandbox-21
   hotfix_targets:
-  - sandbox-01
+  - sandbox-21
 hotfix:
   keyword:
   - hotfix:*
