@@ -36002,3 +36002,10 @@
   - [Commit: 173c124](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/173c124078153a53436e561815ced70533c63a1c)
 
 
+## v0.20.76 - 2026-04-17
+
+- fix: resolve semver patch bump issue (#584)
+  - _Agustín Manessi_
+  - [Commit: 6213672](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/62136722aa7cd6b370bfb08cf951e137ed2607ef)
+
+
