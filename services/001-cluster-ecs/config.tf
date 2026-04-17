@@ -1,0 +1,1 @@
+# cluster ecs auto-scaling
