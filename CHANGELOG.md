@@ -36155,3 +36155,13 @@
   - [Commit: f98ae32](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f98ae3245b14cef6d0680b0464b6beffeb1d6f6e)
 
 
+## v0.20.98 - 2026-04-17
+
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 3619270](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3619270a4d8f2a8cbc27fc6e9c783d69ee8760f3)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 51c837a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/51c837abbb3553118aa2bf9f465113372837f991)
+
+
