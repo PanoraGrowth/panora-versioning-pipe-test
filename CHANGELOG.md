@@ -36326,3 +36326,10 @@
   - [Commit: 01351ce](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/01351ce52cb17e5b1cfda00b642fe7ebda4875b9)
 
 
+## v0.20.117 - 2026-04-17
+
+- feat: add full mode feature (#707)
+  - _Agustín Manessi_
+  - [Commit: b959dae](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b959daef0c918842a3e81730795a10c48fbe6db5)
+
+
