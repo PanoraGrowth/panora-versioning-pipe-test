@@ -36096,3 +36096,10 @@
   - [Commit: 8ad4110](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8ad41103df4b4bac97ce07ad8a248f5780c759fb)
 
 
+## v0.20.90.1 (Hotfix) - 2026-04-17
+
+- hotfix: validate extended hotfix_targets with uat (#619)
+  - _Agustín Manessi_
+  - [Commit: a66aa78](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a66aa7860561b6be2ad668d5575a1a64b315d6b8)
+
+
