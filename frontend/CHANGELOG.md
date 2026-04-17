@@ -2705,3 +2705,123 @@
   [Commit: e78c3c8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e78c3c89279be3bca3066746880c20e03111a1af)
 
 
+
+## v0.22 - 2026-04-17
+- **fix**: resolve automated frontend bug (#718)
+  _Agustín Manessi_
+  [Commit: e78c3c8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e78c3c89279be3bca3066746880c20e03111a1af)
+- **chore**: update CHANGELOG for version v0.20.114 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 8452567](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8452567b750e5a803979b53c297d80946d7a4b66)
+- **fix**: resolve automated frontend bug (#699)
+  _Agustín Manessi_
+  [Commit: ebbd25f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ebbd25ff1f951e9f2080e66badb768242d744f95)
+- **chore**: update CHANGELOG for version v0.20.95 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: c872a2d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c872a2d4054225e792f79edfd8ba7c5aaa053d97)
+- **fix**: resolve automated frontend bug (#630)
+  _Agustín Manessi_
+  [Commit: 3f489c4](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3f489c499214dc4094e5f6c6aa8ce5dab3a52c4e)
+- **chore**: update CHANGELOG for version v0.20.87 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 95730ef](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/95730ef21ce8b921e55a460c5f8f975c356430ff)
+- **fix**: resolve automated frontend bug (#612)
+  _Agustín Manessi_
+  [Commit: 44ae937](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/44ae937fc4e52f70fed04e8004e974b626a27cf6)
+- **chore**: update CHANGELOG for version v0.20.80 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 5a7d5d6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5a7d5d6c90c1f14b28a8bdef438ab361795fcdf4)
+- **fix**: resolve automated frontend bug (#599)
+  _Agustín Manessi_
+  [Commit: 290fa92](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/290fa927d25ae816e07ba618d5fed549695615ca)
+- **chore**: update CHANGELOG for version v0.20.69 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: bb34ff7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bb34ff7a367ad4471d555ab691090075beb7f164)
+- **fix**: resolve automated frontend bug (#572)
+  _Agustín Manessi_
+  [Commit: 2046fbb](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2046fbba233d82294461ed843df43c9c68aebadc)
+- **chore**: update CHANGELOG for version v0.20.57 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 5f96f42](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5f96f4235fb03fa4788c5d4014adaba3712c0865)
+- **fix**: resolve automated frontend bug (#534)
+  _Agustín Manessi_
+  [Commit: 7cab4d6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7cab4d6142108381d0a704efbecf4a3cea39ad8e)
+- **chore**: update CHANGELOG for version v0.20.52 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: c4a0ca7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c4a0ca7cc6e07b56886935dc9c081616ff05f11e)
+- **fix**: resolve automated frontend bug (#526)
+  _Agustín Manessi_
+  [Commit: 8decf26](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8decf26966f7a52b716a74ddf361be7e03827687)
+- **chore**: update CHANGELOG for version v0.20.45.1 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 1cdc6e4](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1cdc6e49fbf155b91692315cf4491d0783efb72c)
+- **fix**: resolve automated frontend bug (#492)
+  _Agustín Manessi_
+  [Commit: 53f4eaf](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/53f4eaf47553c78b85daa4a1ba8c353702868768)
+- **chore**: update CHANGELOG for version v0.20.45 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 6db82e6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6db82e60204cd796a709eeea6029baea12a952d0)
+- **fix**: resolve automated frontend bug (#488)
+  _Agustín Manessi_
+  [Commit: 4433b68](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4433b68177d091eb564ccd023177d5b207809d0e)
+- **chore**: update CHANGELOG for version v0.20.38 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: ae5aba7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ae5aba7b2a10219fc8430860b0eb3e815d97697c)
+- **fix**: resolve automated frontend bug (#465)
+  _Agustín Manessi_
+  [Commit: 6c74d28](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6c74d2845d3cae2b2e11a63ed86b61005a2ae6ec)
+- **chore**: update CHANGELOG for version v0.20.29 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 2c0ba37](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2c0ba3797d065e794efd7291d37789633cf6ac5f)
+- **fix**: resolve automated frontend bug (#445)
+  _Agustín Manessi_
+  [Commit: 2fcf546](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2fcf546626f369253268e3a4ebf21006edaefdd8)
+- **chore**: update CHANGELOG for version v0.20.20 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 1e7605a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1e7605a9f876bffa948b8fac7e6b931cb3046937)
+- **fix**: resolve automated frontend bug (#427)
+  _Agustín Manessi_
+  [Commit: a3a0a08](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a3a0a081166febcd109a2440e3d0b9f9dded4ec0)
+- **chore**: update CHANGELOG for version v0.20.9 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: c76c426](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c76c4264497b440f600728b275818e3dc7d8d9d9)
+- **fix**: resolve automated frontend bug (#407)
+  _Agustín Manessi_
+  [Commit: 4b486f7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4b486f7d3d3596d15daa89d0bf00b1a14cc6396d)
+- **chore**: update CHANGELOG for version v0.20.4.1 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 2347576](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/23475760708c1360f76947de64f13c2bc5e24357)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- **chore**: update CHANGELOG for version v0.20.121 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 7fa9a06](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7fa9a063b8ac2920911e11d21c5a769949ab1418)
+
+
