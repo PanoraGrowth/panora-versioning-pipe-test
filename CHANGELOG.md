@@ -36179,3 +36179,10 @@
   - [Commit: ccb7270](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ccb72700d04bf8464661e19e3feb8665d941e736)
 
 
+## v0.20.99.1 (Hotfix) - 2026-04-17
+
+- hotfix(security): patch auth token validation (#647)
+  - _Agustín Manessi_
+  - [Commit: d3bdb52](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d3bdb52a6cebaec3c54188e178fda61cb0fb33d3)
+
+
