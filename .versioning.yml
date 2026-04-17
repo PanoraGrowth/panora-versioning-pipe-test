@@ -37,7 +37,8 @@ changelog:
 version_file:
   enabled: true
   groups:
-  - files:
-    - services/version.yaml
+  - name: services
+    files:
+    - path: services/version.yaml
     trigger_paths:
     - services/**
