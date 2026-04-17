@@ -35981,3 +35981,10 @@
   - [Commit: 5315a52](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5315a5203fa222956a802ebb92b23470ad3dbf7e)
 
 
+## v0.20.74 - 2026-04-17
+
+- feat: add semver minor bump feature (#581)
+  - _Agustín Manessi_
+  - [Commit: 3ee10f1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3ee10f1eaefc7ab0087d3908de5b7c6ca1267518)
+
+
