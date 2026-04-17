@@ -36186,3 +36186,10 @@
   - [Commit: d3bdb52](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d3bdb52a6cebaec3c54188e178fda61cb0fb33d3)
 
 
+## v0.20.99.2 (Hotfix) - 2026-04-17
+
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: 4485bb1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4485bb1ad58a60b655e4838561d0c9c3694d8ac1)
+
+
