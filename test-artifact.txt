@@ -1,1 +1,1 @@
-multi 1
+hotfix extended targets test
