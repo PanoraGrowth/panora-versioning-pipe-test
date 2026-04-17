@@ -36193,3 +36193,10 @@
   - [Commit: 4485bb1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4485bb1ad58a60b655e4838561d0c9c3694d8ac1)
 
 
+## v0.20.100 - 2026-04-17
+
+- feat: validate tag_on main with extended hotfix_targets (#649)
+  - _Agustín Manessi_
+  - [Commit: 882d8b8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/882d8b8e9f2a6b999284e32537095e6517d46ae7)
+
+
