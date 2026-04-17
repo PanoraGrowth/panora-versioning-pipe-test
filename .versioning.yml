@@ -4,26 +4,23 @@ version:
   tag_prefix_v: true
   components:
     epoch:
-      enabled: true
+      enabled: false
+      initial: 0
     major:
       enabled: true
-    minor:
-      enabled: true
+      initial: 18
     patch:
       enabled: true
       initial: 0
-    timestamp:
-      enabled: false
     hotfix_counter:
       enabled: true
+      initial: 0
 branches:
-  development: main
-  production: main
-  tag_on: main
+  development: sandbox-18
+  production: sandbox-18
+  tag_on: sandbox-18
   hotfix_targets:
-  - main
-  - pre-production
-  - uat
+  - sandbox-18
 hotfix:
   keyword:
   - hotfix:*
