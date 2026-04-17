@@ -21,6 +21,8 @@ branches:
   tag_on: sandbox-09
   hotfix_targets:
   - sandbox-09
+  - pre-production
+  - uat
 hotfix:
   keyword:
   - hotfix:*
