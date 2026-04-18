@@ -40703,3 +40703,16 @@
   - [Commit: 467f548](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/467f5488b46f0e84a84dd4902a73749c1769c1c1)
 
 
+## v26.2 - 2026-04-18
+
+- feat: sandbox 26 isolation check (#1676)
+  - _Agustín Manessi_
+  - [Commit: 657eb3e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/657eb3e4f503be77c5dc3dd3b738c02f35e3991d)
+- chore(release): update CHANGELOG for version v26.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 839216f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/839216f8a1b8eee4cc70f193aec051a12a901ba8)
+- feat: sandbox 26 isolation check (#1660)
+  - _Agustín Manessi_
+  - [Commit: 467f548](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/467f5488b46f0e84a84dd4902a73749c1769c1c1)
+
+
