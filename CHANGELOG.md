@@ -65455,3 +65455,16 @@
   - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
 
 
+## v6.2 - 2026-04-18
+
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: cbf3a75](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cbf3a7586d580ebaffb244eee2a38a1308004262)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: bf08fae](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bf08fae352f6f71e639c39895b2c1b4725ba5904)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: f4a8af2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f4a8af22e17331c28aec2d72118eda683bab94a6)
+
+
