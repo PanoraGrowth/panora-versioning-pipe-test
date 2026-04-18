@@ -80404,3 +80404,19 @@
   - [Commit: 91a4e2f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/91a4e2faf863ff26d4fadc96b3ef950d07c98250)
 
 
+## v20.2 - 2026-04-18
+
+- chore(test-setup): reset version.yaml on sandbox-20
+  - _Agustín Manessi_
+  - [Commit: befc077](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/befc0773f0f135aef13d3ee39ef1c318db14c752)
+- chore(release): update CHANGELOG for version v20.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: bca88d1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bca88d142b138ecf52306868d34438840d8e7653)
+- feat: update infrastructure docs (#1371)
+  - _Agustín Manessi_
+  - [Commit: 6bf0e63](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6bf0e631d3888b4c7589476fb75f49becd0be4a9)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: 91a4e2f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/91a4e2faf863ff26d4fadc96b3ef950d07c98250)
+
+
