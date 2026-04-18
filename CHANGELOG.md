@@ -55798,3 +55798,13 @@
   - [Commit: fac4b7d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/fac4b7d7f060e63330ba19b853085bb499d76b9a)
 
 
+## v7.3 - 2026-04-18
+
+- feat: add full mode feature (#1366)
+  - _Agustín Manessi_
+  - [Commit: e78b6cb](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e78b6cb1c60f2c26593967ab3fd0a469301a1a3a)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: d40dad0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d40dad02aa22ce4c2b90bd36d744da62431ee73c)
+
+
