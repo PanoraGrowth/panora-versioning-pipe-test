@@ -60875,3 +60875,31 @@
   - [Commit: ccd6c25](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ccd6c251ce17fdbc724f35b28d90bfbc182d1bef)
 
 
+## v9.1.2 (Hotfix) - 2026-04-18
+
+- hotfix: validate extended hotfix_targets with uat (#1498)
+  - _Agustín Manessi_
+  - [Commit: 0a41879](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0a418790b395874e3369f05f9c067c43257da1e4)
+- chore(release): update CHANGELOG for version v9.1.2 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 1e4952d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1e4952d97654777479f3536cea437ba40440384b)
+- hotfix: validate extended hotfix_targets with uat (#1436)
+  - _Agustín Manessi_
+  - [Commit: 351b3f2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/351b3f205ab9844caa965e006fe547bd2d60cce3)
+- chore(release): update CHANGELOG for version v9.1.2 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: c6c9463](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c6c94634e17056b37051c806dda97a24f4652c75)
+- hotfix: validate extended hotfix_targets with uat (#1406)
+  - _Agustín Manessi_
+  - [Commit: 8222640](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/822264033bd4cb345511b5334e6c73d5cade5af7)
+- chore(release): update CHANGELOG for version v9.1.2 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: b277075](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b277075cc8004bd2e3d2ee4fb70dd71a45a67b23)
+- hotfix: validate extended hotfix_targets with uat (#1369)
+  - _Agustín Manessi_
+  - [Commit: 0c8b3a9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0c8b3a98506d249935eff1264c6488becd0703fa)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: ccd6c25](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ccd6c251ce17fdbc724f35b28d90bfbc182d1bef)
+
+
