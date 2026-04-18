@@ -753,3 +753,11 @@
   [Commit: c7a939c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c7a939ccc59e79db82362fd320495d7cb3a48482)
 
 
+
+## v16.2 - 2026-04-18
+
+- **feat**: add auto-scaling configuration (#1383)
+  _Agustín Manessi_
+  [Commit: f4c9702](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f4c9702a1cc9bfae5e33abd926c027f1ff85abfc)
+
+
