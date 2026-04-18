@@ -65915,3 +65915,13 @@
   - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
 
 
+## v1.2 - 2026-04-18
+
+- feat: add automated test feature (#1376)
+  - _Agustín Manessi_
+  - [Commit: 32147f7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/32147f7e53d01771b07541ce27f93a7d478115b1)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: 566eede](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/566eede0f7dde73246eec36925390d4a166a9fab)
+
+
