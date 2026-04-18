@@ -113335,3 +113335,16 @@
   - [Commit: 365d4ff](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/365d4ff294f1f1fcd0261e4343cc9bbd03837511)
 
 
+## v19.2 - 2026-04-18
+
+- feat: deploy new services layer (#1692)
+  - _Agustín Manessi_
+  - [Commit: 21e48c4](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/21e48c458ae7295e1215cd596010314cddd25eb2)
+- chore(release): update CHANGELOG for version v19.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: be19818](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/be19818e2f585d3da4bba067661e20d86897a9a4)
+- feat: deploy new services layer (#1651)
+  - _Agustín Manessi_
+  - [Commit: 365d4ff](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/365d4ff294f1f1fcd0261e4343cc9bbd03837511)
+
+
