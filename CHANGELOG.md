@@ -64942,3 +64942,31 @@
   - [Commit: 298215b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/298215be4b1672df308c8d8a5366c20e232f0325)
 
 
+## v10.0.2 (Hotfix) - 2026-04-18
+
+- hotfix: wire-up patch bump integration test (#1519)
+  - _Agustín Manessi_
+  - [Commit: 93f733d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/93f733dc360c6e8b5c4ac540359575c395a55088)
+- chore(release): update CHANGELOG for version v10.0.2 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 2820207](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2820207b4739ddb04a67485facb28e734826d20b)
+- hotfix: wire-up patch bump integration test (#1474)
+  - _Agustín Manessi_
+  - [Commit: 5c0717f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5c0717f5ee75b17aff91354c6c4355cd2fb86fe1)
+- chore(release): update CHANGELOG for version v10.0.2 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 5490c99](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5490c99ba7d86316e35ed44943b9ae3bd3aea2f4)
+- hotfix: wire-up patch bump integration test (#1418)
+  - _Agustín Manessi_
+  - [Commit: 77936fb](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/77936fb9f845bb1dcc97819585114698fd1bf8c0)
+- chore(release): update CHANGELOG for version v10.0.2 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 7b89b1d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7b89b1d7864e1f9d64e5b3e8ab33c27fd48ce368)
+- hotfix: wire-up patch bump integration test (#1387)
+  - _Agustín Manessi_
+  - [Commit: 343ff36](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/343ff365ec275bb5ba05fb7b54354a2ed7418b73)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: 298215b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/298215be4b1672df308c8d8a5366c20e232f0325)
+
+
