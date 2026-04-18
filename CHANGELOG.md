@@ -59937,3 +59937,25 @@
   - [Commit: b57b285](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b57b28569be6b5dffb3ba0532da89378aaa99f02)
 
 
+## v5.3 - 2026-04-18
+
+- fix: resolve general automated test issue (#1475)
+  - _Agustín Manessi_
+  - [Commit: db00c6b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/db00c6bcef1bae5dcb77cbd5db7cacbeee0e854f)
+- chore(release): update CHANGELOG for version v5.3 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 8256678](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8256678936541f6dcd3ea14549faadcc7f75a983)
+- fix: resolve general automated test issue (#1420)
+  - _Agustín Manessi_
+  - [Commit: 044183f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/044183f0ec9560463449ce9a7593754a6315bedc)
+- chore(release): update CHANGELOG for version v5.3 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: bf11f13](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bf11f13bda8659d6fd237d90d04e53004c5d68bb)
+- fix: resolve general automated test issue (#1388)
+  - _Agustín Manessi_
+  - [Commit: 75b69bd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/75b69bd3c314843488a57b287c7891f2afaa15c9)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: b57b285](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b57b28569be6b5dffb3ba0532da89378aaa99f02)
+
+
