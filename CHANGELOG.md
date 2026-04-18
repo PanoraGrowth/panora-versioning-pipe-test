@@ -60827,3 +60827,13 @@
   - [Commit: 4ab1ac1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4ab1ac1ba1e1d09694c1f2ffe26ee65c1314b0eb)
 
 
+## v9.1.2 (Hotfix) - 2026-04-18
+
+- hotfix: validate extended hotfix_targets with uat (#1369)
+  - _Agustín Manessi_
+  - [Commit: 0c8b3a9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0c8b3a98506d249935eff1264c6488becd0703fa)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: ccd6c25](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ccd6c251ce17fdbc724f35b28d90bfbc182d1bef)
+
+
