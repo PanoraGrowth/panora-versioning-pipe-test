@@ -82570,3 +82570,19 @@
   - [Commit: 11d9f41](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/11d9f41140d264663d4882f7017f4df7ec68278e)
 
 
+## v16.2 - 2026-04-18
+
+- chore(release): update CHANGELOG for version v16.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: ebf38c1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ebf38c1a580d4d7b565d1d6669ec6c27451023d5)
+- chore(release): update CHANGELOG for version v16.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 88079ce](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/88079ced114efcad47042c0e342f589a38669e80)
+- chore(release): update CHANGELOG for version v16.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: cba1bfd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cba1bfd56f49f836f5de9b66188e233dd50a6c23)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: 11d9f41](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/11d9f41140d264663d4882f7017f4df7ec68278e)
+
+
