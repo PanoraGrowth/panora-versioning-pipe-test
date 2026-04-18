@@ -761,6 +761,18 @@
 - **feat**: add auto-scaling configuration (#1383)
   _Agustín Manessi_
   [Commit: f4c9702](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f4c9702a1cc9bfae5e33abd926c027f1ff85abfc)
+- **feat**: add auto-scaling configuration (#1520)
+  _Agustín Manessi_
+  [Commit: a19323c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a19323c0a559e5a62740427c9364bc3b856a8919)
+- **feat**: add auto-scaling configuration (#1494)
+  _Agustín Manessi_
+  [Commit: 7cef890](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7cef890c632b815f9ebc2b2a5478fc6f53ad746b)
+- **feat**: add auto-scaling configuration (#1383)
+  _Agustín Manessi_
+  [Commit: f4c9702](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f4c9702a1cc9bfae5e33abd926c027f1ff85abfc)
+
+
+
 
 
 
