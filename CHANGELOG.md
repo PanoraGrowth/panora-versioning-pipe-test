@@ -92867,3 +92867,13 @@
   - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
 
 
+## v19.2 - 2026-04-18
+
+- feat: deploy new services layer (#1389)
+  - _Agustín Manessi_
+  - [Commit: 197e41e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/197e41e740563d5f9152978548ab9ed6daf89fe6)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: a035ab8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a035ab8d760c2dd0cd6f6e2d73cef006716f61bf)
+
+
