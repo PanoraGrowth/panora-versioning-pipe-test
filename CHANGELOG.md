@@ -64198,3 +64198,13 @@
   - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
 
 
+## v15.2 - 2026-04-18
+
+- fix: resolve semver patch bump issue (#1394)
+  - _Agustín Manessi_
+  - [Commit: 3385b36](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3385b368329fbdcc68416f6a23ed1b6b90401c36)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: 441fddb](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/441fddbd3ce7bb1a9d550536628a6766964139c4)
+
+
