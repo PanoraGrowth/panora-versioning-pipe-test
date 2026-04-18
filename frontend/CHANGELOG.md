@@ -21297,3 +21297,83 @@
   [Commit: 8d8145d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8d8145d1b9f22facb11bb390619db4eee3a99722)
 
 
+
+## v1.28 - 2026-04-18
+- **chore**: update CHANGELOG for version v1.1 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: c355cf1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c355cf18f613d42f3cbfc59ef73e6c1cd0ed4684)
+- **chore**: update CHANGELOG for version v1.1 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: d85368b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d85368bdae2871b1d512eabc8f7dd71098350042)
+- **chore**: update CHANGELOG for version v1.1 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: f2925ca](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f2925cae865c6b06ffdebf673ac9ed434c84c8ec)
+- **chore**: update CHANGELOG for version v1.1 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: b4cea6b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b4cea6b9ca02ddab91dad3af51d45b30fb7adfb2)
+- **chore**: update CHANGELOG for version v1.1 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 124eabf](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/124eabfb5f6e2fd98d94c4e47d8ea51ff9714dbb)
+- **chore**: update CHANGELOG for version v1.1 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 060d0a7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/060d0a7c1279313fd3dae0b0a40406f0e5f3f890)
+- **chore**: update CHANGELOG for version v1.1 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 19f40d1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/19f40d1ddfadec120f045a782030367284525c6c)
+- **chore**: update CHANGELOG for version v1.1 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: bc0e56a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bc0e56a20232caca55c2775a96a4d147d9de74ac)
+- **chore**: update CHANGELOG for version v1.1 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 2de1158](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2de1158b7adcfd17da1d06007cbf052de53ee539)
+- **chore**: update CHANGELOG for version v1.1 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: b86324c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b86324cf2e9f04c816f35f0d885b6d770ae3b460)
+- **chore**: update CHANGELOG for version v1.1 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: cf37659](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cf376596d5e61237bb3b7f4bc4608dbd6932b886)
+- **chore**: update CHANGELOG for version v1.1 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 443b79f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/443b79f22b9e7767665aa698affef6ef3b4336bc)
+- **chore**: update CHANGELOG for version v1.1 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 07d215d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/07d215dbdee5b93e821e7d110160100b838b5072)
+- **chore**: update CHANGELOG for version v1.1 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 9c41198](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9c41198c232edf6b162898efaad8adaf3ff8e163)
+- **chore**: update CHANGELOG for version v1.1 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 2278311](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2278311c683bfbf8db7c1becd364ca2c4665c3c6)
+- **chore**: update CHANGELOG for version v1.1 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 4281b11](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4281b1176018f29ebb046803b4a05b2a4f1ae6c3)
+- **chore**: update CHANGELOG for version v1.1 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 8ed8b76](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8ed8b76b66f40bc8c4fe7016c7e638e438620e08)
+- **chore**: update CHANGELOG for version v0.22 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 8d8145d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8d8145d1b9f22facb11bb390619db4eee3a99722)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- **chore**: update CHANGELOG for version v1.1 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 243518b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/243518be892c124aedd0bd6d352fb72ab81be309)
+
+
