@@ -29,3 +29,5 @@ changelog:
   include_author: true
   include_commit_link: true
   include_ticket_link: false
+validation:
+  hotfix_title_required: warn
