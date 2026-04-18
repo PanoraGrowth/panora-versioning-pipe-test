@@ -1,10 +1,9 @@
-# Tag on merge — create version tag + CHANGELOG when PR merges to main or sandbox branches
-# Uses GitHub App token for pushing commits to protected branches
+# Versioning pipe — PR validation + tag-on-merge
 #
 # Image tag controlled by org-level variable VERSIONING_PIPE_TAG.
 # Override with image_tag input for preview image testing.
 
-name: Main - Create Version Tag
+name: Versioning
 
 on:
   workflow_dispatch:
@@ -14,27 +13,28 @@ on:
         required: false
         type: string
         default: ""
+  pull_request:
+    branches:
+      - main
+      - 'sandbox-*'
   push:
     branches:
       - main
       - 'sandbox-*'
-    paths-ignore:
-      - '*.md'
-      - 'docs/**'
-      - 'examples/**'
-      - 'LICENSE'
 
 permissions:
   contents: write
 
 jobs:
   versioning:
+    name: Versioning Pipe
     runs-on: ubuntu-latest
     container:
       image: ghcr.io/panoragrowth/panora-versioning-pipe:${{ inputs.image_tag || vars.VERSIONING_PIPE_TAG }}
     steps:
       - name: Generate CI token
         id: ci-token
+        if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
         uses: actions/create-github-app-token@v1
         with:
           app-id: ${{ secrets.CI_APP_ID }}
@@ -44,10 +44,10 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          ref: ${{ github.ref_name }}
-          token: ${{ steps.ci-token.outputs.token }}
+          ref: ${{ github.event_name == 'pull_request' && github.head_ref || github.ref_name }}
+          token: ${{ steps.ci-token.outputs.token || github.token }}
 
       - name: Run versioning pipe
         run: /pipe/pipe.sh
         env:
-          CI_GITHUB_TOKEN: ${{ steps.ci-token.outputs.token }}
+          CI_GITHUB_TOKEN: ${{ steps.ci-token.outputs.token || '' }}
