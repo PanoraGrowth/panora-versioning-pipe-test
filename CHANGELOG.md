@@ -40696,3 +40696,10 @@
   - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
 
 
+## v28.1.1 (Hotfix) - 2026-04-18
+
+- hotfix: sandbox 28 isolation check (#1663)
+  - _Agustín Manessi_
+  - [Commit: cd74959](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cd74959da576b1fd6a3ba270013ce2e39940afa4)
+
+
