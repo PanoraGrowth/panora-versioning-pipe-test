@@ -25888,6 +25888,42 @@
 - **fix**: resolve auth token expiry in backend (#1370)
   _Agustín Manessi_
   [Commit: 6464588](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/64645888a434acb89377782753d8ffc5a73f99d7)
+- **fix**: resolve auth token expiry in backend (#1535)
+  _Agustín Manessi_
+  [Commit: c73c1f2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c73c1f2c358d30be4dd6d83ef1363f4df6cdf517)
+- **chore**: update CHANGELOG for version v17.2 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 11399eb](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/11399eb177a22b99c1a0d815fd945e6dc28c7db5)
+- **fix**: resolve auth token expiry in backend (#1506)
+  _Agustín Manessi_
+  [Commit: 437eac6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/437eac6f37d67fa2f3881d1c97b99e66f0d77f19)
+- **chore**: update CHANGELOG for version v17.2 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 25538e7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/25538e7e35fb6f88d51f7a1ebb97b207d796e87f)
+- **fix**: resolve auth token expiry in backend (#1430)
+  _Agustín Manessi_
+  [Commit: 3260de3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3260de3f4effc6d5bcb52e0b391c75e965842fe7)
+- **chore**: update CHANGELOG for version v17.2 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: ce29385](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ce2938527474e7e326a497ecf5448eeb99d25fdd)
+- **fix**: resolve auth token expiry in backend (#1400)
+  _Agustín Manessi_
+  [Commit: 81d0529](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/81d0529986c3a0457f70666bdf3935b3445da424)
+- **chore**: update CHANGELOG for version v17.2 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: d018820](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d01882099ee460f4ef3b9d6b31eb8c1f65c7e568)
+- **fix**: resolve auth token expiry in backend (#1370)
+  _Agustín Manessi_
+  [Commit: 6464588](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/64645888a434acb89377782753d8ffc5a73f99d7)
+
+
+
+
+
+
+
+
+
 
 
 
