@@ -40710,3 +40710,16 @@
   - [Commit: a80463b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a80463bb020600085f56522893b81070d8be7f14)
 
 
+## v1.27.3 - 2026-04-18
+
+- feat: sandbox 27 epoch isolation (#1691)
+  - _Agustín Manessi_
+  - [Commit: ad75068](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ad75068a75229a2e720e0ad3709ebaed306ee3f0)
+- chore(release): update CHANGELOG for version v1.27.3 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 454c9e0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/454c9e0ae644e0dee4aa34b253a4e0b539e140e2)
+- feat: sandbox 27 epoch isolation (#1662)
+  - _Agustín Manessi_
+  - [Commit: a80463b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a80463bb020600085f56522893b81070d8be7f14)
+
+
