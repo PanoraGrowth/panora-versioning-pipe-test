@@ -59901,3 +59901,25 @@
   - [Commit: 73c491e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/73c491e8985e9decf4161a922233799b09ed45e1)
 
 
+## v13.0.2 (Hotfix) - 2026-04-18
+
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: 0b5561a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0b5561a189fb819056fd10e456d05e3025a9f6f4)
+- chore(release): update CHANGELOG for version v13.0.2 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 41ae8c0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/41ae8c059eced429d194ee145e6af2a8c4ba8681)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: 9bc8e22](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9bc8e22a2520f1bc5a1a3ad3e8d8adcea3f69b06)
+- chore(release): update CHANGELOG for version v13.0.2 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 8da8808](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8da880825a24b64fae704c5f926b3e326e0af52c)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: 60110b8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/60110b839e8ff8b753c62e2113f744e4927cd273)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: 73c491e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/73c491e8985e9decf4161a922233799b09ed45e1)
+
+
