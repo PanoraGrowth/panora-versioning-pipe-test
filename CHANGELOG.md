@@ -55846,3 +55846,31 @@
   - [Commit: d40dad0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d40dad02aa22ce4c2b90bd36d744da62431ee73c)
 
 
+## v7.3 - 2026-04-18
+
+- feat: add full mode feature (#1503)
+  - _Agustín Manessi_
+  - [Commit: a27d5fc](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a27d5fc05ba78b13eb9d028da2bf265ce7724a83)
+- chore(release): update CHANGELOG for version v7.3 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 2052c5f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2052c5f795cf5bc827dbc522e8f5ed2bdfe437b4)
+- feat: add full mode feature (#1438)
+  - _Agustín Manessi_
+  - [Commit: 3747f12](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3747f126a6aba9dbc78eda22d8bcb1675eb63328)
+- chore(release): update CHANGELOG for version v7.3 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: efa2c03](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/efa2c031bdcf10662dfe07def57781e348ecc75e)
+- feat: add full mode feature (#1396)
+  - _Agustín Manessi_
+  - [Commit: 5017ce4](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5017ce402750bfec2357ba6cff3b243639fdd47b)
+- chore(release): update CHANGELOG for version v7.3 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 5b41250](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5b41250deb1210a86910a63f1cfc8da2243848cf)
+- feat: add full mode feature (#1366)
+  - _Agustín Manessi_
+  - [Commit: e78b6cb](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e78b6cb1c60f2c26593967ab3fd0a469301a1a3a)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: d40dad0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d40dad02aa22ce4c2b90bd36d744da62431ee73c)
+
+
