@@ -15429,3 +15429,28 @@
   - [Commit: f293215](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f2932152cf434501983a57e100500164c7baa534)
 
 
+## v21.2 - 2026-04-18
+
+- feat: valid pr title for squash merge (#1492)
+  - _Agustín Manessi_
+  - [Commit: 53a2256](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/53a2256e9857f3d97030a5ca303535388424a499)
+- chore(release): update CHANGELOG for version v21.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: e1ee51b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e1ee51bee8fd2bfbfa00fa00f1d772d350f7d0c0)
+- feat: valid pr title for squash merge (#1480)
+  - _Agustín Manessi_
+  - [Commit: 2055f01](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2055f016118034517999a4efb6bb0be721abb305)
+- feat: valid pr title for squash merge (#1424)
+  - _Agustín Manessi_
+  - [Commit: 369096d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/369096dd0e48c23a3adad2739cab4f641391e3c6)
+- chore(release): update CHANGELOG for version v21.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: d4652d3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d4652d3e3ead3ed9e49f8c8ae5ed0b70df31179f)
+- feat: valid pr title for squash merge (#1392)
+  - _Agustín Manessi_
+  - [Commit: 9c5caa1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9c5caa137d6a0bc339386cc97ce1b02298bfcce3)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: f293215](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f2932152cf434501983a57e100500164c7baa534)
+
+
