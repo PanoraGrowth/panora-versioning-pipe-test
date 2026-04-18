@@ -23280,6 +23280,10 @@
 - **fix**: resolve automated frontend bug (#1362)
   _Agustín Manessi_
   [Commit: fd03455](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/fd03455d944cb63091969e12d6050652c024c1e2)
+- **fix**: resolve automated frontend bug (#1658)
+  _Agustín Manessi_
+  [Commit: 28025eb](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/28025eb83890f0f5b087f3cdfa04a56817a5a4f7)
+
 
 
 
