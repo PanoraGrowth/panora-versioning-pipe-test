@@ -64843,3 +64843,13 @@
   - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
 
 
+## v12.0.2 (Hotfix) - 2026-04-18
+
+- hotfix: regression guard for patch bump after remap (#1367)
+  - _Agustín Manessi_
+  - [Commit: eda6642](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/eda66429b6be478ef54d80251cedf47308347775)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: 0d253c2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0d253c2bb61acfcd0e07b89aa1997dbea31de84f)
+
+
