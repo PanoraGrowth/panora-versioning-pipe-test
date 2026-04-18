@@ -1,2 +1,2 @@
 pr title valid squash test
-# run:ffb65d69
+# run:246c7674
