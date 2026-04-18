@@ -59892,3 +59892,22 @@
   - [Commit: 1fc6b28](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1fc6b280ee5c2046612c7443689fdc400d97e939)
 
 
+## v5.2 - 2026-04-18
+
+- fix: resolve general automated test issue (#1353)
+  - _Agustín Manessi_
+  - [Commit: f4af0fe](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f4af0fe34600aa56a39e8723674c0ccdba60282a)
+- chore(release): update CHANGELOG for version v5.2 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 947c0ff](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/947c0fff4aa4c3a68e6a907fddfcbb0ceba87d6a)
+- fix: resolve general automated test issue (#1324)
+  - _Agustín Manessi_
+  - [Commit: 0f18bb6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0f18bb6b851ae4fa409407363b098d1254b98db8)
+- chore(release): update CHANGELOG for version v5.2 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 932e8c3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/932e8c346a32fd74aa4c68e73aee792b1f23e2b2)
+- fix: resolve general automated test issue (#1287)
+  - _Agustín Manessi_
+  - [Commit: 1fc6b28](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1fc6b280ee5c2046612c7443689fdc400d97e939)
+
+
