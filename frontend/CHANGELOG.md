@@ -20844,6 +20844,42 @@
 - **fix**: resolve automated frontend bug (#1362)
   _Agustín Manessi_
   [Commit: fd03455](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/fd03455d944cb63091969e12d6050652c024c1e2)
+- **fix**: resolve automated frontend bug (#1540)
+  _Agustín Manessi_
+  [Commit: 7dd18f2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7dd18f220f939197f558b8a05e16a0ff36812172)
+- **chore**: update CHANGELOG for version v4.2 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 166aab6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/166aab69cc7134734a0efd0194673a073e660784)
+- **fix**: resolve automated frontend bug (#1500)
+  _Agustín Manessi_
+  [Commit: 07f86aa](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/07f86aa9ca339815e19829ef2f1672347f49a330)
+- **chore**: update CHANGELOG for version v4.2 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 93876de](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/93876dec4fd9170f58bcb9ab770d3a2b7e5a7577)
+- **fix**: resolve automated frontend bug (#1441)
+  _Agustín Manessi_
+  [Commit: d115942](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d1159421c77b710866692663c1e611ae57111582)
+- **chore**: update CHANGELOG for version v4.2 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 74fb2aa](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/74fb2aa35ec09522b03099022596685e42722cd9)
+- **fix**: resolve automated frontend bug (#1402)
+  _Agustín Manessi_
+  [Commit: 3716e86](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3716e869c877c61319534d2dd21c1453ed82cc22)
+- **chore**: update CHANGELOG for version v4.2 (patch bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 52763b0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/52763b054d07fcd004544dd81087dbff7fdca622)
+- **fix**: resolve automated frontend bug (#1362)
+  _Agustín Manessi_
+  [Commit: fd03455](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/fd03455d944cb63091969e12d6050652c024c1e2)
+
+
+
+
+
+
+
+
+
 
 
 
