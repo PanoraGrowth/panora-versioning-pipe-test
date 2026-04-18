@@ -36368,3 +36368,19 @@
   - [Commit: a136cc0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a136cc0a0d9341f45617684c86b04883da4e0eda)
 
 
+## v25.1 - 2026-04-18
+
+- fix: last fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 297823a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/297823acf8cf99ebcab1ecc4250791f84461038d)
+- feat: feature in the middle — must win
+  - _Agustín Manessi_
+  - [Commit: fc002d2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/fc002d245799049b736cb50b4f16f1fa0ed73173)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: e6fd278](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e6fd278acaf5d923589de3f7ba5b1d7dd53ff604)
+- chore: configure sandbox-25 for highest-bump-wins integration tests
+  - _Agustín Manessi_
+  - [Commit: 8f365a7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8f365a76eacff545bf37b13eec948d67bb3f696a)
+
+
