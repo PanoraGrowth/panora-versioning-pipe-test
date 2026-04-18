@@ -17959,6 +17959,50 @@
 - **feat**: add automated backend feature (#1393)
   _Agustín Manessi_
   [Commit: 9816072](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9816072ba2b07f0129c3d639da065f5e5ac1b5c9)
+- **feat**: add automated backend feature (#1552)
+  _Agustín Manessi_
+  [Commit: 88558db](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/88558dbe7db8d84301a2e99d8fba9b83a8c423a6)
+- **chore**: update CHANGELOG for version v3.3 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 0347390](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0347390a1d28c7834fe547b0766dc03012b7215e)
+- **feat**: add automated backend feature (#1528)
+  _Agustín Manessi_
+  [Commit: 032d2cd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/032d2cd57343defce151a57c949e1404478aa5e1)
+- **chore**: update CHANGELOG for version v3.3 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: fed5db1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/fed5db18ba5539aed8eea9717f9d04620eb84b7c)
+- **feat**: add automated backend feature (#1489)
+  _Agustín Manessi_
+  [Commit: 641873c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/641873c5090760b1ce8435eb25d0e7cfbec6e28f)
+- **chore**: update CHANGELOG for version v3.3 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: ba7f94e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ba7f94e01d6243a4da60c41b83acc730ca594595)
+- **feat**: add automated backend feature (#1481)
+  _Agustín Manessi_
+  [Commit: 92a933c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/92a933c21382f7a2902bd586accef0b54b4ea0ac)
+- **chore**: update CHANGELOG for version v3.3 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 97ecd20](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/97ecd2013301d456687768bce4245ab63fa48f7e)
+- **feat**: add automated backend feature (#1427)
+  _Agustín Manessi_
+  [Commit: a65f975](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a65f975cebe3cdb79e2521f1affb2f21f50f8543)
+- **chore**: update CHANGELOG for version v3.3 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 06549c0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/06549c058e085ba27afd94c217faed5beb6dd0eb)
+- **feat**: add automated backend feature (#1393)
+  _Agustín Manessi_
+  [Commit: 9816072](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9816072ba2b07f0129c3d639da065f5e5ac1b5c9)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
