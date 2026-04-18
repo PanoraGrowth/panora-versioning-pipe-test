@@ -64894,3 +64894,13 @@
   - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
 
 
+## v10.0.2 (Hotfix) - 2026-04-18
+
+- hotfix: wire-up patch bump integration test (#1387)
+  - _Agustín Manessi_
+  - [Commit: 343ff36](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/343ff365ec275bb5ba05fb7b54354a2ed7418b73)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: 298215b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/298215be4b1672df308c8d8a5366c20e232f0325)
+
+
