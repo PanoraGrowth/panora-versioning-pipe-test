@@ -64308,3 +64308,43 @@
   - [Commit: 441fddb](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/441fddbd3ce7bb1a9d550536628a6766964139c4)
 
 
+## v15.2 - 2026-04-18
+
+- fix: resolve semver patch bump issue (#1585)
+  - _Agustín Manessi_
+  - [Commit: 8360edd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8360edd3b17ea2d5daaa92d606134b666b0e4ca1)
+- chore(release): update CHANGELOG for version v15.2 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 0bfe2cb](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0bfe2cbc32e8ca83140a665b4c45e81045745f70)
+- fix: resolve semver patch bump issue (#1555)
+  - _Agustín Manessi_
+  - [Commit: 2f12c88](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2f12c880bd6e8514dd288ca5027c6a1ee979312e)
+- chore(release): update CHANGELOG for version v15.2 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 624844e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/624844ed44e540e240f9e201e64cf9838c4ff347)
+- fix: resolve semver patch bump issue (#1529)
+  - _Agustín Manessi_
+  - [Commit: 9113e8f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9113e8f02b5c31ae187251ca49c9b64f768cddb6)
+- chore(release): update CHANGELOG for version v15.2 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: f919da6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f919da65cdaf7a954ac59069d43736388492181b)
+- fix: resolve semver patch bump issue (#1484)
+  - _Agustín Manessi_
+  - [Commit: 442be51](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/442be51c6e7350fee655400e38039ea834998cbd)
+- chore(release): update CHANGELOG for version v15.2 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 76b01e9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/76b01e9ad37eb6f34f4752de4d6704e0dae690c7)
+- fix: resolve semver patch bump issue (#1422)
+  - _Agustín Manessi_
+  - [Commit: 3db5799](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3db5799e83e50a1fd945293842e823edb89a2ef0)
+- chore(release): update CHANGELOG for version v15.2 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 2328c3e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2328c3e6bffe421cc84f288d4cce51275054c3a5)
+- fix: resolve semver patch bump issue (#1394)
+  - _Agustín Manessi_
+  - [Commit: 3385b36](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3385b368329fbdcc68416f6a23ed1b6b90401c36)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: 441fddb](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/441fddbd3ce7bb1a9d550536628a6766964139c4)
+
+
