@@ -89084,3 +89084,16 @@
   - [Commit: 02bf241](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/02bf24165f98449c8121b4bed55b49d89d22147c)
 
 
+## v20.2 - 2026-04-18
+
+- feat: update infrastructure docs (#1653)
+  - _Agustín Manessi_
+  - [Commit: f541919](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f5419195fe8aa7b7eeeee8684a2c738e3980eb01)
+- chore(release): update CHANGELOG for version v20.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 0384d0d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0384d0d9599801266d8fc9ab8cdbefbad5ac0539)
+- feat: update infrastructure docs (#1652)
+  - _Agustín Manessi_
+  - [Commit: 02bf241](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/02bf24165f98449c8121b4bed55b49d89d22147c)
+
+
