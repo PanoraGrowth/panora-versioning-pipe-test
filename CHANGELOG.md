@@ -55710,3 +55710,16 @@
   - [Commit: fac4b7d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/fac4b7d7f060e63330ba19b853085bb499d76b9a)
 
 
+## v7.2 - 2026-04-18
+
+- feat: add full mode feature (#1251)
+  - _Agustín Manessi_
+  - [Commit: a08060e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a08060e4ef479512ab5bd734b99859ef907503fa)
+- chore(release): update CHANGELOG for version v7.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 4b17151](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4b1715115d08cf3c1d434d4163e37090df404f59)
+- feat: add full mode feature (#1201)
+  - _Agustín Manessi_
+  - [Commit: fac4b7d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/fac4b7d7f060e63330ba19b853085bb499d76b9a)
+
+
