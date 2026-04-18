@@ -63077,3 +63077,10 @@
   - [Commit: 68185c6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/68185c6ebbfdac251ee55f9c115f8fe4c504fff3)
 
 
+## v18.3 - 2026-04-18
+
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: 68185c6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/68185c6ebbfdac251ee55f9c115f8fe4c504fff3)
+
+
