@@ -80440,3 +80440,22 @@
   - [Commit: 70dcd5b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/70dcd5bf7eff76abe8c2eb2bdf4d3d347044f752)
 
 
+## v20.3 - 2026-04-18
+
+- feat: update infrastructure docs (#1504)
+  - _Agustín Manessi_
+  - [Commit: 4dbfeae](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4dbfeae245ff23f2bef5b03611b0c1cd9c4e66fa)
+- chore(release): update CHANGELOG for version v20.3 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 7c320bc](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7c320bc519d429c96491c11280d299d537a68798)
+- feat: update infrastructure docs (#1432)
+  - _Agustín Manessi_
+  - [Commit: cda0799](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cda0799f611a78e3f529b7e8443444730afec6a1)
+- chore(release): update CHANGELOG for version v20.3 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: ed8a026](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ed8a026b8aaee08a8c21a444f76d9c91ba209856)
+- feat: update infrastructure docs (#1398)
+  - _Agustín Manessi_
+  - [Commit: 70dcd5b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/70dcd5bf7eff76abe8c2eb2bdf4d3d347044f752)
+
+
