@@ -40696,3 +40696,10 @@
   - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
 
 
+## v1.27.2 - 2026-04-18
+
+- feat: sandbox 27 epoch isolation (#1661)
+  - _Agustín Manessi_
+  - [Commit: e74f88a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e74f88a2607dd8cb59edaa8a5cd7ba3802845097)
+
+
