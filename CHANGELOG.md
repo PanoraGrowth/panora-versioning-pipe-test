@@ -60795,3 +60795,16 @@
   - [Commit: 4ab1ac1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4ab1ac1ba1e1d09694c1f2ffe26ee65c1314b0eb)
 
 
+## v9.1.1 (Hotfix) - 2026-04-18
+
+- hotfix: validate extended hotfix_targets with uat (#1301)
+  - _Agustín Manessi_
+  - [Commit: 3cafdb3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3cafdb3d5fbd6d16369377e6af8f01c79448e5c6)
+- chore(release): update CHANGELOG for version v9.1.1 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: f257e57](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f257e57510139b649dd2b4f45dfdfc33a2a613ef)
+- hotfix: validate extended hotfix_targets with uat (#1263)
+  - _Agustín Manessi_
+  - [Commit: 4ab1ac1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4ab1ac1ba1e1d09694c1f2ffe26ee65c1314b0eb)
+
+
