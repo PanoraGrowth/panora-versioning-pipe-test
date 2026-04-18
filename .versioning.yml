@@ -4,26 +4,23 @@ version:
   tag_prefix_v: true
   components:
     epoch:
-      enabled: true
+      enabled: false
+      initial: 0
     major:
       enabled: true
-    minor:
-      enabled: true
+      initial: 28
     patch:
       enabled: true
       initial: 0
-    timestamp:
-      enabled: false
     hotfix_counter:
       enabled: true
+      initial: 0
 branches:
-  development: main
-  production: main
-  tag_on: main
+  development: sandbox-28
+  production: sandbox-28
+  tag_on: sandbox-28
   hotfix_targets:
-  - main
-  - pre-production
-  - uat
+  - sandbox-28
 hotfix:
   keyword:
   - hotfix:*
@@ -36,9 +33,4 @@ changelog:
   include_commit_link: true
   include_ticket_link: false
   per_folder:
-    enabled: true
-    folders:
-    - backend
-    - frontend
-    scope_matching: exact
-    fallback: file_path
+    enabled: false
