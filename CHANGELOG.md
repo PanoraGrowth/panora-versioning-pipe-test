@@ -64993,3 +64993,49 @@
   - [Commit: e14e52e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e14e52e10db49c7f264259d1084c03ec31f815fe)
 
 
+## v14.2 - 2026-04-18
+
+- feat: add semver minor bump feature (#1597)
+  - _Agustín Manessi_
+  - [Commit: f630d9f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f630d9f74b06d63488a9384d3141810f4641ad66)
+- chore(release): update CHANGELOG for version v14.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: b7193f4](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b7193f442b21cd210f67711722af5fb65a548f49)
+- feat: add semver minor bump feature (#1562)
+  - _Agustín Manessi_
+  - [Commit: 221347a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/221347af0d1c87171032c9ad6dcafd20f2ede579)
+- chore(release): update CHANGELOG for version v14.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: a3cb0bf](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a3cb0bfb5c7eb70a1f15280e9026e89986a42197)
+- feat: add semver minor bump feature (#1517)
+  - _Agustín Manessi_
+  - [Commit: 7fd2457](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7fd2457b2f0870ea04158e9027c884655dcd9712)
+- chore(release): update CHANGELOG for version v14.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: efa70a1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/efa70a1d98c3cf7fd6b85d70cce3ccb7cb9bd2fd)
+- feat: add semver minor bump feature (#1490)
+  - _Agustín Manessi_
+  - [Commit: cf36561](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cf36561f28e3d3d98438662648ba0e77bb8e2f40)
+- chore(release): update CHANGELOG for version v14.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 58ffde0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/58ffde01d0c7d3bbff2678e2ebc067b7776d7578)
+- feat: add semver minor bump feature (#1473)
+  - _Agustín Manessi_
+  - [Commit: a8e2e18](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a8e2e18ec7b13d6f542ece6dbb7f6fc1d2b1c7ad)
+- chore(release): update CHANGELOG for version v14.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: f30bcc1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f30bcc11eae7e3337c4be6b455cc7dc30082f1a3)
+- feat: add semver minor bump feature (#1416)
+  - _Agustín Manessi_
+  - [Commit: 602f38d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/602f38ddcc3a8a51d79d9e99af9e4cf7f7218300)
+- chore(release): update CHANGELOG for version v14.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 9eeb03d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9eeb03d3de0191a5c6676a466cd482873bbfe941)
+- feat: add semver minor bump feature (#1386)
+  - _Agustín Manessi_
+  - [Commit: e52285c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e52285c65eb824fe973526943bbeb0fdf0a913d3)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: e14e52e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e14e52e10db49c7f264259d1084c03ec31f815fe)
+
+
