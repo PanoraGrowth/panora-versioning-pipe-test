@@ -60875,3 +60875,31 @@
   - [Commit: 5588648](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5588648cf9a7c6a32087231de7762e86bb8e3b4b)
 
 
+## v11.1.2 (Hotfix) - 2026-04-18
+
+- hotfix(security): patch auth token validation (#1499)
+  - _Agustín Manessi_
+  - [Commit: 66b617d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/66b617dbce978dcd43a2b49ae0675d7df0c3ba16)
+- chore(release): update CHANGELOG for version v11.1.2 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 2a5401a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2a5401ae8a160478912c5c253cba105d78181299)
+- hotfix(security): patch auth token validation (#1431)
+  - _Agustín Manessi_
+  - [Commit: 2edb4bf](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2edb4bf7db0072037fa92cb4aae652f3b107f5a4)
+- chore(release): update CHANGELOG for version v11.1.2 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 50c7afc](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/50c7afc9782d7b4f58df237dba7c7d1f259428f4)
+- hotfix(security): patch auth token validation (#1403)
+  - _Agustín Manessi_
+  - [Commit: 3c4158f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3c4158fa1afd0f486f6accdad0e8c73d59301391)
+- chore(release): update CHANGELOG for version v11.1.2 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 32167d9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/32167d966c6b03f9e815ef04eb2d4c1c9d674135)
+- hotfix(security): patch auth token validation (#1368)
+  - _Agustín Manessi_
+  - [Commit: 467416b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/467416b19afcff54f084c7229c0dd810813e1515)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: 5588648](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5588648cf9a7c6a32087231de7762e86bb8e3b4b)
+
+
