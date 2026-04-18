@@ -80420,3 +80420,10 @@
   - [Commit: 91a4e2f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/91a4e2faf863ff26d4fadc96b3ef950d07c98250)
 
 
+## v20.3 - 2026-04-18
+
+- feat: update infrastructure docs (#1398)
+  - _Agustín Manessi_
+  - [Commit: 70dcd5b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/70dcd5bf7eff76abe8c2eb2bdf4d3d347044f752)
+
+
