@@ -60827,3 +60827,13 @@
   - [Commit: 2817e6f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2817e6f2f574af294294cc2aa75bca44612a9177)
 
 
+## v11.1.2 (Hotfix) - 2026-04-18
+
+- hotfix(security): patch auth token validation (#1368)
+  - _Agustín Manessi_
+  - [Commit: 467416b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/467416b19afcff54f084c7229c0dd810813e1515)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: 5588648](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5588648cf9a7c6a32087231de7762e86bb8e3b4b)
+
+
