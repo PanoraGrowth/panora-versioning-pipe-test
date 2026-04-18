@@ -92877,3 +92877,19 @@
   - [Commit: a035ab8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a035ab8d760c2dd0cd6f6e2d73cef006716f61bf)
 
 
+## v19.2 - 2026-04-18
+
+- chore(test-setup): reset version.yaml on sandbox-19
+  - _Agustín Manessi_
+  - [Commit: 4f615e9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4f615e98ef52332fd347e27bb6702657cf35390e)
+- chore(release): update CHANGELOG for version v19.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: d137f48](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d137f483ace3fa6de7da319d8eae502b2023ddcd)
+- feat: deploy new services layer (#1389)
+  - _Agustín Manessi_
+  - [Commit: 197e41e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/197e41e740563d5f9152978548ab9ed6daf89fe6)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: a035ab8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a035ab8d760c2dd0cd6f6e2d73cef006716f61bf)
+
+
