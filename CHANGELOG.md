@@ -64904,3 +64904,19 @@
   - [Commit: 320cd9e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/320cd9e37868ff8983aeb461286c1177e5a6e013)
 
 
+## v2.2 - 2026-04-18
+
+- fix: resolve automated test bug (#1407)
+  - _Agustín Manessi_
+  - [Commit: 417fbf6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/417fbf6bfeb4fd1f58ccf30bb4dd7a02a8071657)
+- chore(release): update CHANGELOG for version v2.2 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 6de52d5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6de52d54046df810da4198a9d6595a654a2053e5)
+- fix: resolve automated test bug (#1372)
+  - _Agustín Manessi_
+  - [Commit: 42ba818](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/42ba8184c16b14fcebc391047a337014b10bce25)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: 320cd9e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/320cd9e37868ff8983aeb461286c1177e5a6e013)
+
+
