@@ -64942,3 +64942,31 @@
   - [Commit: 6d510bf](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6d510bfdb72e0c94b8f6cbd5f69de511b5ae8ea6)
 
 
+## v8.2 - 2026-04-18
+
+- feat: validate tag_on main with extended hotfix_targets (#1491)
+  - _Agustín Manessi_
+  - [Commit: 7d74f89](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7d74f890a1ade1383d781355b668a3b35edaa9fb)
+- chore(release): update CHANGELOG for version v8.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: c5ab161](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c5ab1612c0fa49749bcc6f92df6271d1aa61c7b2)
+- feat: validate tag_on main with extended hotfix_targets (#1470)
+  - _Agustín Manessi_
+  - [Commit: f83be70](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f83be7039aa232495d778f2cf048dff9572f431b)
+- chore(release): update CHANGELOG for version v8.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: c896960](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c896960742c900ad3d6bdb65616b78db30559d1a)
+- feat: validate tag_on main with extended hotfix_targets (#1423)
+  - _Agustín Manessi_
+  - [Commit: 129d8ba](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/129d8ba3f00b359e90c6f83e990c90fc83118602)
+- chore(release): update CHANGELOG for version v8.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 67ae3b1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/67ae3b162597e9716a3a397bc866c432d16685f4)
+- feat: validate tag_on main with extended hotfix_targets (#1382)
+  - _Agustín Manessi_
+  - [Commit: 6e82f02](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6e82f026a9eb6477f8c397d8d26c360dd8eeb63b)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: 6d510bf](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6d510bfdb72e0c94b8f6cbd5f69de511b5ae8ea6)
+
+
