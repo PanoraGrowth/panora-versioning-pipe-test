@@ -104561,3 +104561,10 @@
   - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
 
 
+## v19.2 - 2026-04-18
+
+- feat: deploy new services layer (#1647)
+  - _Agustín Manessi_
+  - [Commit: eab886a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/eab886a0efcac7ea75a4bebbaf79add55f246490)
+
+
