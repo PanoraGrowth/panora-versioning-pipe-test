@@ -15400,3 +15400,13 @@
   - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
 
 
+## v21.2 - 2026-04-18
+
+- feat: valid pr title for squash merge (#1392)
+  - _Agustín Manessi_
+  - [Commit: 9c5caa1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9c5caa137d6a0bc339386cc97ce1b02298bfcce3)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: f293215](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f2932152cf434501983a57e100500164c7baa534)
+
+
