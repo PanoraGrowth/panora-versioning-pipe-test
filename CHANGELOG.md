@@ -80394,3 +80394,13 @@
   - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
 
 
+## v20.2 - 2026-04-18
+
+- feat: update infrastructure docs (#1371)
+  - _Agustín Manessi_
+  - [Commit: 6bf0e63](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6bf0e631d3888b4c7589476fb75f49becd0be4a9)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: 91a4e2f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/91a4e2faf863ff26d4fadc96b3ef950d07c98250)
+
+
