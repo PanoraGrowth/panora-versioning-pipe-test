@@ -17807,6 +17807,34 @@
 - **feat**: add automated backend feature (#1202)
   _Agustín Manessi_
   [Commit: 8f2cda1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8f2cda1e3ca34464bbebdbd03f8274079ca2a636)
+- **feat**: add automated backend feature (#1322)
+  _Agustín Manessi_
+  [Commit: 7759948](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/77599485caca34c700ccdfff7a484f495ae257f8)
+- **chore**: update CHANGELOG for version v3.2 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: f4b7a47](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f4b7a47f7c98d540c83152714653224993b478fa)
+- **feat**: add automated backend feature (#1290)
+  _Agustín Manessi_
+  [Commit: ce0ebf1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ce0ebf131918ca4b0c61f5a96076d2f094a7bc96)
+- **chore**: update CHANGELOG for version v3.2 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: 40787e3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/40787e39a96476f65cf7d658605740d379f9f467)
+- **feat**: add automated backend feature (#1253)
+  _Agustín Manessi_
+  [Commit: e08860a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e08860a8e89c47654400a49f34615c2899199a61)
+- **chore**: update CHANGELOG for version v3.2 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: f31c6c2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f31c6c26662121cd017518dc741474169711787f)
+- **feat**: add automated backend feature (#1202)
+  _Agustín Manessi_
+  [Commit: 8f2cda1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8f2cda1e3ca34464bbebdbd03f8274079ca2a636)
+
+
+
+
+
+
+
 
 
 
