@@ -36588,3 +36588,67 @@
   - [Commit: a28b03f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a28b03f2b656d009e482c351c7a23cc05c660ee2)
 
 
+## v25.2 - 2026-04-18
+
+- fix: last fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 2507904](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/25079045eedf3609959fec10b513ba9207e934b2)
+- feat: feature in the middle — must win
+  - _Agustín Manessi_
+  - [Commit: 699ac0c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/699ac0cdbc48bc1bad28b80d6ca216ca0d8c4055)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: ecc9050](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ecc9050e636e1e2dc35f84dd71374ea4c00a7a9c)
+- chore(release): update CHANGELOG for version v25.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: cca4a95](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cca4a95fa8462dcdd4158c0385362436f7dddd79)
+- fix: last fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: a11312f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a11312f2d392f37e974591809b8ab14d7ead202a)
+- feat: feature in the middle — must win
+  - _Agustín Manessi_
+  - [Commit: 88dc8c2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/88dc8c2b60ca0bd0e42cf423b4f7c3c743fde147)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: bbd68fc](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bbd68fccd090d5751c0767534730f6db7f5c9469)
+- chore(release): update CHANGELOG for version v25.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 5753a3e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5753a3eeed906efa38ef3237dcc1f92c4c9c60ae)
+- fix: last fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 93f53bf](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/93f53bf0b72cc26a2852b87669bf918bc497d5ee)
+- feat: feature in the middle — must win
+  - _Agustín Manessi_
+  - [Commit: c5974d9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c5974d95ef4ef8fa972e22e8c6afc53a43544e3c)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: bdd24ae](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bdd24aecc57994d1d689e1231d388abeec98c36c)
+- chore(release): update CHANGELOG for version v25.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: f7687d4](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f7687d44844cd7f916522925fa12a5de0d109239)
+- fix: last fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: e693278](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e693278a1907783f2e12d4d31f214aca52903bfd)
+- feat: feature in the middle — must win
+  - _Agustín Manessi_
+  - [Commit: 7b2e29f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7b2e29f8574a197c98882a282f945fb2f529924b)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 01eaab5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/01eaab53dc9a3ea89fcacc57d8cb72fa03a5881d)
+- chore(release): update CHANGELOG for version v25.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 334c201](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/334c2015d07e601c05805bad6154baf878ddc73d)
+- fix: last fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 9d41576](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9d41576898ebcdca9d51f68dba5aa75b40144dba)
+- feat: feature in the middle — must win
+  - _Agustín Manessi_
+  - [Commit: 1cf46de](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1cf46deeddbb2eb09166aead22f1572a2afa0073)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: db7f623](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/db7f623d9281c2bd6345f7181bd9ab98c1cd005c)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: a28b03f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a28b03f2b656d009e482c351c7a23cc05c660ee2)
+
+
