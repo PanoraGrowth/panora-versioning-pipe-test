@@ -65490,3 +65490,40 @@
   - [Commit: f4a8af2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f4a8af22e17331c28aec2d72118eda683bab94a6)
 
 
+## v6.2 - 2026-04-18
+
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 9cbf57d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9cbf57d5ce1e84a3f09fa40fb7a83c5ad8f7ecf1)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 144365c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/144365c1d4e3ef4f8e7fc07c027477e41932cf92)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 424b410](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/424b41086eee6694752dbe27051ca57faf368f70)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 55f06cc](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/55f06ccd8b0278201e8abcecb1fa611b1c73c733)
+- chore(release): update CHANGELOG for version v6.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: cf8b0bd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cf8b0bd1e2868d0ba7952ebab8fe1abe1cfa98d9)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 582bd2f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/582bd2fdeef8981bc29935c7221b96daf34895d9)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: f914b8f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f914b8f79c39a4f69f8cd810317dc8f56452be94)
+- chore(release): update CHANGELOG for version v6.2 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 97aedfa](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/97aedfa1600f378ef04e3b0e81e85a702aeea1d2)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: cbf3a75](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cbf3a7586d580ebaffb244eee2a38a1308004262)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: bf08fae](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bf08fae352f6f71e639c39895b2c1b4725ba5904)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: f4a8af2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f4a8af22e17331c28aec2d72118eda683bab94a6)
+
+
