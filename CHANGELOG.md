@@ -64894,3 +64894,13 @@
   - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
 
 
+## v8.2 - 2026-04-18
+
+- feat: validate tag_on main with extended hotfix_targets (#1382)
+  - _Agustín Manessi_
+  - [Commit: 6e82f02](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6e82f026a9eb6477f8c397d8d26c360dd8eeb63b)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: 6d510bf](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6d510bfdb72e0c94b8f6cbd5f69de511b5ae8ea6)
+
+
