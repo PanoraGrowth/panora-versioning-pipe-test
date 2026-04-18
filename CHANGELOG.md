@@ -36412,3 +36412,43 @@
   - [Commit: 8f365a7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8f365a76eacff545bf37b13eec948d67bb3f696a)
 
 
+## v25.1 - 2026-04-18
+
+- fix: last fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 14d01e9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/14d01e92ce94b88f32d989287dc7d899b0e7a546)
+- feat: feature in the middle — must win
+  - _Agustín Manessi_
+  - [Commit: 78a0d42](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/78a0d420768a35e4ae092e6c852068946eb74bc7)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 6b1d632](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6b1d6327542a8f164d5d16acbe94eccf12451614)
+- chore(release): update CHANGELOG for version v25.1 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 680e479](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/680e47993800cfcf9a5b0dca41fa505e97ece5d5)
+- fix: last fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: a06a261](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a06a261fdf77579686290b78180a7355553e58b9)
+- feat: feature in the middle — must win
+  - _Agustín Manessi_
+  - [Commit: e7974ef](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e7974ef0f5688337f50c293f2c423a0b840c74ab)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: f4d18db](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f4d18db966b05d1036184ad5cf49931e517ad6b8)
+- chore(release): update CHANGELOG for version v25.1 (patch bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 56cf0d8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/56cf0d82b46c2db22ba0d8f8b1173faf7f8ab0fc)
+- fix: last fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 297823a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/297823acf8cf99ebcab1ecc4250791f84461038d)
+- feat: feature in the middle — must win
+  - _Agustín Manessi_
+  - [Commit: fc002d2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/fc002d245799049b736cb50b4f16f1fa0ed73173)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: e6fd278](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e6fd278acaf5d923589de3f7ba5b1d7dd53ff604)
+- chore: configure sandbox-25 for highest-bump-wins integration tests
+  - _Agustín Manessi_
+  - [Commit: 8f365a7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8f365a76eacff545bf37b13eec948d67bb3f696a)
+
+
