@@ -19380,6 +19380,26 @@
 - **feat**: unified auth layer across backend and frontend (#1288)
   _Agustín Manessi_
   [Commit: 0531cda](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0531cdaa1cfd2d343a6627651b5cc0ef7d1afa33)
+- **feat**: unified auth layer across backend and frontend (#1357)
+  _Agustín Manessi_
+  [Commit: 56930a9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/56930a9ab719418f25b959c94ddaa825f59d7a58)
+- **chore**: update CHANGELOG for version v18.2 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: a345495](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a34549541197c9f71219b23e8b48c7af13247318)
+- **feat**: unified auth layer across backend and frontend (#1321)
+  _Agustín Manessi_
+  [Commit: 093880e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/093880ed8a3c991588052d2cc405cff2b3d14caa)
+- **chore**: update CHANGELOG for version v18.2 (minor bump) [skip ci]
+  _CI Pipeline_
+  [Commit: a7e531e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a7e531e8bd4a0776bec7f4463bcad167c58dfbe1)
+- **feat**: unified auth layer across backend and frontend (#1288)
+  _Agustín Manessi_
+  [Commit: 0531cda](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0531cdaa1cfd2d343a6627651b5cc0ef7d1afa33)
+
+
+
+
+
 
 
 
