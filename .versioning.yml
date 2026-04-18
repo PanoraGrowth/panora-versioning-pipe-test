@@ -23,7 +23,6 @@ branches:
   hotfix_targets:
   - main
   - pre-production
-  - uat
 hotfix:
   keyword:
   - hotfix:*
