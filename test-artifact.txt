@@ -1,1 +1,1 @@
-hotfix scoped test
+hotfix custom targets test
