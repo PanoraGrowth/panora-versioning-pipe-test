@@ -19409,3 +19409,11 @@
   [Commit: 0531cda](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0531cdaa1cfd2d343a6627651b5cc0ef7d1afa33)
 
 
+
+## v18.3 - 2026-04-18
+
+- **feat**: unified auth layer across backend and frontend (#1384)
+  _Agustín Manessi_
+  [Commit: 317550e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/317550e6b76115aa3433d2951e1fb15022e95191)
+
+
