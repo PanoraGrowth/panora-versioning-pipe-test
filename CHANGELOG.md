@@ -40696,3 +40696,10 @@
   - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
 
 
+## v26.2 - 2026-04-18
+
+- feat: sandbox 26 isolation check (#1660)
+  - _Agustín Manessi_
+  - [Commit: 467f548](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/467f5488b46f0e84a84dd4902a73749c1769c1c1)
+
+
