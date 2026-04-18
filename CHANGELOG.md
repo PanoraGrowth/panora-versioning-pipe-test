@@ -59875,3 +59875,13 @@
   - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
 
 
+## v13.0.2 (Hotfix) - 2026-04-18
+
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: 60110b8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/60110b839e8ff8b753c62e2113f744e4927cd273)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: 73c491e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/73c491e8985e9decf4161a922233799b09ed45e1)
+
+
