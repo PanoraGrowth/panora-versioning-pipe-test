@@ -8533,3 +8533,10 @@
   - [Commit: d40c951](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d40c95184dd1533fd6b066893dddda6b1439c0cc)
 
 
+## v24.0.1 (Hotfix) - 2026-04-18
+
+- hotfix: fix critical auth bypass (#1224)
+  - _Agustín Manessi_
+  - [Commit: 7256bf3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7256bf30e6f7a3c1b8cd86d1b4d288c6300807e9)
+
+
