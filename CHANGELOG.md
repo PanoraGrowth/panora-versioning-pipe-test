@@ -92913,3 +92913,22 @@
   - [Commit: 8c88ce6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8c88ce650168e3a072492802e800ed8434f82b19)
 
 
+## v19.3 - 2026-04-18
+
+- feat: deploy new services layer (#1485)
+  - _Agustín Manessi_
+  - [Commit: e8af24e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e8af24ef26efe19020809969135becf8b62b76a6)
+- chore(release): update CHANGELOG for version v19.3 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 6ef67ab](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6ef67ab65bffd5f2814f2d666960fd8137e69fc2)
+- feat: deploy new services layer (#1468)
+  - _Agustín Manessi_
+  - [Commit: b25de84](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b25de847ccff8696318144c695d18f42fbf37bb0)
+- chore(release): update CHANGELOG for version v19.3 (minor bump) [skip ci]
+  - _CI Pipeline_
+  - [Commit: 0e500c4](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0e500c425c03e11d60214cb6ed46204a205d4fba)
+- feat: deploy new services layer (#1419)
+  - _Agustín Manessi_
+  - [Commit: 8c88ce6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8c88ce650168e3a072492802e800ed8434f82b19)
+
+
