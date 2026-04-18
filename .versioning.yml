@@ -22,8 +22,6 @@ branches:
   tag_on: main
   hotfix_targets:
   - main
-  - pre-production
-  - uat
 hotfix:
   keyword:
   - hotfix:*
