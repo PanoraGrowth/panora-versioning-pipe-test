@@ -38004,3 +38004,10 @@
   - [Commit: 21486d7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/21486d7c7766fb79df068859b9c4755fe73ebcb5)
 
 
+## v29.6 - 2026-04-19
+
+- feat: guardrail regression test (#1780)
+  - _Agustín Manessi_
+  - [Commit: 0294808](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/029480872855287ee64b69a568a7b6dee7210d40)
+
+
