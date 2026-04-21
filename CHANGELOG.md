@@ -39139,3 +39139,13 @@
   - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
 
 
+## v0.0.2 - 2026-04-21
+
+- fix(workflow): use panora-versioning binary as entrypoint (#2011)
+  - _Agustín Manessi_
+  - [Commit: 5b1f485](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5b1f4854cf50d11c945c8df2c35f5b2bd831016a)
+- revert(ci): roll back run: panora-versioning — 068 fix insufficient
+  - _Agustín Manessi_
+  - [Commit: 8746bdb](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8746bdb422e0d5033ccbde3b87b64e8443ab8865)
+
+
