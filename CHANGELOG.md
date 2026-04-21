@@ -8652,3 +8652,10 @@
   - [Commit: 553f079](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/553f079db41a90705b1c9afc6d2548ad3730659b)
 
 
+## v24.1 - 2026-04-21
+
+- ci: sync versioning.yml entrypoint from main (panora-versioning)
+  - _CI Pipeline_
+  - [Commit: 03bb8e6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/03bb8e6fac15ad3e11b757015e49bb00cb5b8110)
+
+
