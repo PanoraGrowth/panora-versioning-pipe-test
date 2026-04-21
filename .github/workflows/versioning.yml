@@ -48,6 +48,6 @@ jobs:
           token: ${{ steps.ci-token.outputs.token || github.token }}
 
       - name: Run versioning pipe
-        run: panora-versioning
+        run: /pipe/pipe.sh
         env:
           CI_GITHUB_TOKEN: ${{ steps.ci-token.outputs.token || '' }}
