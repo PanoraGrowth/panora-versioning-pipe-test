@@ -42,3 +42,5 @@ changelog:
     - frontend
     scope_matching: exact
     fallback: file_path
+validation:
+  require_commit_types: false
