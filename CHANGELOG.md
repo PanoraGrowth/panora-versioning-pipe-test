@@ -38011,3 +38011,16 @@
   - [Commit: 0294808](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/029480872855287ee64b69a568a7b6dee7210d40)
 
 
+## v28.2 - 2026-04-21
+
+- ci: sync versioning.yml entrypoint from main (panora-versioning)
+  - _CI Pipeline_
+  - [Commit: d0bcc5b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d0bcc5b422d5d47697a71ae23544a94e56bf4639)
+- feat: guardrail regression test (#1780)
+  - _Agustín Manessi_
+  - [Commit: 0294808](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/029480872855287ee64b69a568a7b6dee7210d40)
+- chore(test-setup): seed sandbox-29
+  - _Agustín Manessi_
+  - [Commit: f71520e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f71520ec608f39a369173aa73e724cc0f6419152)
+
+
