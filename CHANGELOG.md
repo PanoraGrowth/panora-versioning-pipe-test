@@ -4906,3 +4906,13 @@
   - [Commit: bdd76ff](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bdd76ff85b1a25c0a329aa2c4f0f415eb0b7a4a3)
 
 
+## v19.3 - 2026-04-22
+
+- chore: reset sandbox-19 version file for integration tests
+  - _Agustín Manessi_
+  - [Commit: bfa0d38](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bfa0d3820a8d56dd0c84c8336cdccf12cafb518a)
+- feat: deploy new services layer (#2163)
+  - _Agustín Manessi_
+  - [Commit: bdd76ff](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bdd76ff85b1a25c0a329aa2c4f0f415eb0b7a4a3)
+
+
