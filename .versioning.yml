@@ -16,16 +16,26 @@ version:
       enabled: true
       initial: 0
 branches:
+  development: sandbox-22
+  production: sandbox-22
   tag_on: sandbox-22
   hotfix_targets:
   - sandbox-22
 hotfix:
   keyword:
-  - hotfix:*
-  - hotfix(*
-  - '[Hh]otfix/*'
+  - "^hotfix(\(|:)"
+  - "^[Hh]otfix/"
+  - "URGENT-PATCH"
 changelog:
+  mode: full
   commit_url: https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit
   include_author: true
   include_commit_link: true
   include_ticket_link: false
+  per_folder:
+    enabled: true
+    folders:
+    - backend
+    - frontend
+    scope_matching: exact
+    fallback: file_path
