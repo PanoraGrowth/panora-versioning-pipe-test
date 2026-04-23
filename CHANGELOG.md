@@ -1235,3 +1235,13 @@
   - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
 
 
+## v13.1.1 (Hotfix) - 2026-04-23
+
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: e4547df](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e4547df9420c5b8865aff6785d8028fe6ab8d312)
+- chore(test-setup): seed sandbox-13
+  - _Agustín Manessi_
+  - [Commit: 5a1c696](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5a1c696e7913de3b9c829e8b2e5bcd651872e1db)
+
+
