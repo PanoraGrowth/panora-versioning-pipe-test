@@ -2487,3 +2487,13 @@
   - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
 
 
+## v9.1.1 (Hotfix) - 2026-04-23
+
+- hotfix: validate extended hotfix_targets with uat (#2207)
+  - _Agustín Manessi_
+  - [Commit: 02a67c3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/02a67c37c51fc5e7a9b9deb67a89206340a48158)
+- chore(test-setup): seed sandbox-09
+  - _Agustín Manessi_
+  - [Commit: decdce2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/decdce22b97023ec00bdcfcf3cf6a5a606694036)
+
+
