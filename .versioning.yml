@@ -8,7 +8,7 @@ version:
       initial: 0
     major:
       enabled: true
-      initial: 0
+      initial: 29
     patch:
       enabled: true
       initial: 0
@@ -23,9 +23,9 @@ branches:
   - sandbox-29
 hotfix:
   keyword:
-  - hotfix:*
-  - hotfix(*
-  - '[Hh]otfix/*'
+  - "^hotfix(\(|:)"
+  - "^[Hh]otfix/"
+  - "URGENT-PATCH"
 changelog:
   mode: full
   commit_url: https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit
