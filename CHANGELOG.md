@@ -4516,3 +4516,13 @@
   - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
 
 
+## v1.27.2 - 2026-04-23
+
+- feat: sandbox 27 epoch isolation (#2197)
+  - _Agustín Manessi_
+  - [Commit: 2dfb4c5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2dfb4c5754fca6d1b8ef94359fd9228d037e52c5)
+- chore(test-setup): seed sandbox-27
+  - _Agustín Manessi_
+  - [Commit: 4e97dd6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4e97dd6b47ae397af5d44dae1caf7e4f769972b1)
+
+
