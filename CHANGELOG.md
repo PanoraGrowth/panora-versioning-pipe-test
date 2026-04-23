@@ -8987,3 +8987,10 @@
   - [Commit: 667bc43](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/667bc4372e0154d39e042bac9891bdbf90b7861c)
 
 
+## v1.29 - 2026-04-23
+
+- feat: add automated test feature (#2192)
+  - _Agustín Manessi_
+  - [Commit: c63f983](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c63f9836107c5ad79cb18162fc1b2eac966b310d)
+
+
