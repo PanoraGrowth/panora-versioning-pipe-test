@@ -23,9 +23,9 @@ branches:
   - sandbox-10
 hotfix:
   keyword:
-  - "^hotfix(\(|:)"
-  - "^[Hh]otfix/"
-  - "URGENT-PATCH"
+  - '^hotfix(\(|:)'
+  - '^[Hh]otfix/'
+  - 'URGENT-PATCH'
 changelog:
   mode: full
   commit_url: https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit
