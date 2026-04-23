@@ -2289,3 +2289,10 @@
   - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
 
 
+## v4.2 - 2026-04-23
+
+- chore(test-setup): seed sandbox-04
+  - _Agustín Manessi_
+  - [Commit: ffc5162](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ffc51627d70f1f36c39ede627b04e0c9ac01e33e)
+
+
