@@ -8814,3 +8814,16 @@
   - [Commit: 2679d8d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2679d8dea3b98a48cbb0c23315f1c2ada668cc94)
 
 
+## v1.2 - 2026-04-23
+
+- chore(test-setup): seed sandbox-01
+  - _Agustín Manessi_
+  - [Commit: 2907cbc](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2907cbcc13d85440a7b5817979abbc27f226d64a)
+- chore(test-setup): seed sandbox-01
+  - _Agustín Manessi_
+  - [Commit: 0f81d1a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0f81d1aacf09746bc6d971fd77e4e0f2a88df624)
+- feat: add automated test feature (#2165)
+  - _Agustín Manessi_
+  - [Commit: 2679d8d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2679d8dea3b98a48cbb0c23315f1c2ada668cc94)
+
+
