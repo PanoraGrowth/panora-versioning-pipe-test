@@ -2475,3 +2475,13 @@
   - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
 
 
+## v10.1.1 (Hotfix) - 2026-04-23
+
+- hotfix: wire-up patch bump integration test (#2203)
+  - _Agustín Manessi_
+  - [Commit: d57ef91](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d57ef916e7c48c9e66fb8e470788c8d114841cc4)
+- chore(test-setup): seed sandbox-10
+  - _Agustín Manessi_
+  - [Commit: 7a6761d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7a6761da0580e442649b8ff424bf4a172c6498f6)
+
+
