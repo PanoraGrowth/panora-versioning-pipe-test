@@ -1,40 +1,40 @@
-commits:
-  format: conventional
-version:
-  tag_prefix_v: true
-  components:
-    epoch:
-      enabled: false
-      initial: 0
-    major:
-      enabled: true
-      initial: 16
-    patch:
-      enabled: true
-      initial: 0
-    hotfix_counter:
-      enabled: true
-      initial: 0
 branches:
-  development: sandbox-16
-  production: sandbox-16
-  tag_on: sandbox-16
-  hotfix_targets:
-  - sandbox-16
-hotfix:
-  keyword:
-  - '^hotfix(\(|:)'
-  - '^[Hh]otfix/'
-  - 'URGENT-PATCH'
+    development: sandbox-16
+    hotfix_targets:
+        - sandbox-16
+    production: sandbox-16
+    tag_on: sandbox-16
 changelog:
-  mode: full
-  commit_url: https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit
-  include_author: true
-  include_commit_link: true
-  include_ticket_link: false
-  per_folder:
-    enabled: true
-    folders:
-    - services
-    scope_matching: suffix
-    fallback: root
+    commit_url: https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit
+    include_author: true
+    include_commit_link: true
+    include_ticket_link: false
+    mode: full
+    per_folder:
+        enabled: true
+        fallback: root
+        folders:
+            - services
+        scope_matching: suffix
+commits:
+    format: conventional
+hotfix:
+    keyword:
+        - ^hotfix(\(|:)
+        - ^[Hh]otfix/
+        - URGENT-PATCH
+version:
+    components:
+        epoch:
+            enabled: false
+            initial: 0
+        hotfix_counter:
+            enabled: true
+            initial: 0
+        major:
+            enabled: true
+            initial: 16
+        patch:
+            enabled: true
+            initial: 0
+    tag_prefix_v: true
