@@ -3909,3 +3909,11 @@
   [Commit: a45cc0a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a45cc0adab6ea610c3be4436e93185caa1b4f1fd)
 
 
+
+## v3.2 - 2026-04-23
+
+- **feat**: add automated backend feature (#2200)
+  _Agustín Manessi_
+  [Commit: 566e702](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/566e7023b551da2dfec8989c83f5e482d2e7f793)
+
+
