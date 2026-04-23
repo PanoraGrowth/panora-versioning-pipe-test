@@ -1,44 +1,43 @@
-commits:
-  format: conventional
-version:
-  tag_prefix_v: true
-  components:
-    epoch:
-      enabled: false
-      initial: 0
-    major:
-      enabled: true
-      initial: 20
-    patch:
-      enabled: true
-      initial: 0
-    hotfix_counter:
-      enabled: true
-      initial: 0
 branches:
-  development: sandbox-20
-  production: sandbox-20
-  tag_on: sandbox-20
-  hotfix_targets:
-  - sandbox-20
-hotfix:
-  keyword:
-  - '^hotfix(\(|:)'
-  - '^[Hh]otfix/'
-  - 'URGENT-PATCH'
+    development: sandbox-20
+    hotfix_targets:
+        - sandbox-20
+    production: sandbox-20
+    tag_on: sandbox-20
 changelog:
-  mode: full
-  commit_url: https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit
-  include_author: true
-  include_commit_link: true
-  include_ticket_link: false
-  per_folder:
-    enabled: false
+    commit_url: https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit
+    include_author: true
+    include_commit_link: true
+    include_ticket_link: false
+    mode: full
+    per_folder:
+        enabled: false
+commits:
+    format: conventional
+hotfix:
+    keyword:
+        - ^hotfix(\(|:)
+        - ^[Hh]otfix/
+        - URGENT-PATCH
+version:
+    components:
+        epoch:
+            enabled: false
+            initial: 0
+        hotfix_counter:
+            enabled: true
+            initial: 0
+        major:
+            enabled: true
+            initial: 20
+        patch:
+            enabled: true
+            initial: 0
+    tag_prefix_v: true
 version_file:
-  enabled: true
-  groups:
-    - name: services
-      files:
-        - path: services/version.yaml
-      trigger_paths:
-        - services/**
+    enabled: true
+    groups:
+        - files:
+            - services/version.yaml
+          trigger_paths:
+            - services/**
