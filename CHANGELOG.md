@@ -8827,3 +8827,163 @@
   - [Commit: 2679d8d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2679d8dea3b98a48cbb0c23315f1c2ada668cc94)
 
 
+## v1.28 - 2026-04-23
+
+- chore(test-setup): seed sandbox-01
+  - _Agustín Manessi_
+  - [Commit: 447b0fb](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/447b0fb75eefacd5c03ee5085f4c1036279d1700)
+- chore(test-setup): seed sandbox-01
+  - _Agustín Manessi_
+  - [Commit: 2907cbc](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2907cbcc13d85440a7b5817979abbc27f226d64a)
+- chore(test-setup): seed sandbox-01
+  - _Agustín Manessi_
+  - [Commit: 0f81d1a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0f81d1aacf09746bc6d971fd77e4e0f2a88df624)
+- feat: add automated test feature (#2165)
+  - _Agustín Manessi_
+  - [Commit: 2679d8d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2679d8dea3b98a48cbb0c23315f1c2ada668cc94)
+- feat: add automated test feature (#2149)
+  - _Agustín Manessi_
+  - [Commit: 71c3878](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/71c3878c5fe93408a70dde8b141be4b150706f53)
+- feat: dummy change 1 (#2096)
+  - _Agustín Manessi_
+  - [Commit: a2a8646](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a2a8646f952de2034c625de02ba2528485e15b9b)
+- feat: dummy change 1 (#2091)
+  - _Agustín Manessi_
+  - [Commit: 47c248d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/47c248d07b238d0e70cde896e77e875d7e13c051)
+- feat: dummy change 1 (#2087)
+  - _Agustín Manessi_
+  - [Commit: 882bdb1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/882bdb1e50d372193dbfba325507b573370abad0)
+- feat: dummy change 1 (#2081)
+  - _Agustín Manessi_
+  - [Commit: c880817](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c880817e48835a2230726e76c7bbc99335ff8fb8)
+- feat: dummy change 1 (#2078)
+  - _Agustín Manessi_
+  - [Commit: a853f19](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a853f192ca1a3ea3e0be535699f28a9fa98d6f87)
+- feat: dummy change 1 (#2073)
+  - _Agustín Manessi_
+  - [Commit: 81225ce](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/81225ceb80f42dab8f02fe9cd0b9b7ccff969a69)
+- chore: reset CHANGELOGs para cleanup de sandbox [skip ci]
+  - _CI Pipeline_
+  - [Commit: d9d8a7b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d9d8a7b7fb423f5cd21da2c12f72b186279e8111)
+- ci: sync versioning.yml entrypoint from main (panora-versioning)
+  - _CI Pipeline_
+  - [Commit: f1d81f4](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f1d81f44cea33f3e1a70849e3c4fe055af4869dc)
+- feat: add automated test feature (#1803)
+  - _Agustín Manessi_
+  - [Commit: db70d5a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/db70d5aa999195d6fef9adb70f51aec666ea04f0)
+- feat: add automated test feature (#1783)
+  - _Agustín Manessi_
+  - [Commit: 60eff1e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/60eff1ef34b5014f7b08c3150015bbe1034438c3)
+- feat: add automated test feature (#1781)
+  - _Agustín Manessi_
+  - [Commit: cd688d9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cd688d9c86d0fbe0a6e62a58564567e689e6e280)
+- feat: add automated test feature (#1759)
+  - _Agustín Manessi_
+  - [Commit: 5895f0e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5895f0ea0d5d8d902b8197ba195c96e5201b5990)
+- feat: add automated test feature (#1738)
+  - _Agustín Manessi_
+  - [Commit: c2a5626](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c2a562619a0e39c35eb39e08c84df0a1f4fc9ce0)
+- feat: add automated test feature (#1718)
+  - _Agustín Manessi_
+  - [Commit: 3a719c3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3a719c3ae67649c9051ec25ab4d2519c0d706139)
+- feat: add automated test feature (#1680)
+  - _Agustín Manessi_
+  - [Commit: 3468615](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3468615671044c13aaff00f78a62f38353b9a95f)
+- feat: add automated test feature (#1616)
+  - _Agustín Manessi_
+  - [Commit: 785913b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/785913ba2837e5bd09ea643a75c4018371ddf2f7)
+- feat: add automated test feature (#1582)
+  - _Agustín Manessi_
+  - [Commit: b79592f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b79592f698eda05ff5dc5a21271b7603db16239c)
+- feat: add automated test feature (#1549)
+  - _Agustín Manessi_
+  - [Commit: 659c500](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/659c5000df48f6454a5b0f51e7eae60db884f6af)
+- feat: add automated test feature (#1513)
+  - _Agustín Manessi_
+  - [Commit: 5337102](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/53371025249d03c10a12ba1b942d60b71ea69d3f)
+- feat: add automated test feature (#1446)
+  - _Agustín Manessi_
+  - [Commit: 4a68a2d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4a68a2d333f8c805835a047d36947cd06f765ebf)
+- feat: add automated test feature (#1411)
+  - _Agustín Manessi_
+  - [Commit: 3f1640f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3f1640fc136be766f217a7a7c83fefdda7946e03)
+- feat: add automated test feature (#1376)
+  - _Agustín Manessi_
+  - [Commit: 32147f7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/32147f7e53d01771b07541ce27f93a7d478115b1)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: 566eede](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/566eede0f7dde73246eec36925390d4a166a9fab)
+- feat: add automated test feature (#1347)
+  - _Agustín Manessi_
+  - [Commit: 070c043](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/070c0439122cb7f35b500960fb6acedea20a2383)
+- feat: add automated test feature (#1310)
+  - _Agustín Manessi_
+  - [Commit: 7b3579b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7b3579b042431cd330d3ac3091ae4ca29a03fc00)
+- feat: add automated test feature (#1278)
+  - _Agustín Manessi_
+  - [Commit: 8faff94](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8faff948b18b645eacedcac6c5795cf22d495f61)
+- feat: add automated test feature (#1245)
+  - _Agustín Manessi_
+  - [Commit: d8c068a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d8c068abbeef800c60cbe47a52fb2f25c5efe973)
+- feat: add automated test feature (#1193)
+  - _Agustín Manessi_
+  - [Commit: b95d095](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b95d0957d2704e33d716a60564ea276bf6cb861e)
+- feat: add automated test feature (#1166)
+  - _Agustín Manessi_
+  - [Commit: 371ece7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/371ece7729cb3d0da5a52e17ac18bdb432d35277)
+- feat: add automated test feature (#1126)
+  - _Agustín Manessi_
+  - [Commit: e9854ea](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e9854eaea954f191b3e3db06fec77ee1a96ace48)
+- feat: add automated test feature (#1087)
+  - _Agustín Manessi_
+  - [Commit: f440bc7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f440bc7e224ed3b8cf1c8afe90aebfd3894eba35)
+- feat: add automated test feature (#1057)
+  - _Agustín Manessi_
+  - [Commit: 88a3e8a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/88a3e8ae025ab9da15954cbbdc08c0dbe4bb44f5)
+- feat: add automated test feature (#1027)
+  - _Agustín Manessi_
+  - [Commit: 74e25bc](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/74e25bcecafca577ee5674b28b1253e71216e3b6)
+- feat: add automated test feature (#996)
+  - _Agustín Manessi_
+  - [Commit: aa5d815](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/aa5d815c8f2c503389f0d8a732fe16b9eb0bcd54)
+- feat: add automated test feature (#967)
+  - _Agustín Manessi_
+  - [Commit: 7899f99](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7899f998470ed963fe1a527812967bdce2b90d52)
+- feat: add automated test feature (#937)
+  - _Agustín Manessi_
+  - [Commit: ac823af](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ac823af239c2f3cee5c075e7259ef8acacb1f83e)
+- feat: add automated test feature (#893)
+  - _Agustín Manessi_
+  - [Commit: 5d9b08a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5d9b08a22b379ea0cac1bed7e2af207b42227fac)
+- feat: add automated test feature (#870)
+  - _Agustín Manessi_
+  - [Commit: c1d516c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c1d516c328426f8ccd9b3c131af788f16b3d96d8)
+- feat: add automated test feature (#846)
+  - _Agustín Manessi_
+  - [Commit: 3544d76](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3544d76363e1c414e84c60cfdf596e199a91b22b)
+- feat: add automated test feature (#822)
+  - _Agustín Manessi_
+  - [Commit: 31249ee](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/31249ee2430c75772cd4f25ba1b9799dc355da01)
+- feat: add automated test feature (#802)
+  - _Agustín Manessi_
+  - [Commit: bb7cc18](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bb7cc18b026144e2f5d50fca7de3ff228a129a4e)
+- ci: sync tag-on-merge trigger + checkout ref to sandbox
+  - _Agustín Manessi_
+  - [Commit: 4493a1c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4493a1c889bd9b42c44d30db9d4086f584065540)
+- feat: add automated test feature (#778)
+  - _Agustín Manessi_
+  - [Commit: b5f69b6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b5f69b635ea12945a48a8c8c38dd45a6f763fb7f)
+- feat: add automated test feature (#751)
+  - _Agustín Manessi_
+  - [Commit: 139a043](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/139a043aa17b221c9fe48a166321d9fcf2d85620)
+- feat: add automated test feature (#739)
+  - _Agustín Manessi_
+  - [Commit: 57f5f91](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/57f5f911e289f5380addbbc392835f449c5ffa96)
+- ci: extend PR versioning trigger to sandbox-*
+  - _Agustín Manessi_
+  - [Commit: 4cec690](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4cec690655258e997834df0b4d1cebe1424ee39d)
+- chore(test-setup): seed sandbox-01
+  - _Agustín Manessi_
+  - [Commit: 667bc43](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/667bc4372e0154d39e042bac9891bdbf90b7861c)
+
+
