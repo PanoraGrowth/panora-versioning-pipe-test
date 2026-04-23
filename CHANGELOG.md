@@ -1241,3 +1241,1249 @@
   - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
 
 
+## v11.1 - 2026-04-23
+
+- chore(test-setup): seed sandbox-11
+  - _Agustín Manessi_
+  - [Commit: 100b4b5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/100b4b522b24061a2806d208578e799c6482f97e)
+- chore(test-setup): seed sandbox-11
+  - _Agustín Manessi_
+  - [Commit: be6ea39](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/be6ea397a297cbeda1b1270f4a9d709ce7a76a42)
+- hotfix(security): patch auth token validation (#2143)
+  - _Agustín Manessi_
+  - [Commit: f203dbe](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f203dbe21d4dce41b4eba29efbf7d635f34a73b2)
+- chore: reset CHANGELOGs para cleanup de sandbox [skip ci]
+  - _CI Pipeline_
+  - [Commit: 9f9522b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9f9522b04e7b998da7e254977e95ac481c2a59e3)
+- ci: sync versioning.yml entrypoint from main (panora-versioning)
+  - _CI Pipeline_
+  - [Commit: 38c12d9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/38c12d94d83be739feac2f32032727a259ecbe32)
+- hotfix(security): patch auth token validation (#1791)
+  - _Agustín Manessi_
+  - [Commit: d3f42dd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d3f42dd1742d406078ed4af9d41c3196c211cd0e)
+- hotfix(security): patch auth token validation (#1753)
+  - _Agustín Manessi_
+  - [Commit: 4d29ad7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4d29ad7856c142c843c8c70248d7a8b004dab3fa)
+- hotfix(security): patch auth token validation (#1709)
+  - _Agustín Manessi_
+  - [Commit: b55a4bb](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b55a4bb2af3428c3c08b60845aeb9140453a2827)
+- hotfix(security): patch auth token validation (#1668)
+  - _Agustín Manessi_
+  - [Commit: c2762e6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c2762e65674ffc4353494810262d216469d768f7)
+- hotfix(security): patch auth token validation (#1636)
+  - _Agustín Manessi_
+  - [Commit: 720f0d0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/720f0d050fd0ed606d86de5f0a437d771af3266f)
+- hotfix(security): patch auth token validation (#1610)
+  - _Agustín Manessi_
+  - [Commit: b2bf708](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b2bf708f120fd47a1e71bd9400aa2127796de00a)
+- hotfix(security): patch auth token validation (#1566)
+  - _Agustín Manessi_
+  - [Commit: ef9bb42](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ef9bb427975a0076499aeccaacbd74389ec40e8b)
+- hotfix(security): patch auth token validation (#1541)
+  - _Agustín Manessi_
+  - [Commit: eac4d1b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/eac4d1b1bfd77b18eae21e4ac80e84b3ff0a4c4f)
+- hotfix(security): patch auth token validation (#1499)
+  - _Agustín Manessi_
+  - [Commit: 66b617d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/66b617dbce978dcd43a2b49ae0675d7df0c3ba16)
+- hotfix(security): patch auth token validation (#1431)
+  - _Agustín Manessi_
+  - [Commit: 2edb4bf](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2edb4bf7db0072037fa92cb4aae652f3b107f5a4)
+- hotfix(security): patch auth token validation (#1403)
+  - _Agustín Manessi_
+  - [Commit: 3c4158f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3c4158fa1afd0f486f6accdad0e8c73d59301391)
+- hotfix(security): patch auth token validation (#1368)
+  - _Agustín Manessi_
+  - [Commit: 467416b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/467416b19afcff54f084c7229c0dd810813e1515)
+- chore: unify versioning workflows into single versioning.yml
+  - _Agustín Manessi_
+  - [Commit: 5588648](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5588648cf9a7c6a32087231de7762e86bb8e3b4b)
+- hotfix(security): patch auth token validation (#1338)
+  - _Agustín Manessi_
+  - [Commit: 60a1682](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/60a1682f288096c89c65bb0510a1ea7d3ba0abf6)
+- hotfix(security): patch auth token validation (#1302)
+  - _Agustín Manessi_
+  - [Commit: 3842e5a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3842e5a80b34ea83d27a241b0e04591798fce205)
+- hotfix(security): patch auth token validation (#1268)
+  - _Agustín Manessi_
+  - [Commit: 2817e6f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2817e6f2f574af294294cc2aa75bca44612a9177)
+- hotfix(security): patch auth token validation (#1257)
+  - _Agustín Manessi_
+  - [Commit: a9ecd8f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a9ecd8f61a1d246a583cc80b0d6dda1ce8144e45)
+- hotfix(security): patch auth token validation (#1203)
+  - _Agustín Manessi_
+  - [Commit: d07beb5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d07beb53ef6361a17fd01f15662a56aa7dc47274)
+- hotfix(security): patch auth token validation (#1189)
+  - _Agustín Manessi_
+  - [Commit: 2191a6f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2191a6f269817eb4d92ddea9ca27cdcfb42a0933)
+- hotfix(security): patch auth token validation (#1137)
+  - _Agustín Manessi_
+  - [Commit: ae73e59](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ae73e59ea47bdb41f60a2e698f70128090ac1709)
+- hotfix(security): patch auth token validation (#1097)
+  - _Agustín Manessi_
+  - [Commit: 2f460b2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2f460b2e7fe02963cd7f9b8e135152347167b2b4)
+- hotfix(security): patch auth token validation (#1066)
+  - _Agustín Manessi_
+  - [Commit: 8fc8c76](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8fc8c764b50114184282f7021436619fbe211f69)
+- hotfix(security): patch auth token validation (#1034)
+  - _Agustín Manessi_
+  - [Commit: d6c5daf](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d6c5daf4619812353e3b34f0b92ba508a267bc97)
+- hotfix(security): patch auth token validation (#1007)
+  - _Agustín Manessi_
+  - [Commit: a14fefe](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a14fefe2e73f7fb3b3582ce286a00e8b89949432)
+- hotfix(security): patch auth token validation (#976)
+  - _Agustín Manessi_
+  - [Commit: 6354771](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6354771ad14a246fcb1eaa00b3f86a55f29fd1cd)
+- hotfix(security): patch auth token validation (#936)
+  - _Agustín Manessi_
+  - [Commit: 0f5e521](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0f5e5210cdf4fc9c396c42237fead0fae9aee14b)
+- hotfix(security): patch auth token validation (#888)
+  - _Agustín Manessi_
+  - [Commit: ae9bfdd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ae9bfdd0fce0db08694af737eb65a8dab9144924)
+- hotfix(security): patch auth token validation (#883)
+  - _Agustín Manessi_
+  - [Commit: 8e6a5b7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8e6a5b76b4c3bf3c4057e8a7b0f195b17ee7a162)
+- hotfix(security): patch auth token validation (#849)
+  - _Agustín Manessi_
+  - [Commit: cb420c5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cb420c5deaad684041d326cd35c4ea0ac7c37598)
+- hotfix(security): patch auth token validation (#813)
+  - _Agustín Manessi_
+  - [Commit: 2e4822b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2e4822b334b84a9e12a190a40a39cb83594de328)
+- hotfix(security): patch auth token validation (#798)
+  - _Agustín Manessi_
+  - [Commit: e9d5518](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e9d5518fb4d75d95546e8d1987b1a776f931a88d)
+- ci: sync tag-on-merge trigger + checkout ref to sandbox
+  - _Agustín Manessi_
+  - [Commit: 6c2e6b3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6c2e6b3b957df76ccc5880a6f6666b30647405d3)
+- hotfix(security): patch auth token validation (#774)
+  - _Agustín Manessi_
+  - [Commit: f151e47](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f151e476e9907738537783b54f15b79e28f28c8d)
+- hotfix(security): patch auth token validation (#761)
+  - _Agustín Manessi_
+  - [Commit: 25f2939](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/25f2939011f837527da3080a38e8cc2039c010e6)
+- ci: extend PR versioning trigger to sandbox-*
+  - _Agustín Manessi_
+  - [Commit: 1e61b28](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1e61b28eedd231baa4cec8a491eabc24d56dbd86)
+- chore(test-setup): seed sandbox-11
+  - _Agustín Manessi_
+  - [Commit: 9d90087](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9d9008727fb0841502d19ab69746abc5622fc415)
+- hotfix(security): patch auth token validation (#721)
+  - _Agustín Manessi_
+  - [Commit: a136cc0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a136cc0a0d9341f45617684c86b04883da4e0eda)
+- fix: resolve general automated test issue (#720)
+  - _Agustín Manessi_
+  - [Commit: 28baab1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/28baab1d3e71d0aa04de8ae2e55f766e9cabe54b)
+- hotfix: wire-up patch bump integration test (#719)
+  - _Agustín Manessi_
+  - [Commit: 1408d6d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1408d6db642d38f372996275b41830990b2a05d2)
+- feat: validate tag_on main with extended hotfix_targets (#712)
+  - _Agustín Manessi_
+  - [Commit: 8ed051b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8ed051bb946195c726fff7b9e16f153b6034656a)
+- fix: resolve automated test bug (#709)
+  - _Agustín Manessi_
+  - [Commit: 95bae9b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/95bae9bd5df36d80f3ce507c35a1aeff16275107)
+- feat: add full mode feature (#707)
+  - _Agustín Manessi_
+  - [Commit: b959dae](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b959daef0c918842a3e81730795a10c48fbe6db5)
+- feat: add automated test feature (#705)
+  - _Agustín Manessi_
+  - [Commit: 01351ce](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/01351ce52cb17e5b1cfda00b642fe7ebda4875b9)
+- fix: resolve general automated test issue (#700)
+  - _Agustín Manessi_
+  - [Commit: 487f325](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/487f325e65106ae249a0e3a6730851b4a82ddb93)
+- fix: resolve automated test bug (#695)
+  - _Agustín Manessi_
+  - [Commit: 74aaf11](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/74aaf11b4527cb52108325c1dbf6a71302a7c2db)
+- feat: add automated test feature (#694)
+  - _Agustín Manessi_
+  - [Commit: dbd2d81](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/dbd2d81882422aa3e7387c3b66390fe9b4a4feca)
+- fix: resolve automated test bug (#687)
+  - _Agustín Manessi_
+  - [Commit: 50638fc](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/50638fc8ff038d671e6b182b2bc56d5072e621b5)
+- feat: add automated test feature (#686)
+  - _Agustín Manessi_
+  - [Commit: 92d789c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/92d789c495751e4f6a967f5e5c6b2281d048bcd4)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: 8dc4572](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8dc4572f08314751dc5495a463dee44461b95f60)
+- fix: resolve automated test bug (#677)
+  - _Agustín Manessi_
+  - [Commit: 426179a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/426179a51799984d78d2a537eab0a51988d3f10e)
+- hotfix: regression guard for patch bump after remap (#674)
+  - _Agustín Manessi_
+  - [Commit: 45dfdcd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/45dfdcd4f114ac07c666c04ecda6691426ad006a)
+- fix: resolve semver patch bump issue (#669)
+  - _Agustín Manessi_
+  - [Commit: 7eb99dd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7eb99dd5f45e3861a3a15320b1a19d42529ec70b)
+- fix: resolve automated test bug (#668)
+  - _Agustín Manessi_
+  - [Commit: d1a4ebc](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d1a4ebc4b1f548e56a589dd7b926cdf5ba042c66)
+- feat: add semver minor bump feature (#666)
+  - _Agustín Manessi_
+  - [Commit: 9b1507f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9b1507fb2f5183c597f9ebdaf2958d8dca660d29)
+- feat: add automated test feature (#665)
+  - _Agustín Manessi_
+  - [Commit: b88bd29](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b88bd29e612848f4ac8cd15c637116ac01007530)
+- hotfix: regression guard for patch bump after remap (#661)
+  - _Agustín Manessi_
+  - [Commit: 5a119fa](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5a119faa3e7c3337111cd5aedf423d2768fbb147)
+- hotfix: wire-up patch bump integration test (#658)
+  - _Agustín Manessi_
+  - [Commit: d609f8c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d609f8c686a1971f272c3a9dd6880d465ff3cb1e)
+- fix: resolve semver patch bump issue (#654)
+  - _Agustín Manessi_
+  - [Commit: d93bd93](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d93bd936392761e0f0e6175e0e396da0e120da81)
+- hotfix: validate extended hotfix_targets with uat (#651)
+  - _Agustín Manessi_
+  - [Commit: e2d1785](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e2d178532047145afde3199338669fcdf35b8ee8)
+- feat: add semver minor bump feature (#650)
+  - _Agustín Manessi_
+  - [Commit: e58228d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e58228d5226e414074243c39d1a93643456f5aab)
+- feat: validate tag_on main with extended hotfix_targets (#649)
+  - _Agustín Manessi_
+  - [Commit: 882d8b8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/882d8b8e9f2a6b999284e32537095e6517d46ae7)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: 4485bb1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4485bb1ad58a60b655e4838561d0c9c3694d8ac1)
+- hotfix(security): patch auth token validation (#647)
+  - _Agustín Manessi_
+  - [Commit: d3bdb52](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d3bdb52a6cebaec3c54188e178fda61cb0fb33d3)
+- feat: add full mode feature (#644)
+  - _Agustín Manessi_
+  - [Commit: ccb7270](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ccb72700d04bf8464661e19e3feb8665d941e736)
+- hotfix: regression guard for patch bump after remap (#640)
+  - _Agustín Manessi_
+  - [Commit: f4298f6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f4298f6b9f7d44838ff33f7fa64ac765de70b84d)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 3619270](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3619270a4d8f2a8cbc27fc6e9c783d69ee8760f3)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 51c837a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/51c837abbb3553118aa2bf9f465113372837f991)
+- fix: resolve semver patch bump issue (#636)
+  - _Agustín Manessi_
+  - [Commit: f98ae32](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f98ae3245b14cef6d0680b0464b6beffeb1d6f6e)
+- feat: add automated test feature (#634)
+  - _Agustín Manessi_
+  - [Commit: 9fa3cdd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9fa3cdd2ec65cd1dd35702322ff9dd83e9791356)
+- hotfix(security): patch auth token validation (#628)
+  - _Agustín Manessi_
+  - [Commit: 91acccf](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/91acccf4d972db272c395b35e78f24f7c278bcb1)
+- feat: add full mode feature (#625)
+  - _Agustín Manessi_
+  - [Commit: ba464a1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ba464a16aa38561dcdcd559ba7a2f6b1e3bb9351)
+- hotfix: wire-up patch bump integration test (#622)
+  - _Agustín Manessi_
+  - [Commit: 5a33bf8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5a33bf8e7f98dde8262032fb22892b8ddb9df114)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 481064b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/481064be6ab313094e95fb15f9ae6a24c0b57b9b)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 700170c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/700170c59d8fe69232219ca07254ca9950df522c)
+- fix: resolve automated test bug (#620)
+  - _Agustín Manessi_
+  - [Commit: a28ace3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a28ace397ed61802a6d4cdd18e6083861952848b)
+- hotfix: validate extended hotfix_targets with uat (#619)
+  - _Agustín Manessi_
+  - [Commit: a66aa78](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a66aa7860561b6be2ad668d5575a1a64b315d6b8)
+- fix: resolve general automated test issue (#618)
+  - _Agustín Manessi_
+  - [Commit: 8ad4110](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8ad41103df4b4bac97ce07ad8a248f5780c759fb)
+- feat: add automated test feature (#617)
+  - _Agustín Manessi_
+  - [Commit: 94bc857](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/94bc85765840dbd85e8046edb652a03bd43d4a07)
+- feat: validate tag_on main with extended hotfix_targets (#615)
+  - _Agustín Manessi_
+  - [Commit: bbd7cd4](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bbd7cd40df7eb4d02583370f1a0765df8a6e2cd4)
+- feat: add full mode feature (#609)
+  - _Agustín Manessi_
+  - [Commit: 00e3cd1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/00e3cd1465215b1c5aec9f85ef00b813c11a94c8)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 66dd740](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/66dd740111765ea7657c4a966701255cba41c255)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 46d4b1b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/46d4b1b7307703cb9f3290e7b4f018d83963d77b)
+- fix: resolve automated test bug (#605)
+  - _Agustín Manessi_
+  - [Commit: 6cc531a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6cc531af1efdd22e2a9eed4a323c95e57b87a483)
+- fix: resolve general automated test issue (#604)
+  - _Agustín Manessi_
+  - [Commit: 0c63767](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0c63767b2d199478199ecd8f1236e343bb1ea3b3)
+- feat: add automated test feature (#603)
+  - _Agustín Manessi_
+  - [Commit: fbbcc0d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/fbbcc0d9fc47449b82a6606bb9f8f188d32287c7)
+- fix: resolve automated test bug (#594)
+  - _Agustín Manessi_
+  - [Commit: f3617de](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f3617debba8121ff6566df9dd702f62cd847f225)
+- feat: add automated test feature (#593)
+  - _Agustín Manessi_
+  - [Commit: a9442e6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a9442e64f668637ab3d075f1e1bf181cafd8b331)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: ccb6c24](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ccb6c24a35faf499211cdab54dfbd3e86f65ef3d)
+- hotfix: regression guard for patch bump after remap (#585)
+  - _Agustín Manessi_
+  - [Commit: e7e4126](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e7e41261511b5cd1924edd2282e30656e5a6d235)
+- fix: resolve semver patch bump issue (#584)
+  - _Agustín Manessi_
+  - [Commit: 6213672](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/62136722aa7cd6b370bfb08cf951e137ed2607ef)
+- feat: add semver minor bump feature (#583)
+  - _Agustín Manessi_
+  - [Commit: 173c124](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/173c124078153a53436e561815ced70533c63a1c)
+- hotfix(security): patch auth token validation (#582)
+  - _Agustín Manessi_
+  - [Commit: 7bae0c0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7bae0c005fa3f020ad6e1c1d411f80f31fb38fee)
+- feat: add semver minor bump feature (#581)
+  - _Agustín Manessi_
+  - [Commit: 3ee10f1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3ee10f1eaefc7ab0087d3908de5b7c6ca1267518)
+- hotfix: wire-up patch bump integration test (#579)
+  - _Agustín Manessi_
+  - [Commit: 5315a52](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5315a5203fa222956a802ebb92b23470ad3dbf7e)
+- hotfix: validate extended hotfix_targets with uat (#578)
+  - _Agustín Manessi_
+  - [Commit: cafa29d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cafa29dccfdda05a87257b2b109ad2abb7745d4d)
+- feat: add automated test feature (#576)
+  - _Agustín Manessi_
+  - [Commit: 1420a86](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1420a8681eb315432bc30f36416ca47715aa0592)
+- feat: add full mode feature (#575)
+  - _Agustín Manessi_
+  - [Commit: 6fb8f94](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6fb8f949581459a779c7f22d78862eb0b95564a2)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: a892588](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a8925889a803b7752bb5397a49f94115e44fa037)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 288280d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/288280d9a5bb215953431311da20379bfe8daed9)
+- fix: resolve general automated test issue (#573)
+  - _Agustín Manessi_
+  - [Commit: 0a34fca](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0a34fca533d222b3a63c1c58cab4bb49f35d7c43)
+- fix: resolve automated test bug (#570)
+  - _Agustín Manessi_
+  - [Commit: 38458b3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/38458b3a84bcc189bf590462723686ebec74e9ba)
+- feat: add automated test feature (#569)
+  - _Agustín Manessi_
+  - [Commit: e0d7ca6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e0d7ca6ff6d8320735e56d0329fce676498ddd77)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: aaa5bee](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/aaa5beea567c846faf19e70d86d8aa14a2ce54ee)
+- hotfix: regression guard for patch bump after remap (#561)
+  - _Agustín Manessi_
+  - [Commit: 1715f70](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1715f7096336858ff24b0ad07fa731d8665f0b25)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: b7dd6a3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b7dd6a37e4a2e11ae38dc6e55c80333e508eb661)
+- hotfix: regression guard for patch bump after remap (#559)
+  - _Agustín Manessi_
+  - [Commit: 4d698e4](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4d698e4ac4518674591896605fbd0fec3b8b9036)
+- fix: resolve semver patch bump issue (#558)
+  - _Agustín Manessi_
+  - [Commit: 67abcc9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/67abcc9fe41fb8e7b90c30f1752e0829ecbf9d97)
+- fix: resolve semver patch bump issue (#557)
+  - _Agustín Manessi_
+  - [Commit: 37e0ae7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/37e0ae7e921b7f97054fa88c031fc34f127b882d)
+- hotfix(security): patch auth token validation (#556)
+  - _Agustín Manessi_
+  - [Commit: 8542936](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/854293653dbe9029adc0c900799f80fb47184879)
+- hotfix(security): patch auth token validation (#555)
+  - _Agustín Manessi_
+  - [Commit: 02e652e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/02e652edb598fde338bced1251159fac9941b1a5)
+- hotfix: wire-up patch bump integration test (#554)
+  - _Agustín Manessi_
+  - [Commit: 145a8b0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/145a8b077360dbc0ae86db14e12f44d5daf09cbe)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: 4b0342d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4b0342da5b3a8ddd414fe6b2770437cf537e080b)
+- hotfix: wire-up patch bump integration test (#552)
+  - _Agustín Manessi_
+  - [Commit: bf7962e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bf7962edec9a0a8f7d03d6194dfbdfd2b14bc36d)
+- feat: add full mode feature (#551)
+  - _Agustín Manessi_
+  - [Commit: 818378b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/818378b0df4c3276120bf54f6afb9433fce45cfc)
+- hotfix: regression guard for patch bump after remap (#550)
+  - _Agustín Manessi_
+  - [Commit: 92af5d9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/92af5d99a3a596d5be39fb526ab635bcc2111514)
+- feat: add full mode feature (#549)
+  - _Agustín Manessi_
+  - [Commit: 150d036](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/150d0362dcab552e46b429171a84d8689c8267a5)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: f45d4ec](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f45d4ec62c94512dabb2a5d0eec68589a18d3124)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: a30c4a5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a30c4a57d5203d636dd8dc0a6702567e2687663c)
+- fix: resolve semver patch bump issue (#547)
+  - _Agustín Manessi_
+  - [Commit: a4ef9fd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a4ef9fd09217f0d5d0edefbe963570b2ee5c7109)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 0dfd4fd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0dfd4fd50a1ce9db25cce5219ba65176e899c7b3)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: a68393a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a68393af38a43010a1d0e2a95baef2c5c0f3a2e9)
+- fix: resolve general automated test issue (#543)
+  - _Agustín Manessi_
+  - [Commit: 0f3107e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0f3107e9302aa629b9febf57c34e3530ea19bd6b)
+- hotfix(security): patch auth token validation (#540)
+  - _Agustín Manessi_
+  - [Commit: 5ba3dbd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5ba3dbd00cd0641365b45243378b1e2a0d6fe21f)
+- fix: resolve general automated test issue (#537)
+  - _Agustín Manessi_
+  - [Commit: 900ce84](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/900ce84a43de5558be1bc35012e8611d4501b13f)
+- fix: resolve semver patch bump issue (#531)
+  - _Agustín Manessi_
+  - [Commit: ff9dbc7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ff9dbc7ae90c83baacf7a85dc485d47e5a13aadd)
+- feat: add semver minor bump feature (#529)
+  - _Agustín Manessi_
+  - [Commit: 96cd828](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/96cd82892391e20f648f27d1b402b23a529c290c)
+- feat: add semver minor bump feature (#527)
+  - _Agustín Manessi_
+  - [Commit: a2bf9d7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a2bf9d7deb26c10d7ea23ef8436cbaa760506a0a)
+- hotfix(security): patch auth token validation (#525)
+  - _Agustín Manessi_
+  - [Commit: 3eceb11](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3eceb119ae63ba6de445f246db047d1bf4da276e)
+- fix: resolve automated test bug (#524)
+  - _Agustín Manessi_
+  - [Commit: 155d86c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/155d86c8667e0b23b06e238c49b968722cede5ad)
+- hotfix(security): patch auth token validation (#521)
+  - _Agustín Manessi_
+  - [Commit: ec656f8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ec656f85279746d3386cc0233775b73111d3f4db)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: 108d3dd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/108d3ddc10e3be8e142bac4da4dce2407bef50fd)
+- hotfix: wire-up patch bump integration test (#512)
+  - _Agustín Manessi_
+  - [Commit: d1e0592](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d1e0592d55641951c7362d674c159ec7c422031e)
+- hotfix: wire-up patch bump integration test (#509)
+  - _Agustín Manessi_
+  - [Commit: d29f20f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d29f20f9f8ec34bd63cfbc3e3fa8cd4890bad506)
+- fix: resolve automated test bug (#506)
+  - _Agustín Manessi_
+  - [Commit: 268e61c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/268e61c70b2d353445172f09d1b76977919d4b18)
+- fix: resolve semver patch bump issue (#504)
+  - _Agustín Manessi_
+  - [Commit: bbfe2ab](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bbfe2ab85813eb35fbf66099d4ca3b6a40891062)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: d8862f7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d8862f7fd9f74aee2685cd69f3f09590c11f80b1)
+- fix: resolve general automated test issue (#498)
+  - _Agustín Manessi_
+  - [Commit: 1716122](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1716122a8bf5f9d91bfc445716b2be85665a9b5a)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 7873671](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/78736718e679ef31a24730d26fad2e0054723ecc)
+- fix: resolve general automated test issue (#496)
+  - _Agustín Manessi_
+  - [Commit: 55bf45e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/55bf45e82babfc1c6a118692b931025ac74efa26)
+- hotfix: wire-up patch bump integration test (#494)
+  - _Agustín Manessi_
+  - [Commit: 201cac6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/201cac69652c73e885eee034f37059cd9862d16e)
+- feat: add full mode feature (#486)
+  - _Agustín Manessi_
+  - [Commit: cfa8748](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cfa8748a94c14ff3c6e5b7c96feb9e784431d820)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: b23218a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b23218a80b2eeca783a0f9c86e9879518d9f89f3)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: e8db3d0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e8db3d063ce94a137eccc8cf6dff3bf0bf776430)
+- fix: resolve automated test bug (#478)
+  - _Agustín Manessi_
+  - [Commit: 86b4745](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/86b47459487e3ac534199c1693dea02003ea410c)
+- fix: resolve automated test bug (#477)
+  - _Agustín Manessi_
+  - [Commit: b537078](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b53707859a6ffbee57703368102122a90f1ad71c)
+- fix: resolve general automated test issue (#476)
+  - _Agustín Manessi_
+  - [Commit: fb6442f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/fb6442f13316c3065c21a397f0435889335641b0)
+- feat: add automated test feature (#474)
+  - _Agustín Manessi_
+  - [Commit: 1021ac7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1021ac71b655d55c935ad7c881f4c0ef90d863da)
+- fix: resolve automated test bug (#461)
+  - _Agustín Manessi_
+  - [Commit: 1366220](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1366220d1b75bac61af7b55a5076aab395b1197b)
+- feat: add automated test feature (#460)
+  - _Agustín Manessi_
+  - [Commit: 9499ac3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9499ac37ce7f709937c8b1252b80bc762347e8ba)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: 95b6a27](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/95b6a27f2c132dde3a3a7e4940f86335176ef099)
+- hotfix: regression guard for patch bump after remap (#453)
+  - _Agustín Manessi_
+  - [Commit: 2e4285f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2e4285f151b6cca46c5bd06f11d9924be2c5133c)
+- fix: resolve semver patch bump issue (#452)
+  - _Agustín Manessi_
+  - [Commit: d8b4a37](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d8b4a37086c5e3a9932c14427143130cc76d46d9)
+- feat: add semver minor bump feature (#451)
+  - _Agustín Manessi_
+  - [Commit: a7da9fa](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a7da9fae8594bd510f0c6216ee237ee394e09cd6)
+- hotfix(security): patch auth token validation (#450)
+  - _Agustín Manessi_
+  - [Commit: fb70e74](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/fb70e74f8d1b45a4470c0f2cb840b8f1892fca01)
+- hotfix: wire-up patch bump integration test (#449)
+  - _Agustín Manessi_
+  - [Commit: 1b46a60](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1b46a60b40631529f2e5d3d5b2dccf5501b2c421)
+- feat: add full mode feature (#448)
+  - _Agustín Manessi_
+  - [Commit: f6cd7ec](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f6cd7ec1f1cf583ff85c48ad84a7f228481121c4)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: d59f758](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d59f7580d8df9e155c1414582deac2ecd32b660a)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: e62eb23](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e62eb23c0e40ca9b691db03f3b8befc7b0f72f56)
+- fix: resolve general automated test issue (#446)
+  - _Agustín Manessi_
+  - [Commit: 89d8c5c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/89d8c5c07c4a1b28faf51916bbc2e2c0a618bf2e)
+- fix: resolve automated test bug (#443)
+  - _Agustín Manessi_
+  - [Commit: bebdb8d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bebdb8dcac3fb0bb985b48ac767255d680bc8cd6)
+- feat: add automated test feature (#442)
+  - _Agustín Manessi_
+  - [Commit: 7e2796f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7e2796f03da887645c19451e46ae4d92a5da2d33)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: 6421054](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6421054056c66f5acfc227f09db9235d84892bac)
+- hotfix: regression guard for patch bump after remap (#435)
+  - _Agustín Manessi_
+  - [Commit: 51f9d20](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/51f9d206751949188c561f248237cee8e1f6fa91)
+- fix: resolve semver patch bump issue (#434)
+  - _Agustín Manessi_
+  - [Commit: 894b14d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/894b14dd782e792a5f80676b11b5c6381ae24170)
+- feat: add semver minor bump feature (#433)
+  - _Agustín Manessi_
+  - [Commit: 270908e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/270908ee36d17fb0fe03c5e5350dd444393b492d)
+- hotfix(security): patch auth token validation (#432)
+  - _Agustín Manessi_
+  - [Commit: 86fedb4](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/86fedb4fd88675a422bfc42e6b7eac66318e5e7d)
+- hotfix: wire-up patch bump integration test (#431)
+  - _Agustín Manessi_
+  - [Commit: 2047150](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2047150b5316caebe0c22ab940447174ec05d1c8)
+- feat: add full mode feature (#430)
+  - _Agustín Manessi_
+  - [Commit: 0c8f2b8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0c8f2b8a186e3a6eeb3450430cd528aa73a53d05)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: d7ddfca](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d7ddfca9ae63a9d54fb8e09baa7a58291344e270)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: c25010f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c25010f95d215379b4e8478bd4df7408b92c126e)
+- fix: resolve general automated test issue (#428)
+  - _Agustín Manessi_
+  - [Commit: 78b28a9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/78b28a99c2c0c14f9f35823712eb7155853202f6)
+- fix: resolve automated test bug (#425)
+  - _Agustín Manessi_
+  - [Commit: 9d9622e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9d9622ec1cf1ce126bc0d6401cd100fcec48f24e)
+- feat: add automated test feature (#424)
+  - _Agustín Manessi_
+  - [Commit: cc39bee](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cc39beefb477359998a7ee2ec7391b4489019fe2)
+- feat: add semver minor bump feature (#418)
+  - _Agustín Manessi_
+  - [Commit: 282a877](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/282a8773cbcaa736ce5a0fb60eb6583e557ce99a)
+- feat: add automated test feature (#417)
+  - _Agustín Manessi_
+  - [Commit: 5fd23e8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5fd23e806bd194a762784380fc55f98de44a4efd)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: 4b7e7cb](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4b7e7cbcf54c898b734ed117ddef27c26fc0a8f0)
+- hotfix: regression guard for patch bump after remap (#415)
+  - _Agustín Manessi_
+  - [Commit: f776506](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f77650624520f4e97fdf2b5a7300c8b1fca755d4)
+- fix: resolve semver patch bump issue (#414)
+  - _Agustín Manessi_
+  - [Commit: 8c7c99a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8c7c99a36770e73399f49c9f25e2c6deecd9bb13)
+- feat: add semver minor bump feature (#413)
+  - _Agustín Manessi_
+  - [Commit: 25b8588](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/25b8588da2ab943726d6ac2285e24d8b02adae29)
+- hotfix(security): patch auth token validation (#412)
+  - _Agustín Manessi_
+  - [Commit: 4f7dce9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4f7dce93152bf387156c7e9bdb4b843f756c104d)
+- hotfix: wire-up patch bump integration test (#411)
+  - _Agustín Manessi_
+  - [Commit: 3620366](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/36203666bedcd8e68e88bf81493a38bba1c09cd0)
+- feat: add full mode feature (#410)
+  - _Agustín Manessi_
+  - [Commit: 36e407e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/36e407e1ded4ad41f057c74e15d2cf3aa94eac58)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: bdfa9ef](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bdfa9ef18b968c94f59b2d1372c46213c5dee8a8)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 18bc5a1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/18bc5a1c10e061ddc8c6ddffd97406ad702c6c5e)
+- fix: resolve general automated test issue (#408)
+  - _Agustín Manessi_
+  - [Commit: 05208b0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/05208b0c66c20ad648ef0b15e09712cdb9fb6c3f)
+- fix: resolve automated test bug (#405)
+  - _Agustín Manessi_
+  - [Commit: 700e8e7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/700e8e7bcb55bf93d55ade1de288a4ced30b9cf9)
+- feat: add automated test feature (#404)
+  - _Agustín Manessi_
+  - [Commit: 90f3c59](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/90f3c59fa12f4fb82098e6b9bee517dddcb6bba7)
+- feat: add semver minor bump feature (#397)
+  - _Agustín Manessi_
+  - [Commit: 18ad33b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/18ad33bf396d77f7a8e0846de4bb40a4e6f1220b)
+- hotfix(security): patch auth token validation (#396)
+  - _Agustín Manessi_
+  - [Commit: 28b67c3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/28b67c3761e87da416a2f24d325fd7847f2bc374)
+- hotfix: wire-up patch bump integration test (#395)
+  - _Agustín Manessi_
+  - [Commit: 76aa3b4](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/76aa3b43ec9c366e4fdb5e3a8b712aa4e1cc37a3)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: 333d15d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/333d15d1ad5bbc0c295081dd3418f4cf8195561e)
+- hotfix: regression guard for patch bump after remap (#392)
+  - _Agustín Manessi_
+  - [Commit: 5c7ceb3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5c7ceb3baa6fc688a9d17a387399d67f73990b74)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: db54093](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/db54093e492eef95bd3656912d370fce47100090)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 06fd896](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/06fd8960579db5daaeac66b29ce39ba6bbfabb94)
+- feat: add semver minor bump feature (#389)
+  - _Agustín Manessi_
+  - [Commit: 6fce4c5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6fce4c5f647870ca7cce2083b42f7defa1c95e96)
+- fix: resolve general automated test issue (#388)
+  - _Agustín Manessi_
+  - [Commit: 52cd5df](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/52cd5dfee47e14ef61129e8afe98b819abaf1455)
+- hotfix(security): patch auth token validation (#387)
+  - _Agustín Manessi_
+  - [Commit: 69e19a1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/69e19a17b1378f00209a1ae01ac0b676090275e5)
+- hotfix: wire-up patch bump integration test (#386)
+  - _Agustín Manessi_
+  - [Commit: afcae7b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/afcae7bed761e3d3353f947ed16b968f4fb16aff)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: 57a6f3f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/57a6f3f80ceb19556c2307ac4b0950cf65d75415)
+- fix: resolve automated test bug (#380)
+  - _Agustín Manessi_
+  - [Commit: d38e37a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d38e37a94c91ffb1d36b5c2801a051305627b907)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: b7e8cd6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b7e8cd676a0511870c2866a54b857c8d6243265b)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: dffee26](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/dffee266f3f1245b63e2e9d044a82d4d1fac41ce)
+- fix: resolve general automated test issue (#375)
+  - _Agustín Manessi_
+  - [Commit: f39b6cc](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f39b6cc8a48e68fd4d0aa7888a61ce68154f01e8)
+- feat: add semver minor bump feature (#367)
+  - _Agustín Manessi_
+  - [Commit: 3156207](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/31562076790ced7109d51b6363a5d5ff4c81e1df)
+- hotfix(security): patch auth token validation (#365)
+  - _Agustín Manessi_
+  - [Commit: 04d315a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/04d315ad18f9ae0fb1f6a7ec01a1485f9f2c9041)
+- hotfix: wire-up patch bump integration test (#362)
+  - _Agustín Manessi_
+  - [Commit: 9de5ffa](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9de5ffafef88ef5a400a6942aa43cb777d10c508)
+- feat: add full mode feature (#361)
+  - _Agustín Manessi_
+  - [Commit: 265a4d1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/265a4d132fb454a84ccceb55a36be40387394186)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 49e8678](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/49e86782f0372792d104ccb013364ce25dd146c8)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: ef3c9e6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ef3c9e6ddaaf34368a7436be10769315c5a08b99)
+- fix: resolve general automated test issue (#359)
+  - _Agustín Manessi_
+  - [Commit: 4c3f494](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4c3f494d0bc7569840cdaa61b2cf6cbb666f5ce8)
+- fix: resolve automated test bug (#353)
+  - _Agustín Manessi_
+  - [Commit: e8f28df](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e8f28dfa7a6e89c7ac41b346239f5df296c5438d)
+- feat: add automated test feature (#351)
+  - _Agustín Manessi_
+  - [Commit: c83bcea](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c83bceabab64f224802af5b96614003be4b13236)
+- hotfix: regression guard for patch bump after remap (#350)
+  - _Agustín Manessi_
+  - [Commit: a3bf04b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a3bf04ba1217f7791380e4683f00e2633626e4d1)
+- fix: resolve semver patch bump issue (#348)
+  - _Agustín Manessi_
+  - [Commit: f39b082](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f39b082e6e2358806615d6212dbe061fe857d468)
+- feat: add semver minor bump feature (#347)
+  - _Agustín Manessi_
+  - [Commit: 3b380f3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3b380f338d7427b8fef5c226c4dae212af1de577)
+- hotfix(security): patch auth token validation (#346)
+  - _Agustín Manessi_
+  - [Commit: be07ac1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/be07ac15665222cd952122f2d25b605e048fabd6)
+- hotfix: wire-up patch bump integration test (#345)
+  - _Agustín Manessi_
+  - [Commit: c51c7b8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c51c7b8833c18437f2c773c51c8aef55a4c8f381)
+- feat: add full mode feature (#342)
+  - _Agustín Manessi_
+  - [Commit: 3819460](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/38194600333f7400c264cad61bcdf52f32c738f9)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: a988692](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a988692f732c840a93906b982f0ae7e5b05d8dec)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 3827faa](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3827faa2232ace4ecaed27ae2c1341d22ad12655)
+- fix: resolve general automated test issue (#338)
+  - _Agustín Manessi_
+  - [Commit: 4c8cafe](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4c8cafe0af37386705e320d5db36e77f176febf5)
+- fix: resolve automated test bug (#335)
+  - _Agustín Manessi_
+  - [Commit: db0bf78](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/db0bf7825fbedd0187ce8f3e436484311033dc09)
+- feat: add automated test feature (#334)
+  - _Agustín Manessi_
+  - [Commit: f5eb0b2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f5eb0b2e89f4c1c9e082c234e79882df5f9643e2)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: 9e211f1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9e211f17d94268273922ece09279906c3b8d7235)
+- hotfix: regression guard for patch bump after remap (#328)
+  - _Agustín Manessi_
+  - [Commit: f64fcf4](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f64fcf45c9ac391302528d2ad69effc1d9d807df)
+- fix: resolve semver patch bump issue (#326)
+  - _Agustín Manessi_
+  - [Commit: 70d209a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/70d209acd1774f7e3be6581da7b060e0784f16d1)
+- feat: add semver minor bump feature (#325)
+  - _Agustín Manessi_
+  - [Commit: 97084ef](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/97084ef4ab96dc4991f7c1bb9b8a4c00fa1d4867)
+- hotfix(security): patch auth token validation (#324)
+  - _Agustín Manessi_
+  - [Commit: e0114c8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e0114c8a904e1346c0ab1a7260442f247211ee7f)
+- hotfix: wire-up patch bump integration test (#323)
+  - _Agustín Manessi_
+  - [Commit: 1c9c7a6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1c9c7a640caa3086278d24cc9e131e16f4231920)
+- feat: add full mode feature (#322)
+  - _Agustín Manessi_
+  - [Commit: d4606f5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d4606f5b1de70e52e8d17162bc2c2e930dd713f0)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: dcdd650](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/dcdd6507fc104be1531e15dd0e48b018fe7eee3d)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: d2e4598](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d2e4598496ca94b850a6b601b901955731d08a02)
+- fix: resolve general automated test issue (#320)
+  - _Agustín Manessi_
+  - [Commit: 9fa2700](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9fa2700e90ef0ca657888e22c0805f41280bedb7)
+- fix: resolve automated test bug (#317)
+  - _Agustín Manessi_
+  - [Commit: f9b6640](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f9b6640e6fa288b78a12c3e32a5985f2c6246c76)
+- feat: add automated test feature (#316)
+  - _Agustín Manessi_
+  - [Commit: 2762cca](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2762ccafcde611fe84d6ff80f0e06d219dfba506)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: 3e3a31b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3e3a31ba005c47d8e17cddc0f3ec7150d061ba8e)
+- hotfix: regression guard for patch bump after remap (#314)
+  - _Agustín Manessi_
+  - [Commit: c3e69b5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c3e69b5d7c864c476e9b59a780f71b236a8b1b98)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: d2c4f9c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d2c4f9c0ead8b0dd293446daee1c28be79ade301)
+- feat: add semver minor bump feature (#309)
+  - _Agustín Manessi_
+  - [Commit: 74b4a0e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/74b4a0ed28bf3cfd9124835445a5e638bbe37170)
+- fix: resolve semver patch bump issue (#305)
+  - _Agustín Manessi_
+  - [Commit: 1ac909b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1ac909b735bc3088407d6584707073e99185fb30)
+- hotfix: wire-up patch bump integration test (#303)
+  - _Agustín Manessi_
+  - [Commit: 73a69b2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/73a69b27d4b71cb452c59e2dcc252f13e1c94085)
+- hotfix(security): patch auth token validation (#301)
+  - _Agustín Manessi_
+  - [Commit: b14bf5d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b14bf5dfa84c7d4f4bd3bcf95fe23e22e8056f1c)
+- hotfix: wire-up patch bump integration test (#299)
+  - _Agustín Manessi_
+  - [Commit: ed49956](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ed4995629fd6c7f89626f2b475b737939ad1a5cf)
+- fix: resolve general automated test issue (#297)
+  - _Agustín Manessi_
+  - [Commit: 587e3ad](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/587e3ad528ab20bee6eba721240b4352b7332ba9)
+- chore: rename period → epoch in test repo config
+  - _Agustín Manessi_
+  - [Commit: eae2348](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/eae23488315160ae5d6c1e3245c06dcf4ce08716)
+- chore: automated test maintenance (#292)
+  - _Agustín Manessi_
+  - [Commit: 2dd2307](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2dd2307aff5c003ae5fdd77369fc16d2e09665d2)
+- fix: resolve automated test bug (#290)
+  - _Agustín Manessi_
+  - [Commit: 4a52ab7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4a52ab7ac64d3bd68eba6cc8454829ced91a2cae)
+- feat: add automated test feature (#289)
+  - _Agustín Manessi_
+  - [Commit: 2a7db10](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2a7db106bfdfdfcb9028d087c379eb456d22bc28)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: 7d89a4e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7d89a4e2d32312c9537446d17750dfa5a4eaf003)
+- hotfix: regression guard for patch bump after remap (#285)
+  - _Agustín Manessi_
+  - [Commit: 136dea1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/136dea1ca379f99428d1313f4f13c7b2e45d8dd7)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: 20d276f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/20d276f0812f77dd2ebba318a62df8676f15f0b5)
+- feat: add semver minor bump feature (#276)
+  - _Agustín Manessi_
+  - [Commit: 7d727f9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7d727f9307f6dd4c2e72c6ab105917a1e52a4381)
+- chore: automated test maintenance (#274)
+  - _Agustín Manessi_
+  - [Commit: 979e009](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/979e009b49cd5416b3b4421299f9df5c347080bf)
+- hotfix(security): patch auth token validation (#273)
+  - _Agustín Manessi_
+  - [Commit: d56a899](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d56a8991006d06465386e68662cbc6a852a26766)
+- fix: resolve automated test bug (#271)
+  - _Agustín Manessi_
+  - [Commit: e711b37](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e711b37fc1067d55b52154c2f11283e70e1c867d)
+- hotfix(security): patch auth token validation (#270)
+  - _Agustín Manessi_
+  - [Commit: 23f378c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/23f378c996208a6dcda175641e699c852efa423e)
+- hotfix: wire-up patch bump integration test (#269)
+  - _Agustín Manessi_
+  - [Commit: 1ff9f62](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1ff9f62bb0d6496e99da141e206a2a0379a7333b)
+- hotfix: wire-up patch bump integration test (#268)
+  - _Agustín Manessi_
+  - [Commit: 2e85939](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2e859396571bba8e6a13e7b8630da5f5373da50e)
+- feat: add full mode feature (#267)
+  - _Agustín Manessi_
+  - [Commit: aad16f7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/aad16f767d090125faffe086894db30c13c85a53)
+- feat: add full mode feature (#264)
+  - _Agustín Manessi_
+  - [Commit: a0c405d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a0c405dafe4caf83648098d4cc9068b097bdd8f2)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 5785d9b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5785d9b3289802b5105c489c7ba8c3a556a0d3c4)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 6ede553](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6ede553fcb1a253a37dbb236cdb5d5ccd8159baf)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 8520c6c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8520c6cf9423a20a559d0648fa6709c49b8ba1db)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 0d921b6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0d921b6ff9f0d570baf9206089a295b9058067d6)
+- fix: resolve general automated test issue (#258)
+  - _Agustín Manessi_
+  - [Commit: 1ac3a4d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1ac3a4d9b2a8ac345d08976bce7e64c6ececd9fd)
+- fix: resolve general automated test issue (#257)
+  - _Agustín Manessi_
+  - [Commit: 3bde82c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3bde82c488ae5eca474cd7169e9ce170a65746ed)
+- chore: automated test maintenance (#254)
+  - _Agustín Manessi_
+  - [Commit: afecd4f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/afecd4f5f6bce1680b4b22f87f2a1ac80830830f)
+- fix: resolve automated test bug (#253)
+  - _Agustín Manessi_
+  - [Commit: 1aa6e0b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1aa6e0baebe839cdc48b652c0e83d28079716ea7)
+- feat: add automated test feature (#251)
+  - _Agustín Manessi_
+  - [Commit: df7a18a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/df7a18a91fb0bb19dcec30e3bf0727530112b0f5)
+- fix: resolve automated test bug (#244)
+  - _Agustín Manessi_
+  - [Commit: 304f678](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/304f678e309fbd65ee9e388de03889934ae1205a)
+- feat: add automated test feature (#243)
+  - _Agustín Manessi_
+  - [Commit: cd724b8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cd724b8cf026d538332d65e174a3cdbc62bdee4d)
+- fix: resolve automated test bug (#238)
+  - _Agustín Manessi_
+  - [Commit: 64d4f77](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/64d4f777036a718d4f56561162abaef7239b1ea8)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: d750b45](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d750b459cabf14b1af3ed697058b4c7004e743e0)
+- hotfix(security): patch auth token validation (#236)
+  - _Agustín Manessi_
+  - [Commit: 2aad018](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2aad01816639e19da3c284145472939b3f20a9b4)
+- hotfix: wire-up patch bump integration test (#235)
+  - _Agustín Manessi_
+  - [Commit: a77ce68](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a77ce683002763efb8367dbf144b4a82f8aa6764)
+- feat: add full mode feature (#234)
+  - _Agustín Manessi_
+  - [Commit: f63c71c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f63c71cf37bd496a6e6f9463a834eec84e95c994)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 91b48ce](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/91b48cef8743b9872e3df5423f0cc59af4ad48bb)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 4062ad9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4062ad95ff4f80ceddd925f3a9beb075651c085f)
+- fix: resolve general automated test issue (#232)
+  - _Agustín Manessi_
+  - [Commit: 50815b0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/50815b0e693f545af04063b551e6e0ba88d48ed3)
+- chore: automated test maintenance (#229)
+  - _Agustín Manessi_
+  - [Commit: 2cd55f1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2cd55f16aedba8ad688e1e2fe94e9a3e75cf58d3)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: e0007e3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e0007e34fd7692425ec12dae43831040accf3cbe)
+- hotfix(security): patch auth token validation (#227)
+  - _Agustín Manessi_
+  - [Commit: 94724ac](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/94724acb4168b335c7cb5be490e39c09c1bcafbe)
+- hotfix: wire-up patch bump integration test (#225)
+  - _Agustín Manessi_
+  - [Commit: 95dc52a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/95dc52a727be2dc3720b6da00a01ff1e174a93c1)
+- feat: add automated test feature (#224)
+  - _Agustín Manessi_
+  - [Commit: b822c21](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b822c2189d56ae0b46e5962f61766e276842b28a)
+- feat: add full mode feature (#223)
+  - _Agustín Manessi_
+  - [Commit: 24312b7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/24312b7d374b8f4229c7a1ef24441df2ee1aaa15)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: bca3e30](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bca3e30cf9415c4feb33cc8a3ffa5379e8bdda10)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 38b362f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/38b362f4a08ed331234bb5538955ee00a8aa6c6b)
+- fix: resolve general automated test issue (#218)
+  - _Agustín Manessi_
+  - [Commit: 6bac141](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6bac141fe794338f1a3fff03d11ba08827a8bc2b)
+- chore: automated test maintenance (#215)
+  - _Agustín Manessi_
+  - [Commit: cbfeb4a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cbfeb4a7ed7707a11267bd83b82d45a85ab80046)
+- fix: resolve automated test bug (#214)
+  - _Agustín Manessi_
+  - [Commit: 6d433e3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6d433e3f83a8f7227888d80eb369da6fec48004c)
+- feat: add automated test feature (#213)
+  - _Agustín Manessi_
+  - [Commit: 0631df2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0631df2f9a2729a1bbf95ded6ae17bd0ee01761e)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: a3891a2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a3891a24bf8c1d2600bfd65ba25d446a9e6ba0e7)
+- hotfix(security): patch auth token validation (#208)
+  - _Agustín Manessi_
+  - [Commit: bb2efb7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bb2efb7da6369427661a79412951964d0f848dd7)
+- hotfix: wire-up patch bump integration test (#207)
+  - _Agustín Manessi_
+  - [Commit: 51e7790](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/51e7790eff2f120c8d6b87a4565222c137635b1f)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 270900d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/270900de1208464c8ee17cf181562d8b4a41d5b3)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 7f21819](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7f2181996c36c8935d4a30f36a0ab297fabb39d0)
+- fix: resolve general automated test issue (#205)
+  - _Agustín Manessi_
+  - [Commit: f10a999](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f10a999e1faf4198a04e75b51daa2d2f53daa91d)
+- chore: automated test maintenance (#202)
+  - _Agustín Manessi_
+  - [Commit: d664665](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d66466502c1cdcfbcb7a399bbac0b0bc6f1ece33)
+- fix: resolve automated test bug (#201)
+  - _Agustín Manessi_
+  - [Commit: 371e288](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/371e2889ce4c5ef7cb3cba97f3e05f734fbbcf47)
+- feat: add automated test feature (#200)
+  - _Agustín Manessi_
+  - [Commit: 00ceaa9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/00ceaa95f2e4ef921b154bcdad11610fd1073048)
+- chore(ci): migrate to container.image pattern and add image_tag input
+  - _Agustín Manessi_
+  - [Commit: cfb5e02](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cfb5e02f165a9d97c634e2441251b658cfac395a)
+- chore(ci): pass image_tag input to run-versioning
+  - _Agustín Manessi_
+  - [Commit: e943f1f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e943f1f5a3b9f4d45e93a3eccb63d1e4f5d350a1)
+- chore(ci): add image_tag input for preview image testing
+  - _Agustín Manessi_
+  - [Commit: 48b7ffe](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/48b7ffe6ac4efec7b9b090cdc67b56901118687d)
+- chore(ci): migrate to container.image pattern and add image_tag input
+  - _Agustín Manessi_
+  - [Commit: 12c80cd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/12c80cd744d118aff509ffd7bb32fc452dbf707e)
+- chore: automated test maintenance (#196)
+  - _Agustín Manessi_
+  - [Commit: 0b8676f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0b8676f95d00a16f92eca4b7791d763064b8cc30)
+- fix: resolve automated test bug (#195)
+  - _Agustín Manessi_
+  - [Commit: 4de273b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4de273bd82863f41452d1f64848a6a4d3ccbd3bd)
+- fix: resolve automated test bug (#194)
+  - _Agustín Manessi_
+  - [Commit: fbb1501](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/fbb15010aa205802a5a935e851901448b3009410)
+- feat: add automated test feature (#193)
+  - _Agustín Manessi_
+  - [Commit: a6af461](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a6af4610213b8d777f09b134b44b9deb7a1c93bd)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: 6df5195](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6df5195f91a6cffb1607b79dde8f791a7338b49d)
+- hotfix(security): patch auth token validation (#186)
+  - _Agustín Manessi_
+  - [Commit: ea8fea1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ea8fea18c5eb1c1bf8da6e5692698135ec6131e9)
+- hotfix: wire-up patch bump integration test (#185)
+  - _Agustín Manessi_
+  - [Commit: e9309fa](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e9309fabb2ca26faae9533e58dc4e3fcb2857d64)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: f4528c9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f4528c94598ac7a6d126a3d6b40d3590b2fdf42f)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 556646a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/556646ac77326a8b0cd6dd6f1ac324d99ec3b1b8)
+- fix: resolve general automated test issue (#183)
+  - _Agustín Manessi_
+  - [Commit: b7b421a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b7b421aeb52a29af07bef3dceb01567beb554c26)
+- chore: automated test maintenance (#179)
+  - _Agustín Manessi_
+  - [Commit: fc68a1a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/fc68a1acf0282d18aca717dc8811257113b53a7f)
+- hotfix(security): patch auth token validation (#178)
+  - _Agustín Manessi_
+  - [Commit: 8509ae0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8509ae01615800f2227b7f5d6d3b45999a0bb9d8)
+- hotfix: wire-up patch bump integration test (#177)
+  - _Agustín Manessi_
+  - [Commit: 94bf2cc](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/94bf2ccf41a9dd1c1e7e9b05ae22d74efd3bd38d)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: cbc0dd3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cbc0dd38f14661e900f7a28e25d3a464c571206b)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 43ac303](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/43ac303d0cecba6547c7334c0bd0adc7124d7611)
+- fix: resolve general automated test issue (#175)
+  - _Agustín Manessi_
+  - [Commit: 1f8071b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1f8071b7a16065c99a420561c80602685635d658)
+- chore: automated test maintenance (#171)
+  - _Agustín Manessi_
+  - [Commit: df8aae5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/df8aae5896c69b96fd1226753a5b2177e183326b)
+- fix: resolve automated test bug (#170)
+  - _Agustín Manessi_
+  - [Commit: cb4acf1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cb4acf14ab1283368a81cc0921d371e68d0b1c3a)
+- feat: add automated test feature (#169)
+  - _Agustín Manessi_
+  - [Commit: c88d3a2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c88d3a2b9d78b9b051ab6bf23d50077b63695848)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: cc85243](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cc8524383ed526d215efbe934cd101d23a6151ff)
+- Hotfix/urgent security patch
+  - _Agustín Manessi_
+  - [Commit: 684a68c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/684a68ce56822afe4231e3592667cb4b12f23a8a)
+- fix: urgent security patch for token leak (#161)
+  - _Agustín Manessi_
+  - [Commit: 9f29c36](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9f29c36909152623ea8a2a65ed89f2dcaa890953)
+- hotfix(security): patch auth token validation (#160)
+  - _Agustín Manessi_
+  - [Commit: 5fe9d47](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5fe9d47c70fb7c088ed984a3b42bb40a31d12959)
+- hotfix: wire-up patch bump integration test (#159)
+  - _Agustín Manessi_
+  - [Commit: 4f2fd6d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4f2fd6d8c9e9a7bb25caeb9bcfc5d7875e6e0f45)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: e3a3ad0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e3a3ad04e7a06430c7b73154241cc4a19026502e)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 7b13434](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7b1343414ad66e95e24b43c20595d85164bc99a8)
+- fix: resolve general automated test issue (#157)
+  - _Agustín Manessi_
+  - [Commit: 6473834](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/64738344302544dd472295b11da3224ea1d324d9)
+- chore: automated test maintenance (#154)
+  - _Agustín Manessi_
+  - [Commit: f37b1a2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f37b1a24a1c196b55fb40f7225869d88695c8520)
+- fix: resolve automated test bug (#153)
+  - _Agustín Manessi_
+  - [Commit: 077bc6e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/077bc6eda9a99c02ad56e9f3b7379242f109e745)
+- feat: add automated test feature (#152)
+  - _Agustín Manessi_
+  - [Commit: fa48ca0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/fa48ca0348d18b0c75f3a1ce50b24a3e3626c51d)
+- hotfix: wire-up patch bump integration test (#149)
+  - _Agustín Manessi_
+  - [Commit: bd4416c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bd4416c6e7c181c723ac024cd918f44f119e2c36)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: d366f0f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d366f0f771635ebaf121b6c3af0c055068af1596)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 880ddb2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/880ddb2581dc1c71a4b9377dfec7124a29b8e768)
+- fix: resolve general automated test issue (#147)
+  - _Agustín Manessi_
+  - [Commit: 067efb5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/067efb5a2eaa18326a507f0c77fd9de70dea8151)
+- chore: automated test maintenance (#144)
+  - _Agustín Manessi_
+  - [Commit: c1c280d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c1c280d0edd33bd468c9face0ed48a0b14eb21e5)
+- fix: resolve automated test bug (#143)
+  - _Agustín Manessi_
+  - [Commit: 929ef84](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/929ef848b34ec91f4b9b5012603805613474ec23)
+- feat: add automated test feature (#142)
+  - _Agustín Manessi_
+  - [Commit: 53ad046](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/53ad046c8afb1abb63c273d6f2744bb3f01cc07f)
+- hotfix: wire-up patch bump integration test (#139)
+  - _Agustín Manessi_
+  - [Commit: 96da3d1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/96da3d1e7599ff5959b4890b3a13d695177d742f)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: e5d3ef9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e5d3ef921c0f214af3e0aff8b68f2f5fec734e58)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: b63010c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b63010c37ea2c0fcefc15f58f287bc5907efe29c)
+- fix: resolve general automated test issue (#137)
+  - _Agustín Manessi_
+  - [Commit: 00fece1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/00fece19061f36beef913a190e167a812bc2056f)
+- chore: automated test maintenance (#134)
+  - _Agustín Manessi_
+  - [Commit: 488f10f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/488f10f076fc90e026642d3995d6f4c341e67160)
+- fix: resolve automated test bug (#133)
+  - _Agustín Manessi_
+  - [Commit: 2a6d79e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2a6d79e5dbf04155baaedaa6257c98ce6ed9320d)
+- feat: add automated test feature (#132)
+  - _Agustín Manessi_
+  - [Commit: ef36f88](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ef36f88609ca19148cfd05ece4f1a95f2b95bf07)
+- hotfix: wire-up patch bump integration test (#129)
+  - _Agustín Manessi_
+  - [Commit: 7ea4ed1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7ea4ed19ba299e82635b8784bdf9bf0427a78377)
+- hotfix: wire-up patch bump integration test (#128)
+  - _Agustín Manessi_
+  - [Commit: ddea28c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ddea28c3a2d440d9c00a1291d8f99524b4f79b10)
+- hotfix: wire-up patch bump integration test (#127)
+  - _Agustín Manessi_
+  - [Commit: 0971f3a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0971f3a8b25971fa525cec966c42298704e0def8)
+- hotfix: wire-up patch bump integration test (#126)
+  - _Agustín Manessi_
+  - [Commit: 33c64d0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/33c64d056e67b8cda7bc9abbc1492817c3767a05)
+- feat: feature after fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 30eae44](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/30eae448c24d49c51e228ad89aec0b24f27af703)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 39f085e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/39f085eabbc77a1fb3d2434067a4a93460e576ff)
+- fix: resolve general automated test issue (#124)
+  - _Agustín Manessi_
+  - [Commit: 3e5d1b5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3e5d1b502fd93443a916670521b64f72d54cb60c)
+- chore: automated test maintenance (#121)
+  - _Agustín Manessi_
+  - [Commit: 5524255](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/55242552cd00f57e2321725ec3b562dd3b7f7ad7)
+- fix: resolve automated test bug (#120)
+  - _Agustín Manessi_
+  - [Commit: 59b5668](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/59b56687cc437a6ca5890d0da087839035e3b811)
+- feat: add automated test feature (#119)
+  - _Agustín Manessi_
+  - [Commit: 70c1810](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/70c181012b4fa226b13d31b4e723a3d8d1748985)
+- feat: feature after fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 35063fd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/35063fd87a0fe76204d55ceb6ab1348647ce2dfe)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 3a6271e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3a6271e6e7ca5fc1c729db14955a79bd98e02a11)
+- fix: resolve general automated test issue (#116)
+  - _Agustín Manessi_
+  - [Commit: 2040f22](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2040f22b74ee6b40515fd4ce64e3aad531e16580)
+- chore: automated test maintenance (#113)
+  - _Agustín Manessi_
+  - [Commit: 1371e73](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1371e733b9f74b655b9e3def6de749cd93542432)
+- fix: resolve automated test bug (#112)
+  - _Agustín Manessi_
+  - [Commit: 19167d7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/19167d7264a0b68ef099b83104a8d01c66daf870)
+- feat: add automated test feature (#111)
+  - _Agustín Manessi_
+  - [Commit: 03f542b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/03f542b584d038c904090f3759914562ba6b7839)
+- feat: feature after fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 03e0c7a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/03e0c7ae77915e583175faea414c8a7f420bb6f7)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 9df2456](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9df24561bd2d031cb599429e389f8f26fb021ea7)
+- test: multi-commit-highest-bump (#108)
+  - _Agustín Manessi_
+  - [Commit: 32a1169](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/32a1169e4a453660f5d08dda9f63da5ffd9d4759)
+- fix: resolve general automated test issue (#107)
+  - _Agustín Manessi_
+  - [Commit: 9f10a1f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9f10a1f916e1d8ef5b0425116a14f5bf26c8763d)
+- chore: automated test maintenance (#104)
+  - _Agustín Manessi_
+  - [Commit: 79e4398](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/79e43986c7c6237a11aac4568a492d4574b606a0)
+- fix: resolve automated test bug (#103)
+  - _Agustín Manessi_
+  - [Commit: 6d2d67a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6d2d67ab33414ea8e3117001ef72aab9f1cf0a40)
+- feat: add automated test feature (#102)
+  - _Agustín Manessi_
+  - [Commit: a23cb32](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a23cb32cf2d90ed21123c193b7c342acc464cb22)
+- chore: automated test maintenance (#99)
+  - _Agustín Manessi_
+  - [Commit: a7bdebd](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a7bdebd50a3de3f5626c0b62bcc18fa75db681ab)
+- fix: resolve automated test bug (#98)
+  - _Agustín Manessi_
+  - [Commit: cbe95eb](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/cbe95eb45835402584e270932efcc60dcb828312)
+- feat: add automated test feature (#97)
+  - _Agustín Manessi_
+  - [Commit: a90ada2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a90ada2c7d7baac2167f08bc2cd057aa7db67fef)
+- feat: add automated test feature (#95)
+  - _Agustín Manessi_
+  - [Commit: 3cc188b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3cc188b0ac1e9e612caa9117556ce7ac79ce5e76)
+- ci: add workflow_dispatch to tag-on-merge for test automation
+  - _agustin.manessi_
+  - [Commit: a86e026](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a86e0269f8467ddcf521d5b440b70d7c8d6bb054)
+- feat: add automated test feature (#93)
+  - _Agustín Manessi_
+  - [Commit: 6f8e3c9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6f8e3c93171de6b345c35257a5d64f9d71475da4)
+- feat: add automated test feature (#92)
+  - _Agustín Manessi_
+  - [Commit: 3a07d02](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3a07d0293c9548e119b4364c678d699f6f0e24b0)
+- feat: add automated test feature (#91)
+  - _Agustín Manessi_
+  - [Commit: 01c6cad](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/01c6cadd16dcf7b3cdb612cb4b5fc5b000abc0a2)
+- feat: workflow trigger test (#89)
+  - _Agustín Manessi_
+  - [Commit: a78a39d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/a78a39d7fc63f6f8cc7d7ef97fcf4e693eb69ff7)
+- feat: add automated test feature (#88)
+  - _Agustín Manessi_
+  - [Commit: 28717ed](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/28717ed83f8ef42e4c0b71d17ccba14267ea038d)
+- feat: add automated test feature (#86)
+  - _Agustín Manessi_
+  - [Commit: ea69c55](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ea69c55377ab96dcf40aa35be8da3a2c458b04aa)
+- feat: add automated test feature (#85)
+  - _Agustín Manessi_
+  - [Commit: 8307c47](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8307c47a330240385af23efc3e8cef2404cc139a)
+- chore: restore config after test 4.2.22-retry
+  - _agustin.manessi_
+  - [Commit: 0af5e14](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0af5e14d931aa83e970629d41837f365713419ae)
+- feat(infrastructure): add ECS capacity provider
+  - _agustin.manessi_
+  - [Commit: bedf56c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/bedf56ce79f86d378fef3d71332174f42498b34f)
+- chore: restore config to full mode + per_folder enabled after test 4.2.34
+  - _agustin.manessi_
+  - [Commit: ef24c1c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ef24c1cc8afc8f8832d6ec95afa01203b6f96910)
+- docs: update API reference
+  - _agustin.manessi_
+  - [Commit: 7af8fb0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7af8fb03e8db28ae3197f2903e7308a6af94bbc1)
+- feat(monitoring): add alerting rules
+  - _agustin.manessi_
+  - [Commit: 8271278](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8271278326a12d1a5cb381812ca3accc7cfb88c1)
+- docs: update changelog documentation
+  - _agustin.manessi_
+  - [Commit: 9772d39](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9772d399948c30f2e69fd67c84fc75f90dae1207)
+- docs: update getting started guide
+  - _agustin.manessi_
+  - [Commit: 3115207](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/311520765600aed68eb8f08533124e9d11f6b49e)
+- fix(scripts): fix deploy timeout
+  - _agustin.manessi_
+  - [Commit: b4d5c23](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b4d5c230a479ea211a579ce2e1332f3620b7afd4)
+- docs: update system diagram
+  - _agustin.manessi_
+  - [Commit: 98f1b20](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/98f1b2070f9fd48dc3d87fb11cee2b695b4484cb)
+- chore: restore folders config to backend+frontend after test 4.2.22
+  - _agustin.manessi_
+  - [Commit: e5cb690](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e5cb6901543b921f319f60074303a9468dad412c)
+- feat(infra): add autoscaling policy
+  - _agustin.manessi_
+  - [Commit: fb4a990](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/fb4a990978a1de1b27950bf757dae5a42f355aab)
+- chore: restore config to mode full after 4231 retry test
+  - _agustin.manessi_
+  - [Commit: dbe4365](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/dbe4365e846a257553eec2e3e840c63fa0042dca)
+- chore: restore config to mode full after batch 4 tests
+  - _agustin.manessi_
+  - [Commit: d58f906](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d58f9061d3a9b5b9781158bc89fce0a1f81b24cd)
+- feat: add general utility
+  - _agustin.manessi_
+  - [Commit: 25f4cf3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/25f4cf37d4280851005812ea861cf26633871bc4)
+- docs: update project README
+  - _agustin.manessi_
+  - [Commit: 597c785](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/597c78539c84bcb733827303c24279645d4e969e)
+- chore: restore per_folder config after batch 3 tests
+  - _agustin.manessi_
+  - [Commit: 588c04b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/588c04b2eacd37ed5e8a7558f490f99bc4020e28)
+- feat(noexiste): test nonexistent folder
+  - _agustin.manessi_
+  - [Commit: 76ad3d1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/76ad3d1914dacd34aad7e522f48079ff8734f779)
+- fix(networking): fix VPC peering configuration
+  - _agustin.manessi_
+  - [Commit: 5876b08](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5876b08d646a35b26852d7e7c7d43d9f5e814ff4)
+- feat(cluster-ecs): add ECS task definition
+  - _agustin.manessi_
+  - [Commit: 8f93371](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8f93371f39d2c495c11c44ed225c6933f35a3292)
+- docs: update architecture documentation
+  - _agustin.manessi_
+  - [Commit: 9b4e266](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9b4e2666c3451f5eb332db46c52452e617418210)
+- fix(scripts): improve deploy error handling
+  - _agustin.manessi_
+  - [Commit: 5715c95](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5715c951da43511bbeda72126faf46b1eb283424)
+- chore: restore per_folder.enabled to true for batch 2 tests
+  - _agustin.manessi_
+  - [Commit: 01e2953](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/01e29538118cc82c742099f8987c2830f74a1a53)
+- chore(scripts): update deploy script
+  - _agustin.manessi_
+  - [Commit: 8ee1254](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8ee1254d3fe90417331ad72d2e5a1cccf319f5a8)
+- feat: add utility helpers
+  - _agustin.manessi_
+  - [Commit: 21486d7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/21486d7c7766fb79df068859b9c4755fe73ebcb5)
+- chore: reset test repo for per-folder changelog tests
+  - _agustin.manessi_
+  - [Commit: 2615e64](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2615e64a78c50cf6e2b941433a41e9a834133376)
+- Initial commit
+  - _Agustín Manessi_
+  - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
+
+
