@@ -2504,3 +2504,19 @@
   - [Commit: 0eb62ef](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0eb62eff2dc9d9614fd1e47d910824338521a2c5)
 
 
+## v7.2 - 2026-04-27
+
+- feat: add full mode feature (#2259)
+  - _Agustín Manessi_
+  - [Commit: 791664e3](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/791664e3d8a664710efad8fa85322139a733e667)
+- feat: add full mode feature (#2225)
+  - _Agustín Manessi_
+  - [Commit: c03bedeb](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c03bedeb10ebc929cc89ac6c24f55f9657f9bc2d)
+- feat: add full mode feature (#2190)
+  - _Agustín Manessi_
+  - [Commit: 02251413](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0225141367630067b3beed28a65adf769bf9d54c)
+- chore(test-setup): seed sandbox-07
+  - _Agustín Manessi_
+  - [Commit: 0eb62eff](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0eb62eff2dc9d9614fd1e47d910824338521a2c5)
+
+
