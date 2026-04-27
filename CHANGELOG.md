@@ -2370,3 +2370,10 @@
   - [Commit: 8f58caf0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8f58caf0c1dcdfc32d39a6078b92508fb4c49467)
 
 
+## v17.2 - 2026-04-27
+
+- chore(test-setup): seed sandbox-17
+  - _Agustín Manessi_
+  - [Commit: 8f58caf0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8f58caf0c1dcdfc32d39a6078b92508fb4c49467)
+
+
