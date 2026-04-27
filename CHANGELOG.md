@@ -4973,3 +4973,28 @@
   - [Commit: 35f26669](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/35f26669e0b10094dca2197e7a65a7ba4f4c735b)
 
 
+## v19.4 - 2026-04-27
+
+- feat: deploy new services layer (#2339)
+  - _Agustín Manessi_
+  - [Commit: 3f6ed0f7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3f6ed0f75dd26f3c0ad67529f098c3239751b29d)
+- feat: deploy new services layer (#2276)
+  - _Agustín Manessi_
+  - [Commit: 83034974](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/83034974620281384171be37342fe25184df2a3c)
+- feat: deploy new services layer (#2238)
+  - _Agustín Manessi_
+  - [Commit: 7372ad2d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7372ad2d3e0fae6aa481c79070deec4074b181a2)
+- feat: deploy new services layer (#2185)
+  - _Agustín Manessi_
+  - [Commit: d35f7739](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d35f773952a2d652dec9d5fd4988c556bac11d92)
+- chore(test-setup): seed sandbox-19
+  - _Agustín Manessi_
+  - [Commit: 16b5d61a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/16b5d61a318ceb42f46cbe8e88d64fd02f425a70)
+- chore(test-setup): seed sandbox-19
+  - _Agustín Manessi_
+  - [Commit: 99f5a4d8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/99f5a4d8e24eee538187d978c58c5d793edb3fe9)
+- chore(test-setup): seed sandbox-19
+  - _Agustín Manessi_
+  - [Commit: 35f26669](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/35f26669e0b10094dca2197e7a65a7ba4f4c735b)
+
+
