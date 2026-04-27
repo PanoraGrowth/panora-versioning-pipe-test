@@ -3765,3 +3765,19 @@
   - [Commit: 1992408](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1992408972c0349f2a26f86302cda013db6781cb)
 
 
+## v14.2 - 2026-04-27
+
+- feat: add semver minor bump feature (#2258)
+  - _Agustín Manessi_
+  - [Commit: 345def20](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/345def200833ddf1a8bad5c9a4c1c3768de49147)
+- feat: add semver minor bump feature (#2222)
+  - _Agustín Manessi_
+  - [Commit: e914c48d](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e914c48d3f95adec707cf8c27bf94a00cd4c8aa4)
+- feat: add semver minor bump feature (#2202)
+  - _Agustín Manessi_
+  - [Commit: 8bdb8bc2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8bdb8bc281b6ef043e5c59bf0f238d9cac63e1a4)
+- chore(test-setup): seed sandbox-14
+  - _Agustín Manessi_
+  - [Commit: 19924089](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1992408972c0349f2a26f86302cda013db6781cb)
+
+
