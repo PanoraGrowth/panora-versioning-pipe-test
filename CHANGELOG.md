@@ -1320,3 +1320,22 @@
   - [Commit: fcfd8bf1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/fcfd8bf1011892e7d95be5f21b858f42c0141fea)
 
 
+## v24.1.1 (Hotfix) - 2026-04-27
+
+- hotfix: fix critical auth bypass (#2301)
+  - _Agustín Manessi_
+  - [Commit: 5dd824b7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5dd824b7d6fb06bc5b11c22d3e22779ea915ad2c)
+- hotfix: fix critical auth bypass (#2261)
+  - _Agustín Manessi_
+  - [Commit: 01d18569](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/01d18569836a125008c7fe4fe5f609982866eaf5)
+- hotfix: fix critical auth bypass (#2219)
+  - _Agustín Manessi_
+  - [Commit: 7d4f2db0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7d4f2db02f2ea984a78ead33117f64c07f516b54)
+- hotfix: fix critical auth bypass (#2183)
+  - _Agustín Manessi_
+  - [Commit: 7d2fd7f7](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7d2fd7f72d8d3618e1c4e167a907b514a2cb5434)
+- chore(test-setup): seed sandbox-24
+  - _Agustín Manessi_
+  - [Commit: fcfd8bf1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/fcfd8bf1011892e7d95be5f21b858f42c0141fea)
+
+
