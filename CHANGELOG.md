@@ -15036,3 +15036,10 @@
   - [Commit: 02656ee](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/02656ee2b9217bda58cdc007384119530637ff63)
 
 
+## v3.2 - 2026-04-27
+
+- chore(test-setup): seed sandbox-03
+  - _Agustín Manessi_
+  - [Commit: 02656ee](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/02656ee2b9217bda58cdc007384119530637ff63)
+
+
