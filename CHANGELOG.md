@@ -4555,3 +4555,22 @@
   - [Commit: 4e97dd6b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4e97dd6b47ae397af5d44dae1caf7e4f769972b1)
 
 
+## v1.27.2 - 2026-04-27
+
+- feat: sandbox 27 epoch isolation (#2327)
+  - _Agustín Manessi_
+  - [Commit: e5f211b6](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e5f211b6418fa2ed3410b66a939eb7d23205399a)
+- feat: sandbox 27 epoch isolation (#2264)
+  - _Agustín Manessi_
+  - [Commit: 8abf8415](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8abf841521c12cf1c7cb9a1f441cd7f2156e3725)
+- feat: sandbox 27 epoch isolation (#2233)
+  - _Agustín Manessi_
+  - [Commit: 916764ed](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/916764ed5aef6169be938b6ccef92f4ed406e8b0)
+- feat: sandbox 27 epoch isolation (#2197)
+  - _Agustín Manessi_
+  - [Commit: 2dfb4c57](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2dfb4c5754fca6d1b8ef94359fd9228d037e52c5)
+- chore(test-setup): seed sandbox-27
+  - _Agustín Manessi_
+  - [Commit: 4e97dd6b](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4e97dd6b47ae397af5d44dae1caf7e4f769972b1)
+
+
