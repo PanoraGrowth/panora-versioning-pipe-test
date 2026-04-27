@@ -2933,3 +2933,37 @@
   - [Commit: 982bd5a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/982bd5aff4c37585cfe5a6cafacd709ec336a83d)
 
 
+## v25.2 - 2026-04-27
+
+- fix: last fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 4f023f95](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4f023f952b79e38fffaf55dbb4129542262acfa0)
+- feat: feature in the middle — must win
+  - _Agustín Manessi_
+  - [Commit: e4487407](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e4487407e8a8b2ccc95d8ceb42c67ffe01a90a20)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: ea884871](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ea8848717a6e0d19eb9f3ac60e61287a86d68355)
+- fix: last fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: ad11e985](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ad11e9852b2937101303ca1d3537518228f80f34)
+- feat: feature in the middle — must win
+  - _Agustín Manessi_
+  - [Commit: 6601d5a8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6601d5a8da4d13fbfff136c2f74cce38e618ba3c)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 75186780](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/75186780ec7e9fac72d24f1b5a5c292e5e3ca328)
+- fix: last fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 9b00a8f1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/9b00a8f17d69adf5335132d1c139eb83be5828cd)
+- feat: feature in the middle — must win
+  - _Agustín Manessi_
+  - [Commit: 13f953d9](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/13f953d9b99238eca3b87ec381a14bf1fde83a0e)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 48d53429](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/48d534299c93d1a5bc697b54266178e27590295f)
+- chore(test-setup): seed sandbox-25
+  - _Agustín Manessi_
+  - [Commit: 982bd5af](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/982bd5aff4c37585cfe5a6cafacd709ec336a83d)
+
+
