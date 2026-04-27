@@ -4,31 +4,28 @@ version:
   tag_prefix_v: true
   components:
     epoch:
-      enabled: true
+      enabled: false
+      initial: 0
     major:
       enabled: true
-    minor:
-      enabled: true
+      initial: 32
     patch:
       enabled: true
       initial: 0
-    timestamp:
-      enabled: false
     hotfix_counter:
       enabled: true
+      initial: 0
 branches:
-  development: main
-  production: main
-  tag_on: main
+  development: sandbox-32
+  production: sandbox-32
+  tag_on: sandbox-32
   hotfix_targets:
-  - main
-  - pre-production
-  - uat
+  - sandbox-32
 hotfix:
   keyword:
-  - hotfix:*
-  - hotfix(*
-  - '[Hh]otfix/*'
+  - "^hotfix(\(|:)"
+  - "^[Hh]otfix/"
+  - "URGENT-PATCH"
 changelog:
   mode: full
   commit_url: https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit
