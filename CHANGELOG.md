@@ -2365,3 +2365,10 @@
   - [Commit: 8e96c589](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8e96c58999995a5f0884fccdc06e26acccaa3887)
 
 
+## v18.2 - 2026-04-27
+
+- chore(test-setup): seed sandbox-18
+  - _Agustín Manessi_
+  - [Commit: 8e96c589](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/8e96c58999995a5f0884fccdc06e26acccaa3887)
+
+
