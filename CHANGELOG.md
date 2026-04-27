@@ -2693,3 +2693,28 @@
   - [Commit: 6d19672](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6d1967273e3fe65ebb07a90db1c142e393fefb7e)
 
 
+## v6.2 - 2026-04-27
+
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 7d3cfd1f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7d3cfd1f28a87dc0694c3e9acc58851aba73ad00)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: f170ff47](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f170ff47b35824ed2de7e399ea796588e378dafc)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 92b1b3d1](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/92b1b3d1ef1b296c0cb04c7c67d855ed8f232dd7)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: d82860dc](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/d82860dce3793c0087a70ef5b3264939a38b2b5b)
+- feat: feature as the last commit in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 2cb327db](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2cb327db3332b03eefdca1e30f95ebf5cee7a707)
+- fix: first fix in multi-commit
+  - _Agustín Manessi_
+  - [Commit: 0ac8440f](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/0ac8440f6b510994e8672634e406b60f7e72ac5b)
+- chore(test-setup): seed sandbox-06
+  - _Agustín Manessi_
+  - [Commit: 6d196727](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6d1967273e3fe65ebb07a90db1c142e393fefb7e)
+
+
