@@ -584,6 +584,12 @@
 
 
 ## v17.2 - 2026-04-23
+- **fix**: resolve auth token expiry in backend (#2232)
+  _Agustín Manessi_
+  [Commit: 5b62fcc](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/5b62fcc3d4021b3ec9c00bb34b4d70e01c04aca6)
+- **fix**: resolve auth token expiry in backend (#2201)
+  _Agustín Manessi_
+  [Commit: 4f47d76](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/4f47d76a0cc893095cfd51412da7c1e77feedd1f)
 
 - **fix**: resolve auth token expiry in backend (#2201)
   _Agustín Manessi_
