@@ -8749,3 +8749,16 @@
   - [Commit: 456a484](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/456a4848781d4bea4f58b41f63506e05a8d29f00)
 
 
+## v8.2 - 2026-04-27
+
+- feat: validate tag_on main with extended hotfix_targets (#2221)
+  - _Agustín Manessi_
+  - [Commit: 42d2624](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/42d262426bee76f6a56d017a5db0358994148305)
+- feat: validate tag_on main with extended hotfix_targets (#2188)
+  - _Agustín Manessi_
+  - [Commit: 35a7433](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/35a7433ebb9eace0a47d031e2b251bde87ff5dd6)
+- chore(test-setup): seed sandbox-08
+  - _Agustín Manessi_
+  - [Commit: 456a484](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/456a4848781d4bea4f58b41f63506e05a8d29f00)
+
+
