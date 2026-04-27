@@ -6324,3 +6324,16 @@
   - [Commit: f85c8bb](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f85c8bb41f11e1b836c3d1316b5ea1c121e8b88c)
 
 
+## v16.2 - 2026-04-27
+
+- feat(cluster-ecs): add auto-scaling configuration (#2241)
+  - _Agustín Manessi_
+  - [Commit: c869559](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/c8695593e66b683ee1c4a95939171a9767f4ae58)
+- feat(cluster-ecs): add auto-scaling configuration (#2198)
+  - _Agustín Manessi_
+  - [Commit: b6cf672](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b6cf67291c2f52a1fdcebe1ee2f9640e4bae8efb)
+- chore(test-setup): seed sandbox-16
+  - _Agustín Manessi_
+  - [Commit: f85c8bb](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f85c8bb41f11e1b836c3d1316b5ea1c121e8b88c)
+
+
