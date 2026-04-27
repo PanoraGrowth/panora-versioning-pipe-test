@@ -2509,3 +2509,16 @@
   - [Commit: 2d4eb92](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2d4eb92a7e813a66041f55fcd892a51b83236752)
 
 
+## v12.1.1 (Hotfix) - 2026-04-27
+
+- hotfix: regression guard for patch bump after remap (#2236)
+  - _Agustín Manessi_
+  - [Commit: e1bfe02](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/e1bfe029e358432a545b997728fb88159ded23c6)
+- hotfix: regression guard for patch bump after remap (#2187)
+  - _Agustín Manessi_
+  - [Commit: 90cc4e8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/90cc4e8a3ef3e75a2096b5d198d43ec46298efc1)
+- chore(test-setup): seed sandbox-12
+  - _Agustín Manessi_
+  - [Commit: 2d4eb92](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2d4eb92a7e813a66041f55fcd892a51b83236752)
+
+
