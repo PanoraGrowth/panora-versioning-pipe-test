@@ -3001,3 +3001,16 @@
   - [Commit: 98b0dab](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/98b0dabbd4ee80a474fd37000c3dadc64a8ef41f)
 
 
+## v26.2 - 2026-04-27
+
+- feat: sandbox 26 isolation check (#2229)
+  - _Agustín Manessi_
+  - [Commit: 44b6885](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/44b68850da0df6d375fa4b6797fe3052f8fa1734)
+- feat: sandbox 26 isolation check (#2204)
+  - _Agustín Manessi_
+  - [Commit: 1acecc2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/1acecc2ebf4df65353f8e579472d4a071fb3e1e7)
+- chore(test-setup): seed sandbox-26
+  - _Agustín Manessi_
+  - [Commit: 98b0dab](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/98b0dabbd4ee80a474fd37000c3dadc64a8ef41f)
+
+
