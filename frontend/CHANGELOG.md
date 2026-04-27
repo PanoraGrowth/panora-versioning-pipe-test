@@ -503,6 +503,18 @@
 - **fix**: resolve automated frontend bug (#2191)
   _Agustín Manessi_
   [Commit: 11c77a0c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/11c77a0c707c34df22fcf8edb21523a29992ea5a)
+- **fix**: resolve automated frontend bug (#2320)
+  _Agustín Manessi_
+  [Commit: 03e1d73a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/03e1d73adbe3673e74b4c239ea322a3405297321)
+- **fix**: resolve automated frontend bug (#2272)
+  _Agustín Manessi_
+  [Commit: 60c56ede](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/60c56edef9e600a056e10457c983d0b448595e06)
+- **fix**: resolve automated frontend bug (#2226)
+  _Agustín Manessi_
+  [Commit: 2e766a07](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/2e766a075aca182924cc36cc070036d69eb02e58)
+- **fix**: resolve automated frontend bug (#2191)
+  _Agustín Manessi_
+  [Commit: 11c77a0c](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/11c77a0c707c34df22fcf8edb21523a29992ea5a)
 
 - **fix**: resolve automated frontend bug (#2191)
   _Agustín Manessi_
