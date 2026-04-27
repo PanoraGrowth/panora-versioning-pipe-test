@@ -1484,3 +1484,13 @@
   - [Commit: b480da5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/b480da5bb46821b6fd9f9e57f6f260500aa297d3)
 
 
+## v29.1.1 (Hotfix) - 2026-04-27
+
+- fix: URGENT-PATCH rollback failing deploy (#2303)
+  - _Agustín Manessi_
+  - [Commit: 52ebd947](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/52ebd9477dcf76e31e93b4ece2115fbbce35879a)
+- chore(test-setup): seed sandbox-29
+  - _Agustín Manessi_
+  - [Commit: 942c89c8](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/942c89c8f0f7e303c8b270c9406d3a3b88f2f257)
+
+
