@@ -2533,3 +2533,16 @@
   - [Commit: 020a8e5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/020a8e5a3fd71b604e16728c8fca9336eeeae90b)
 
 
+## v21.2 - 2026-04-27
+
+- feat: valid pr title for squash merge (#2242)
+  - _Agustín Manessi_
+  - [Commit: 669cdfa](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/669cdfa8ae97abdc4ab8409559617b3a9725c72e)
+- feat: valid pr title for squash merge (#2206)
+  - _Agustín Manessi_
+  - [Commit: 43cc705](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/43cc7050b31bbd475392df44186e38ac5a413562)
+- chore(test-setup): seed sandbox-21
+  - _Agustín Manessi_
+  - [Commit: 020a8e5](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/020a8e5a3fd71b604e16728c8fca9336eeeae90b)
+
+
