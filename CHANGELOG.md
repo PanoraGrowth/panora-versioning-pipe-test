@@ -2526,3 +2526,22 @@
   - [Commit: decdce22](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/decdce22b97023ec00bdcfcf3cf6a5a606694036)
 
 
+## v9.1.1 (Hotfix) - 2026-04-27
+
+- hotfix: validate extended hotfix_targets with uat (#2295)
+  - _Agustín Manessi_
+  - [Commit: ca13b01a](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ca13b01af138584f59f22a926d98b05793a84c61)
+- hotfix: validate extended hotfix_targets with uat (#2270)
+  - _Agustín Manessi_
+  - [Commit: 6e52cd47](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/6e52cd477635331f192a7b87002e8a27f6cdb0c1)
+- hotfix: validate extended hotfix_targets with uat (#2231)
+  - _Agustín Manessi_
+  - [Commit: 7867575e](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/7867575edef707f1d9a8c68d578fa3fd7df35caa)
+- hotfix: validate extended hotfix_targets with uat (#2207)
+  - _Agustín Manessi_
+  - [Commit: 02a67c37](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/02a67c37c51fc5e7a9b9deb67a89206340a48158)
+- chore(test-setup): seed sandbox-09
+  - _Agustín Manessi_
+  - [Commit: decdce22](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/decdce22b97023ec00bdcfcf3cf6a5a606694036)
+
+
