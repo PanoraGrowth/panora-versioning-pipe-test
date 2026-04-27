@@ -476,6 +476,15 @@
 - **feat**: unified auth layer across backend and frontend (#2205)
   _Agustín Manessi_
   [Commit: acfb4ac](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/acfb4acedfe337031c7fa3b2a66b14ac27179d53)
+- **feat**: unified auth layer across backend and frontend (#2262)
+  _Agustín Manessi_
+  [Commit: dd2f7933](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/dd2f793352552246b1214753fab31418d57fc184)
+- **feat**: unified auth layer across backend and frontend (#2227)
+  _Agustín Manessi_
+  [Commit: f6221d70](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f6221d708171d083ca92c828e3ff30a88f03159c)
+- **feat**: unified auth layer across backend and frontend (#2205)
+  _Agustín Manessi_
+  [Commit: acfb4ace](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/acfb4acedfe337031c7fa3b2a66b14ac27179d53)
 
 - **feat**: unified auth layer across backend and frontend (#2205)
   _Agustín Manessi_
