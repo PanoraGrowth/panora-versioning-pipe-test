@@ -2303,3 +2303,10 @@
   - [Commit: ffc5162](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ffc51627d70f1f36c39ede627b04e0c9ac01e33e)
 
 
+## v4.2 - 2026-04-27
+
+- chore(test-setup): seed sandbox-04
+  - _Agustín Manessi_
+  - [Commit: ffc51627](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ffc51627d70f1f36c39ede627b04e0c9ac01e33e)
+
+
