@@ -2532,3 +2532,22 @@
   - [Commit: 3837edb0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3837edb0d14c5b156f8b5812d9e64249f3078391)
 
 
+## v15.2 - 2026-04-27
+
+- fix: resolve semver patch bump issue (#2319)
+  - _Agustín Manessi_
+  - [Commit: f3a823c2](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/f3a823c25fb08dfde1a64543c7fd16ea2cc769e8)
+- fix: resolve semver patch bump issue (#2281)
+  - _Agustín Manessi_
+  - [Commit: ad146352](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/ad14635249540fcee81fadc9e947ce0a664e8d25)
+- fix: resolve semver patch bump issue (#2237)
+  - _Agustín Manessi_
+  - [Commit: 88094abc](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/88094abc6752ff8a69cb19db72ea602b425fa773)
+- fix: resolve semver patch bump issue (#2199)
+  - _Agustín Manessi_
+  - [Commit: 62bc6c32](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/62bc6c32b45f35d5c9c25eda60a27a304cd67f12)
+- chore(test-setup): seed sandbox-15
+  - _Agustín Manessi_
+  - [Commit: 3837edb0](https://github.com/PanoraGrowth/panora-versioning-pipe-test/commit/3837edb0d14c5b156f8b5812d9e64249f3078391)
+
+
